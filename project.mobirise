@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "index.html",
+    "currentPage": "lsx-crate-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2198,8 +2198,7 @@
               "active": true,
               "link": "lsx-long-blocks.html",
               "alt": "LSx Long Blocks",
-              "title": "LSx Long Blocks",
-              "linkInNewWindow": true
+              "title": "LSx Long Blocks"
             }
           },
           "media3": {
@@ -2210,8 +2209,7 @@
               "active": true,
               "link": "lsx-complete-engines.html",
               "alt": "LSx Complete Engines",
-              "title": "LSx Complete Engines",
-              "linkInNewWindow": true
+              "title": "LSx Complete Engines"
             }
           },
           "media4": {
