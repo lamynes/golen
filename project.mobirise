@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-complete-engines.html",
+    "currentPage": "lsx-long-blocks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -14715,7 +14715,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/about-header-15.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/about-header-16.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
