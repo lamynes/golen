@@ -14716,7 +14716,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/about-header-12.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/about-header-13.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
