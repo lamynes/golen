@@ -1155,11 +1155,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-m3 .link {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
 }
 #menu-m3 .dropdown-item,
 #menu-m3 .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.812rem;
 }
 #menu-m3 .link:hover,
 #menu-m3 .dropdown-item:hover,
