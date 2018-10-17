@@ -68,4 +68,13 @@
 	<url>
 		<loc>https://test.golenengineservice.com/blogadmin.html</loc>
 	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/lsx-short-blocks.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/lsx-long-blocks.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/lsx-complete-engines.html</loc>
+	</url>
 </urlset>
