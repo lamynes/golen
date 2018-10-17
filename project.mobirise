@@ -2187,8 +2187,7 @@
               "active": true,
               "link": "lsx-short-blocks.html",
               "alt": "LSx Short Blocks",
-              "title": "LSx Short Blocks",
-              "linkInNewWindow": true
+              "title": "LSx Short Blocks"
             }
           },
           "media2": {
@@ -14716,7 +14715,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/about-header-13.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/about-header-14.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
