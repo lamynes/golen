@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-long-blocks.html",
+    "currentPage": "lsx-crate-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2181,7 +2181,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lsx-factory-replacement-sm-2.png",
+              "src": "@PROJECT_PATH@/assets/images/lsx-factory-replacement-sm-1.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -14529,7 +14529,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/about-header-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/about-3.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -14715,7 +14715,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/about-header-16.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/about-3.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
