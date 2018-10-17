@@ -2187,7 +2187,8 @@
               "active": true,
               "link": "lsx-short-blocks.html",
               "alt": "LSx Short Blocks",
-              "title": "LSx Short Blocks"
+              "title": "LSx Short Blocks",
+              "linkInNewWindow": true
             }
           },
           "media2": {
@@ -2198,7 +2199,8 @@
               "active": true,
               "link": "lsx-long-blocks.html",
               "alt": "LSx Long Blocks",
-              "title": "LSx Long Blocks"
+              "title": "LSx Long Blocks",
+              "linkInNewWindow": true
             }
           },
           "media3": {
@@ -2209,7 +2211,8 @@
               "active": true,
               "link": "lsx-complete-engines.html",
               "alt": "LSx Complete Engines",
-              "title": "LSx Complete Engines"
+              "title": "LSx Complete Engines",
+              "linkInNewWindow": true
             }
           },
           "media4": {
