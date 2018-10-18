@@ -4930,3 +4930,106 @@ h6,
   font-size: 15px;
   color: #ffffff;
 }
+
+
+#msg-box4-wy H3 {
+  font-size: 30px;
+  text-align: center;
+}
+#msg-box4-wy P {
+  font-size: 25px;
+}
+#msg-box4-wy DIV {
+  text-align: center;
+}
+#menu-w8 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-w8 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-w8 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-w8 .close-icon::before,
+#menu-w8 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-w8 .link,
+#menu-w8 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-w8 .link {
+  font-size: 0.75rem;
+}
+#menu-w8 .dropdown-item,
+#menu-w8 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-w8 .link:hover,
+#menu-w8 .dropdown-item:hover,
+#menu-w8 .link:focus,
+#menu-w8 .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-w8 .link[aria-expanded="true"],
+#menu-w8 .dropdown-menu {
+  background: #000000;
+}
+#menu-w8 .nav-dropdown-sm .link:focus,
+#menu-w8 .nav-dropdown-sm .link:hover,
+#menu-w8 .nav-dropdown-sm .dropdown-item:focus,
+#menu-w8 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-w8 .navbar,
+#menu-w8 .nav-dropdown-sm,
+#menu-w8 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-w8 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-w8 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-w8 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-w8 .bg-color.transparent.opened .link:hover,
+#menu-w8 .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-w8 .link[aria-expanded="true"],
+#menu-w8 .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-w8 A {
+  font-size: 12px;
+}
+#menu-w8 .btn {
+  font-size: 10px;
+}
+#header3-wa .mbr-section-title,
+#header3-wa .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-wa .mbr-section-subtitle {
+  color: #000000;
+  font-size: 20px;
+}
+#header3-wa .mbr-section-title DIV {
+  font-size: 36px;
+}
+#content6-wx P {
+  font-size: 20px;
+}
+#content1-wz P {
+  font-size: 20px;
+}
+#footer1-ww P {
+  font-size: 15px;
+  color: #ffffff;
+}
