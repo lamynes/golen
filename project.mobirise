@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-crate-engines.html",
+    "currentPage": "jeep-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -713,10 +713,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1006,7 +1006,7 @@
           "_styles": {
             "H3": {
               "font-size": "36px",
-              "text-align": "right",
+              "text-align": "center",
               "color": "#000000"
             },
             "P": {
@@ -1262,7 +1262,7 @@
           "_styles": {
             "H3": {
               "font-size": "36px",
-              "text-align": "right",
+              "text-align": "center",
               "color": "#000000"
             },
             "P": {
@@ -1404,7 +1404,7 @@
           "_styles": {
             "H3": {
               "font-size": "36px",
-              "text-align": "right",
+              "text-align": "center",
               "color": "#000000"
             },
             "I": {

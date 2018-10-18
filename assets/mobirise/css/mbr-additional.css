@@ -852,11 +852,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-kw .link {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
 }
 #menu-kw .dropdown-item,
 #menu-kw .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.812rem;
 }
 #menu-kw .link:hover,
 #menu-kw .dropdown-item:hover,
@@ -957,7 +957,7 @@ h6,
 }
 #msg-box4-8c H3 {
   font-size: 36px;
-  text-align: right;
+  text-align: center;
   color: #000000;
 }
 #msg-box4-8c P {
@@ -1012,7 +1012,7 @@ h6,
 }
 #msg-box4-8q H3 {
   font-size: 36px;
-  text-align: right;
+  text-align: center;
   color: #000000;
 }
 #msg-box4-8q P {
@@ -1040,7 +1040,7 @@ h6,
 }
 #msg-box4-8t H3 {
   font-size: 36px;
-  text-align: right;
+  text-align: center;
   color: #000000;
 }
 #msg-box4-8t I {
