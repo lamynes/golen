@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 1194,
+    "uniqCompNum": 1195,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -16792,7 +16792,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-size: 36px;\">SPECIFICATIONS</span>",
+          "title": "<span style=\"font-size: 36px;\">ENGINE SPECIFICATIONS</span>",
           "meta": "The 5.3L factory short block uses a new GM LS1 block with 3.780\" bore to produce the 327CI.",
           "_tags": [
             "Theme"
@@ -16822,7 +16822,7 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "text": "<p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered.</p><p><br></p><p>When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 2.  \n</p><p>Each Golen Engine Performance Street Engine comes standard with a “Three Year no Mileage Limit Warranty” to keep you confident and covered! \n</p><p>Feel free to contact us anytime for help choosing the perfect performance engine combination!! \n</p>",
