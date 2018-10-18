@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-complete-engines.html",
+    "currentPage": "lsx-crate-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 1159,
+    "uniqCompNum": 1160,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -2099,60 +2099,41 @@
           "text4": "Mobirise gives you the freedom to develop"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#262626"
+            },
+            ".mbr-section-title": {
+              "color": "#262626",
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle I": {
+              "font-size": "20px",
+              "color": "#90a878"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">Find the Right LSX Engine For Your Chevy</span>",
+          "meta": "<i>LAMYNES.PL</i>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "20px",
-              "text-align": "left",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#000000"
-            },
-            "UL": {
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "content1-5u",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>We use all new <b>GM Blocks</b> as the base foundation and meticulously machine each engine to ensure both performance and longevity. We can custom build our short blocks to work with your heads and can recommend compression ratios and custom camshafts to meet your hp goals.<br></p><p><br></p><ul><li>All new parts from <b>GM, Callies and Mahle</b><br></li></ul><ul><li>Balanced and Blueprinted<br></li></ul><ul><li>Each Engine Custom Built to Order<br></li></ul>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "20px",
-              "text-align": "left",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#000000"
-            },
-            "UL": {
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "content1-5v",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>We offer all new builds in both short and long block form as well complete turn key packages that comes dyno tested and tuned. All of our engines are built to order which allows you to customize the power level to suit your needs.</p><p><br></p><p>\n</p><p>\n</p><p>Optional parts include:</p><ul><li>Custom Cams</li></ul><ul><li>Aftermarket Cylinder heads and Intake Manifolds</li></ul><ul><li>Custom Valve Covers</li><li>Stainless Steel Headers</li><li>Billet Front Runner Kits</li><li>Stand Alone EFI Systems</li><li>Performance Transmissions</li></ul>"
+          "_name": "header3",
+          "_anchor": "header3-w7"
         },
         {
           "_params": {
@@ -2170,7 +2151,7 @@
             "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2542,6 +2523,62 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000"
+            },
+            "UL": {
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-5u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>We use all new <b>GM Blocks</b> as the base foundation and meticulously machine each engine to ensure both performance and longevity. We can custom build our short blocks to work with your heads and can recommend compression ratios and custom camshafts to meet your hp goals.<br></p><p><br></p><ul><li>All new parts from <b>GM, Callies and Mahle</b><br></li></ul><ul><li>Balanced and Blueprinted<br></li></ul><ul><li>Each Engine Custom Built to Order<br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000"
+            },
+            "UL": {
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "content1-5v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>We offer all new builds in both short and long block form as well complete turn key packages that comes dyno tested and tuned. All of our engines are built to order which allows you to customize the power level to suit your needs.</p><p><br></p><p>\n</p><p>\n</p><p>Optional parts include:</p><ul><li>Custom Cams</li></ul><ul><li>Aftermarket Cylinder heads and Intake Manifolds</li></ul><ul><li>Custom Valve Covers</li><li>Stainless Steel Headers</li><li>Billet Front Runner Kits</li><li>Stand Alone EFI Systems</li><li>Performance Transmissions</li></ul>"
         },
         {
           "_styles": {

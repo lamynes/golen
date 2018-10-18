@@ -1134,6 +1134,7 @@ h6,
 
 
 
+
 #menu-m3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1245,6 +1246,37 @@ h6,
 #extCounters3-5t .counter-subtitle {
   color: #fa461c;
 }
+#header3-w7 .mbr-section-title,
+#header3-w7 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-w7 .mbr-section-subtitle {
+  color: #262626;
+}
+#header3-w7 .mbr-section-title {
+  color: #262626;
+  font-size: 60px;
+}
+#header3-w7 .mbr-section-title SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
+  color: #000000;
+}
+#header3-w7 .mbr-section-subtitle I {
+  font-size: 20px;
+  color: #90a878;
+}
+#extFeatures7-rq P {
+  font-size: 20px;
+  text-align: center;
+}
+#extFeatures7-rq H4 {
+  font-size: 36px;
+  color: #000000;
+}
+#extFeatures7-rq B {
+  color: #000000;
+}
 #content1-5u P {
   font-size: 20px;
   text-align: left;
@@ -1265,17 +1297,6 @@ h6,
 #content1-5v UL {
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
-  color: #000000;
-}
-#extFeatures7-rq P {
-  font-size: 20px;
-  text-align: center;
-}
-#extFeatures7-rq H4 {
-  font-size: 36px;
-  color: #000000;
-}
-#extFeatures7-rq B {
   color: #000000;
 }
 #header3-lj .mbr-section-title,
