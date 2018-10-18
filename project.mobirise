@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "jeep-engines.html",
+    "currentPage": "lsx-crate-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2123,8 +2123,8 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgColor": "#ffffff"
           },
           "title": "<span style=\"font-weight: normal;\">Find the Right LSX Engine For Your Chevy</span>",
@@ -2144,21 +2144,21 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showIcons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "columns": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
           },
           "media1": {
             "image": {
@@ -2546,8 +2546,8 @@
           },
           "_anchor": "content1-5u",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "text": "<p>We use all new <b>GM Blocks</b> as the base foundation and meticulously machine each engine to ensure both performance and longevity. We can custom build our short blocks to work with your heads and can recommend compression ratios and custom camshafts to meet your hp goals.<br></p><p><br></p><ul><li>All new parts from <b>GM, Callies and Mahle</b><br></li></ul><ul><li>Balanced and Blueprinted<br></li></ul><ul><li>Each Engine Custom Built to Order<br></li></ul>"
@@ -2575,7 +2575,7 @@
           "_anchor": "content1-5v",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "3",
             "bgColor": "#ffffff"
           },
           "text": "<p>We offer all new builds in both short and long block form as well complete turn key packages that comes dyno tested and tuned. All of our engines are built to order which allows you to customize the power level to suit your needs.</p><p><br></p><p>\n</p><p>\n</p><p>Optional parts include:</p><ul><li>Custom Cams</li></ul><ul><li>Aftermarket Cylinder heads and Intake Manifolds</li></ul><ul><li>Custom Valve Covers</li><li>Stainless Steel Headers</li><li>Billet Front Runner Kits</li><li>Stand Alone EFI Systems</li><li>Performance Transmissions</li></ul>"
