@@ -2766,32 +2766,27 @@ h6,
 }
 
 
-#header1-jh .mbr-section-title {
+#msg-box8-xh .mbr-section-title,
+#msg-box8-xh p {
+  color: #fff;
+}
+#msg-box8-xh .mbr-section-title {
   color: #fac51c;
-  font-size: 80px;
+  font-size: 48px;
 }
-#header1-jh .mbr-section-lead {
-  font-size: 36px;
-}
-#header3-ji .mbr-section-title,
-#header3-ji .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-ji H3 {
+#msg-box8-xh .lead P {
   font-size: 30px;
 }
-#header3-ji .mbr-section-title {
-  color: #8c8c8c;
-  font-size: 36px;
+#extForm3-jk H2 {
+  color: #000000;
 }
-#content1-jl P {
-  text-align: center;
-  font-size: 20px;
-  color: #ffffff;
+#extForm3-jk .intro-box h5 DIV {
+  color: #000000;
+  font-size: 14px;
 }
-#social-buttons4-mw .mbr-section-title,
-#social-buttons4-mw .btn-social {
-  color: #fff;
+#extForm3-jk P {
+  color: #000000;
+  font-size: 17px;
 }
 #footer1-b3 P {
   font-size: 15px;
