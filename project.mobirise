@@ -16668,9 +16668,6 @@
             },
             "DIV": {
               "text-align": "center"
-            },
-            ".btn": {
-              "font-size": "17px"
             }
           },
           "_anchor": "msg-box4-x0"
