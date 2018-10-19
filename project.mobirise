@@ -16688,7 +16688,7 @@
               "size": 250
             }
           },
-          "title": "Chevy 5.3L LS1 Factory Short Block\n<br><div>Base Price $3499</div>",
+          "title": "<span style=\"font-weight: normal;\">Chevy 5.3L LS1 Factory Short Block\n<br></span><div><span style=\"font-weight: normal;\">Base Price $3499</span></div>",
           "text": "<p>The 5.3L factory short block uses a new GM LS1 block with 3.780\" bore to produce the 327CI.</p>",
           "_tags": [
             "Theme"
@@ -16707,6 +16707,9 @@
             "DIV": {
               "text-align": "center",
               "color": "#e68c07"
+            },
+            "SPAN": {
+              "font-size": "36px"
             }
           },
           "_anchor": "msg-box4-x0"

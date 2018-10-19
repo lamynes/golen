@@ -4965,6 +4965,9 @@ h6,
   text-align: center;
   color: #e68c07;
 }
+#msg-box4-x0 SPAN {
+  font-size: 36px;
+}
 #menu-x1 .hide-buttons .nav-btn {
   display: none !important;
 }
