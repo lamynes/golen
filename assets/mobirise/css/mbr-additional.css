@@ -4942,6 +4942,9 @@ h6,
 #msg-box4-x0 DIV {
   text-align: center;
 }
+#msg-box4-x0 .btn {
+  font-size: 17px;
+}
 #menu-x1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -5033,7 +5036,11 @@ h6,
 #content1-x4 P {
   font-size: 20px;
 }
-#footer1-x5 P {
-  font-size: 15px;
-  color: #ffffff;
+#contacts1-x9 P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-x9 STRONG {
+  font-size: 20px;
+  color: #000000;
 }
