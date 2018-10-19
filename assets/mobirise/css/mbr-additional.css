@@ -4932,6 +4932,27 @@ h6,
 }
 
 
+
+#header3-xc .mbr-section-title,
+#header3-xc .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-xc .mbr-section-subtitle {
+  color: #262626;
+}
+#header3-xc .mbr-section-title {
+  color: #262626;
+  font-size: 60px;
+}
+#header3-xc .mbr-section-title SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
+  color: #c1c1c1;
+}
+#header3-xc .mbr-section-subtitle I {
+  font-size: 20px;
+  color: #90a878;
+}
 #msg-box4-x0 H3 {
   font-size: 30px;
   text-align: center;
@@ -5033,11 +5054,11 @@ h6,
 #content1-x4 P {
   font-size: 20px;
 }
-#contacts1-x9 P {
+#contacts1-xb P {
   color: #000000;
   font-size: 18px;
 }
-#contacts1-x9 STRONG {
+#contacts1-xb STRONG {
   font-size: 20px;
   color: #000000;
 }
