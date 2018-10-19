@@ -5023,6 +5023,10 @@ h6,
 #header3-x2 .mbr-section-title DIV {
   font-size: 36px;
 }
+#header3-x2 .mbr-section-title SPAN {
+  color: #232323;
+  font-size: 46px;
+}
 #content6-x3 P {
   font-size: 20px;
 }
