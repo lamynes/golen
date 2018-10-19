@@ -16693,7 +16693,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">REQUEST MORE INFO</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://golenengineservice.com/wp-content/uploads/2017/07/5.3L-Factory-Replacement-Short-Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SAVE AS A PDF</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">REQUEST MORE INFO</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"assets/files/Chevy%205.3L%20LS1%20Factory%20Short%20Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SAVE AS A PDF</a>",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -16875,7 +16875,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered.</p><p><br></p><p>When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 2.  \n</p><p>Each Golen Engine Performance Street Engine comes standard with a “Three Year no Mileage Limit Warranty” to keep you confident and covered! \n</p><p>Feel free to contact us anytime for help choosing the perfect performance engine combination!! \n</p>",
+          "text": "<p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered. When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href=\"tel:1-800-591-9171\" class=\"text-warning\" style=\"background-color: rgb(255, 255, 255);\">1-800-591-9171</a> ext 2. Each Golen Engine Performance Street Engine comes standard with a “<b>Three Year no Mileage Limit Warranty</b>” to keep you confident and covered! Feel free to contact us anytime for help choosing the perfect performance engine combination!!</p>",
           "_tags": [
             "Theme"
           ],
