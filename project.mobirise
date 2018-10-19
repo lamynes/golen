@@ -16856,7 +16856,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm-w2.png",
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
               "width": 128,
               "active": true,
               "link": "",
