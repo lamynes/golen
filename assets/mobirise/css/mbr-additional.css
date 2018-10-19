@@ -4933,6 +4933,7 @@ h6,
 
 
 
+
 #header3-xc .mbr-section-title,
 #header3-xc .mbr-section-subtitle {
   text-align: center;
@@ -4947,7 +4948,7 @@ h6,
 #header3-xc .mbr-section-title SPAN {
   font-family: 'Oswald', sans-serif;
   font-size: 48px;
-  color: #c1c1c1;
+  color: #000000;
 }
 #header3-xc .mbr-section-subtitle I {
   font-size: 20px;
@@ -4964,6 +4965,8 @@ h6,
 #msg-box4-x0 DIV {
   text-align: center;
   color: #e68c07;
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
 }
 #msg-box4-x0 SPAN {
   font-size: 36px;
@@ -5060,11 +5063,11 @@ h6,
 #content1-x4 P {
   font-size: 20px;
 }
-#contacts1-xb P {
+#contacts1-xg P {
   color: #000000;
   font-size: 18px;
 }
-#contacts1-xb STRONG {
+#contacts1-xg STRONG {
   font-size: 20px;
   color: #000000;
 }
