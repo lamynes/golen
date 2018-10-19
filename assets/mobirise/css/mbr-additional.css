@@ -4959,9 +4959,11 @@ h6,
 }
 #msg-box4-x0 P {
   font-size: 25px;
+  color: #232323;
 }
 #msg-box4-x0 DIV {
   text-align: center;
+  color: #e68c07;
 }
 #menu-x1 .hide-buttons .nav-btn {
   display: none !important;
