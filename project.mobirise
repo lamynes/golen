@@ -16630,7 +16630,7 @@
               "size": 250
             }
           },
-          "title": "<div><span style=\"font-weight: normal;\">Base Price $3499</span></div>",
+          "title": "<div><span style=\"font-weight: normal;\">Base Price $3,499</span></div>",
           "text": "<p>The 5.3L factory short block uses a new GM LS1 block with 3.780\" bore to produce the 327CI.</p>",
           "_tags": [
             "Theme"
