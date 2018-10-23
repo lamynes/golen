@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "jeep-customer-photos.html",
+    "currentPage": "5-3L-SB.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16578,7 +16578,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "title": "<span style=\"font-weight: normal;\">GOLEN HIGH PERFORMANCE ENGINES</span>",
+          "title": "<span style=\"font-weight: normal;\">Chevy 5.3L LS1 Factory Short Block \n</span>",
           "meta": "<i>LAMYNES.PL</i>",
           "_tags": [
             "Theme"
@@ -16630,12 +16630,12 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Chevy 5.3L LS1 Factory Short Block\n<br></span><div><span style=\"font-weight: normal;\">Base Price $3499</span></div>",
+          "title": "<div><span style=\"font-weight: normal;\">Base Price $3499</span></div>",
           "text": "<p>The 5.3L factory short block uses a new GM LS1 block with 3.780\" bore to produce the 327CI.</p>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">REQUEST MORE INFO</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"assets/files/Chevy%205.3L%20LS1%20Factory%20Short%20Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SAVE AS A PDF</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"assets/files/Chevy%205.3L%20LS1%20Factory%20Short%20Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -16649,12 +16649,15 @@
             "DIV": {
               "text-align": "center",
               "color": "#e68c07",
-              "font-size": "12px",
+              "font-size": "48px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
             },
             "SPAN": {
               "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "17px"
             }
           },
           "_anchor": "msg-box4-x0"
@@ -16797,7 +16800,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block:&nbsp;</b>New GM 5.3 Block Honed with Torque Plates, Bore Size 3.780”, &nbsp;Line Honed with GM Main Bolts, Blueprinted Oil Clearances</p><p><b><br></b></p><p><b>Pistons:&nbsp;</b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings:&nbsp;</b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
+          "text1": "<p><b>Block:&nbsp;</b>New GM 5.3 Block Honed with Torque Plates, Bore Size 3.780”, Line Honed with GM Main Bolts, Blueprinted Oil Clearances</p><p><b><br></b></p><p><b>Pistons:&nbsp;</b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings:&nbsp;</b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
           "text2": "<p><b>Crank:&nbsp;</b>New GM Factory Crankshaft,Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods:&nbsp;</b>Scat  4340 Forged Steel I-Beam, 6.125” Length. ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
           "_tags": [
             "Theme"
@@ -16859,7 +16862,7 @@
           },
           "text1": "<strong>Address</strong><br>Golen Engine Service<br>17 Dracut Rd<br>Hudson, NH 03051&nbsp;<br>",
           "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 2.<br>Local: <a href=\"tel:1-603-886-3800\" class=\"text-warning\">1-603-886-3800</a>",
-          "text3": "<strong>Links</strong><br><a href=\"lsx-short-blocks.html\" class=\"text-warning\">LSx Short Blocks</a><br>\n<a href=\"lsx-long-blocks.html\" class=\"text-warning\">LSx Long Blocks</a><br><a href=\"lsx-complete-engines.html\" class=\"text-warning\">LSx Complete Engines</a>",
+          "text3": "<strong>Links</strong><br><a href=\"shipping.html\" class=\"text-warning\">Shipping</a><br><a href=\"warranty.html\" class=\"text-warning\">Warranty</a><br><a href=\"shop-tour.html\" class=\"text-warning\">360° Shop Tour</a>",
           "_tags": [
             "Theme"
           ],

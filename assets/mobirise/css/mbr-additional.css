@@ -4960,11 +4960,14 @@ h6,
 #msg-box4-x0 DIV {
   text-align: center;
   color: #e68c07;
-  font-size: 12px;
+  font-size: 48px;
   font-family: 'Oswald', sans-serif;
 }
 #msg-box4-x0 SPAN {
   font-size: 36px;
+}
+#msg-box4-x0 .btn {
+  font-size: 17px;
 }
 #menu-x1 .hide-buttons .nav-btn {
   display: none !important;
