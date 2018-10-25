@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-short-blocks.html",
+    "currentPage": "RHS-454ci-700hp-long-block.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 1360,
+    "uniqCompNum": 1430,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -3482,7 +3482,7 @@
       "settings": {
         "meta_descr": "We offer a full line of LT1 short and long block engines that range from 400hp to 700hp. Each engine is balanced and blue printed to ensure maximum performance and reliability and they are all covered under our three year warranty.",
         "title": "LT1-LT4 Engines",
-        "order": 43
+        "order": 50
       },
       "components": [
         {
@@ -4182,7 +4182,7 @@
       "settings": {
         "meta_descr": "Golen Engine offers high performance race engines for Road Racing, Drag Racing, Formula Drift Racing, Circle Track Racing, Off Road Racing & Air Boat Racing.",
         "title": "Race Car Engines",
-        "order": 46
+        "order": 53
       },
       "components": [
         {
@@ -5195,7 +5195,7 @@
       "settings": {
         "meta_descr": "Here is the Golen Engine Service 12,000 Square Foot facility located in Hudson, NH. All operations from machine work to dyno testing are done in house to ensure high quality.",
         "title": "Dyno Tuning Service",
-        "order": 47
+        "order": 54
       },
       "components": [
         {
@@ -9411,7 +9411,7 @@
       "settings": {
         "meta_descr": "Golen Engine offers high performance muscle car engines for Chevy, Pontiac, Chrysler and Ford.",
         "title": "Muscle Car Engines",
-        "order": 45
+        "order": 52
       },
       "components": [
         {
@@ -10642,7 +10642,7 @@
       "settings": {
         "meta_descr": "Golen Engine Services offers high-performance LT1 / LT4 engines for 1993 to 1997 as well as other years. Contact Us to Learn More!",
         "title": "LT1 Performance Engines",
-        "order": 44,
+        "order": 51,
         "header_custom": ""
       },
       "components": [
@@ -16088,7 +16088,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Engine Size</th><th>Base Price</th><th>Spec Sheet</th></tr></thead><tbody><tr><td>LY6 / LQ9 408ci 550hp</td><td>LY6 $8,799 / LQ9 $8,199</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2017/07/LY6-LQ9-408ci-550hp-Long-Block.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS2 402ci 550hp</td><td>$9499</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2017/07/LS2-402ci-550hp-Long-Block.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS3 416ci 605hp</td><td>$9,999</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2017/07/LS3-416ci-605hp-Long-Block.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS7 427ci 650hp WS /&nbsp;</td><td>WS $12,499 / DS z06 $13,199</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-427ci-650hp-WS-DS.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS7 440ci 700hp WS / DS</td><td>WS $12,699 / DS z06 $13,399</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-440ci-700hp-WS-DS-1.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LSx 427ci Boosted</td><td>$14,599</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LSx-427ci-Boosted-1.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LSx 454ci 700hp</td><td>$12,499</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LSx-454ci-700hp-1.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>RHS 454ci 700hp</td><td>$13,699</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/RHS-454ci-700hp.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>RHS 502ci 800hp</td><td>$18,699</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/RHS-502ci-800hp-1.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr></tbody>",
+          "table": "<thead><tr><th>Engine Size</th><th>Base Price</th><th>Spec Sheet</th></tr></thead><tbody><tr><td>LY6 / LQ9 408ci 550hp</td><td>LY6 $8,799 / LQ9 $8,199</td><td><a href=\"LY6-LQ9-408ci-550hp-long-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS2 402ci 550hp</td><td>$9499</td><td><a href=\"LS2-402ci-550hp-long-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS3 416ci 605hp</td><td>$9,999</td><td><a href=\"LS3-416ci-605hp-long-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS7 427ci 650hp WS /&nbsp;</td><td>WS $12,499 / DS z06 $13,199</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-427ci-650hp-WS-DS.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS7 440ci 700hp WS / DS</td><td>WS $12,699 / DS z06 $13,399</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-440ci-700hp-WS-DS-1.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LSx 427ci Boosted</td><td>$14,599</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LSx-427ci-Boosted-1.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LSx 454ci 700hp</td><td>$12,499</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LSx-454ci-700hp-1.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>RHS 454ci 700hp</td><td>$13,699</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/RHS-454ci-700hp.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr><tr><td>RHS 502ci 800hp</td><td>$18,699</td><td><a href=\"https://golenengineservice.com/wp-content/uploads/2018/02/RHS-502ci-800hp-1.pdf\" target=\"_blank\" class=\"text-warning\">View Specs</a></td></tr></tbody>",
           "_anchor": "extTable1-ty"
         },
         {
@@ -16173,7 +16173,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 42
+        "order": 49
       },
       "components": [
         {
@@ -24060,6 +24060,2364 @@
             }
           },
           "_anchor": "contacts1-10z"
+        }
+      ]
+    },
+    "LY6-LQ9-408ci-550hp-long-block.html": {
+      "settings": {
+        "title": "LY6 / LQ9 408ci 550hp Long Block",
+        "meta_descr": "LY6 / LQ9 408ci 550hp Long Block",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 42
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#262626"
+            },
+            ".mbr-section-title": {
+              "color": "#262626",
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle I": {
+              "font-size": "20px",
+              "color": "#90a878"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">CHEVY LQ9 408ci 550hp LONG BLOCK</span>",
+          "meta": "<i>LAMYNES.PL</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11s"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rhs-502ci-800hp-long-block-sm.png",
+              "link": "",
+              "alt": "CHEVY LQ9 408ci 550hp LONG BLOCK",
+              "title": "CHEVY LQ9 408ci 550hp LONG BLOCK",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<div><span style=\"font-weight: normal;\">Base Price LY6 $8,799 / LQ9 $8,199</span></div>",
+          "text": "<p>The 408ci makes max power and torque with a hydraulic cam which\nis very street able but also gives you the sound you are looking for!!</p><p><b>Peak Horsepower: </b>550bhp @ 6400 rpm\n<br><b>Peak Torque:</b> 540lb/ft @ 4800 rpm\n<br><b>Compression Ratio:</b> 11.5:1\n<br><b>Operating Range:</b> 2300 – 6300rpm\n<br><b>Required Fuel:</b> 91+ Octane Pump Gasoline&nbsp;<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2017/07/LY6-LQ9-408ci-550hp-Long-Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "25px",
+              "color": "#232323"
+            },
+            "DIV": {
+              "text-align": "center",
+              "color": "#e68c07",
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+            },
+            "SPAN": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box4-11t"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            "A": {
+              "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"jeep-engines.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">JEEP ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-engines.html\" aria-expanded=\"false\">Jeep 4.6 Stroker Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-testimonials.html\" aria-expanded=\"false\">Jeep Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-build-gallery.html\" aria-expanded=\"false\">Jeep Build Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-technical-instructions.html\" aria-expanded=\"false\">Jeep Technical Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-customer-photos.html\" aria-expanded=\"false\">Jeep Customer Photos</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">CHEVY ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">LSx Crate Engines</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-lt4-engines.html\">LT1/LT4 Engines 2014-UP Direct Injection</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-performance-engines.html\">LT1 Performance Engines 1993-1997</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"muscle-car-engines.html\" aria-expanded=\"false\">MUSCLE CAR ENGINES&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"race-car-engines.html\" aria-expanded=\"false\">RACE ENGINES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\">Dyno Tuning Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"machine-shop-services.html\" aria-expanded=\"false\">Machine Shop Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop-tour.html\">360° Shop Tour</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shipping.html\">Shipping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"warranty.html\">Warranty</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy-policy.html\">Privacy Policy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:1-800-591-9171\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"tel:1-800-591-9171\">1-800-591-9171\n<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"contact-us.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm-w-1.png",
+              "height": 128,
+              "alt": "Golen Engine",
+              "link": "index.html",
+              "title": "Golen Engine",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel: 1-800-591-9171\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GOLEN ENGINE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-11u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">BLOCK SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Block: </b>Seasoned GM LQ9 or New LY6 Cast Iron Block, Bore Size 4.030\", Zero Decked, Honed with Torque Plates and Pressure Washed, New Durabond Cam Bearings Installed, Line Honed, ARP Main Studs</p><p><br></p><p><b>Pistons: </b>Mahle Forged pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n</p><p><br></p><p><b>Lifters:</b> Comp Cams Hydraulic Roller</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets, GM Cover Gaskets</p>",
+          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Callies Comp Star 4340 Forged H-Beam, 6.125” length</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly</p><p><br></p><p><b>Camshaft: </b>Comp Cams Hydraulic Roller</p><p><br></p><p><b>Timing Sets: </b>Cloyes Billet Hex Adjust Roller</p><p><br></p><p><b>Oil Delivery: </b>Melling Select Performance\n</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-11w"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">CYLINDER HEAD SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-126"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Type: </b>Factory GM LS3 Aluminum Bowl Ported, Three angle performance valve job</p><p><br></p><p><b>Intake Valves: </b>Manley Stainless Steel 2.16”</p><p><br></p><p><b>Exhaust Valves: </b>Manley Stainless Steel 1.59”\n</p><p><br></p><p><b>Head Bolts:</b>&nbsp;ARP Performance</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets, GM Cover Gaskets</p>",
+          "text2": "<p><b>Combustion Chamber:&nbsp;</b>70cc\n</p><p><br></p><p><b>Flow: </b>340CFM @ .600” Lift</p><p><br></p><p><b>Spring Kit: </b>Polished Double Valve Spring, Light Weight Tool Steel Retainers and Hardened Locks</p><p><br></p><p><b>Rocker Arms: </b>GM Factory 1.7 Ratio</p><p><br></p><p><b>Pushrods: </b>Smith Brothers 5/16 .083” Wall Hardened</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-127"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered. When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href=\"tel:1-800-591-9171\" class=\"text-warning\" style=\"background-color: rgb(255, 255, 255);\">1-800-591-9171</a> ext 2. Each Golen Engine Performance Street Engine comes standard with a “<b>Three Year no Mileage Limit Warranty</b>” to keep you confident and covered! Feel free to contact us anytime for help choosing the perfect performance engine combination!!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-11x"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "Golen Engine Service",
+              "title": "Golen Engine Service"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><a href=\"https://goo.gl/maps/q9Fs3eGSvpP2\" class=\"text-warning\">Golen Engine Service</a><br>17 Dracut Rd<br>Hudson, NH 03051&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 2.<br>Local: <a href=\"tel:1-603-886-3800\" class=\"text-warning\">1-603-886-3800</a>",
+          "text3": "<strong>Links</strong><br><a href=\"shipping.html\" class=\"text-warning\">Shipping</a><br><a href=\"warranty.html\" class=\"text-warning\">Warranty</a><br><a href=\"shop-tour.html\" class=\"text-warning\">360° Shop Tour</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-11y"
+        }
+      ]
+    },
+    "LS2-402ci-550hp-long-block.html": {
+      "settings": {
+        "title": "LS2 402ci 550hp Long Block",
+        "meta_descr": "LS2 402ci 550hp Long Block",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 43
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#262626"
+            },
+            ".mbr-section-title": {
+              "color": "#262626",
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle I": {
+              "font-size": "20px",
+              "color": "#90a878"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">CHEVY LS2 402ci 550hp LONG BLOCK</span>",
+          "meta": "<i>LAMYNES.PL</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-128"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rhs-502ci-800hp-long-block-sm.png",
+              "link": "",
+              "alt": "CHEVY LS2 402ci 550hp LONG BLOCK",
+              "title": "CHEVY LS2 402ci 550hp LONG BLOCK",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<div><span style=\"font-weight: normal;\">Base Price $9,499</span></div>",
+          "text": "<p>The 402ci makes max power and torque with a hydraulic cam which\nis very street able but also gives you the sound you are looking for!!<br></p><p><b>Peak Horsepower: </b>550bhp @ 6400 rpm\n<br><b>Peak Torque:</b> 540lb/ft @ 4800 rpm\n<br><b>Compression Ratio:</b> 11.5:1\n<br><b>Operating Range:</b> 2300 – 6300rpm\n<br><b>Required Fuel:</b> 91+ Octane Pump Gasoline&nbsp;<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2017/07/LS2-402ci-550hp-Long-Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "25px",
+              "color": "#232323"
+            },
+            "DIV": {
+              "text-align": "center",
+              "color": "#e68c07",
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+            },
+            "SPAN": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box4-129"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            "A": {
+              "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"jeep-engines.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">JEEP ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-engines.html\" aria-expanded=\"false\">Jeep 4.6 Stroker Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-testimonials.html\" aria-expanded=\"false\">Jeep Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-build-gallery.html\" aria-expanded=\"false\">Jeep Build Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-technical-instructions.html\" aria-expanded=\"false\">Jeep Technical Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-customer-photos.html\" aria-expanded=\"false\">Jeep Customer Photos</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">CHEVY ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">LSx Crate Engines</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-lt4-engines.html\">LT1/LT4 Engines 2014-UP Direct Injection</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-performance-engines.html\">LT1 Performance Engines 1993-1997</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"muscle-car-engines.html\" aria-expanded=\"false\">MUSCLE CAR ENGINES&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"race-car-engines.html\" aria-expanded=\"false\">RACE ENGINES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\">Dyno Tuning Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"machine-shop-services.html\" aria-expanded=\"false\">Machine Shop Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop-tour.html\">360° Shop Tour</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shipping.html\">Shipping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"warranty.html\">Warranty</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy-policy.html\">Privacy Policy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:1-800-591-9171\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"tel:1-800-591-9171\">1-800-591-9171\n<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"contact-us.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm-w-1.png",
+              "height": 128,
+              "alt": "Golen Engine",
+              "link": "index.html",
+              "title": "Golen Engine",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel: 1-800-591-9171\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GOLEN ENGINE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-12a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">BLOCK SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Block: </b>New GM LS2 Aluminum Block, Bore Size 4.030\", Zero Decked, Honed with Torque Plates and Pressure Washed, New Durabond Cam Bearings Installed, Line Honed, ARP Main Studs</p><p><br></p><p><b>Pistons: </b>Mahle Forged pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n</p><p><br></p><p><b>Lifters:</b> Comp Cams Hydraulic Roller</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets, GM Cover Gaskets</p>",
+          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly</p><p><br></p><p><b>Camshaft: </b>Comp Cams Hydraulic Roller</p><p><br></p><p><b>Timing Sets: </b>Cloyes Billet Hex Adjust Roller</p><p><br></p><p><b>Oil Delivery: </b>Melling Select Performance\n</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-12c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">CYLINDER HEAD SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Type: </b>Factory GM LS3 Aluminum Bowl Ported, Three angle performance valve job</p><p><br></p><p><b>Intake Valves: </b>Manley Stainless Steel 2.16”</p><p><br></p><p><b>Exhaust Valves: </b>Manley Stainless Steel 1.59”\n</p><p><br></p><p><b>Head Bolts:</b>&nbsp;ARP Performance</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets, GM Cover Gaskets</p>",
+          "text2": "<p><b>Combustion Chamber:&nbsp;</b>70cc\n</p><p><br></p><p><b>Flow: </b>340CFM @ .600” Lift</p><p><br></p><p><b>Spring Kit: </b>Polished Double Valve Spring, Light Weight Tool Steel Retainers and Hardened Locks</p><p><br></p><p><b>Rocker Arms: </b>GM Factory 1.7 Ratio</p><p><br></p><p><b>Pushrods: </b>Smith Brothers 5/16 .083” Wall Hardened</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-12e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered. When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href=\"tel:1-800-591-9171\" class=\"text-warning\" style=\"background-color: rgb(255, 255, 255);\">1-800-591-9171</a> ext 2. Each Golen Engine Performance Street Engine comes standard with a “<b>Three Year no Mileage Limit Warranty</b>” to keep you confident and covered! Feel free to contact us anytime for help choosing the perfect performance engine combination!!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-12f"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "Golen Engine Service",
+              "title": "Golen Engine Service"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><a href=\"https://goo.gl/maps/q9Fs3eGSvpP2\" class=\"text-warning\">Golen Engine Service</a><br>17 Dracut Rd<br>Hudson, NH 03051&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 2.<br>Local: <a href=\"tel:1-603-886-3800\" class=\"text-warning\">1-603-886-3800</a>",
+          "text3": "<strong>Links</strong><br><a href=\"shipping.html\" class=\"text-warning\">Shipping</a><br><a href=\"warranty.html\" class=\"text-warning\">Warranty</a><br><a href=\"shop-tour.html\" class=\"text-warning\">360° Shop Tour</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-12g"
+        }
+      ]
+    },
+    "LS3-416ci-605hp-long-block.html": {
+      "settings": {
+        "title": "LS3 416ci 605hp Long Block",
+        "meta_descr": "LS3 416ci 605hp Long Block",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 44
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#262626"
+            },
+            ".mbr-section-title": {
+              "color": "#262626",
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle I": {
+              "font-size": "20px",
+              "color": "#90a878"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">CHEVY LS3 416ci 605hp LONG BLOCK</span>",
+          "meta": "<i>LAMYNES.PL</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12h"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rhs-502ci-800hp-long-block-sm.png",
+              "link": "",
+              "alt": "CHEVY LS3 416ci 605hp LONG BLOCK",
+              "title": "CHEVY LS3 416ci 605hp LONG BLOCK",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<div><span style=\"font-weight: normal;\">Base Price $9,999</span></div>",
+          "text": "<p>The 416ci makes max power and torque with a hydraulic cam which\nis very street able but also gives you the sound you are looking for!!<br></p><p><b>Peak Horsepower: </b>605bhp @ 6600 rpm<br><b>Peak Torque:</b> 540lb/ft @ 4800 rpm\n<br><b>Compression Ratio:</b> 11.5:1\n<br><b>Operating Range:</b> 2300 – 6300rpm\n<br><b>Required Fuel:</b> 91+ Octane Pump Gasoline&nbsp;<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2017/07/LS3-416ci-605hp-Long-Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "25px",
+              "color": "#232323"
+            },
+            "DIV": {
+              "text-align": "center",
+              "color": "#e68c07",
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+            },
+            "SPAN": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box4-12i"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            "A": {
+              "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"jeep-engines.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">JEEP ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-engines.html\" aria-expanded=\"false\">Jeep 4.6 Stroker Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-testimonials.html\" aria-expanded=\"false\">Jeep Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-build-gallery.html\" aria-expanded=\"false\">Jeep Build Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-technical-instructions.html\" aria-expanded=\"false\">Jeep Technical Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-customer-photos.html\" aria-expanded=\"false\">Jeep Customer Photos</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">CHEVY ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">LSx Crate Engines</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-lt4-engines.html\">LT1/LT4 Engines 2014-UP Direct Injection</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-performance-engines.html\">LT1 Performance Engines 1993-1997</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"muscle-car-engines.html\" aria-expanded=\"false\">MUSCLE CAR ENGINES&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"race-car-engines.html\" aria-expanded=\"false\">RACE ENGINES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\">Dyno Tuning Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"machine-shop-services.html\" aria-expanded=\"false\">Machine Shop Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop-tour.html\">360° Shop Tour</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shipping.html\">Shipping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"warranty.html\">Warranty</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy-policy.html\">Privacy Policy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:1-800-591-9171\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"tel:1-800-591-9171\">1-800-591-9171\n<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"contact-us.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm-w-1.png",
+              "height": 128,
+              "alt": "Golen Engine",
+              "link": "index.html",
+              "title": "Golen Engine",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel: 1-800-591-9171\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GOLEN ENGINE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-12j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">BLOCK SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Block: </b>New GM LS3 Aluminum Block, Bore Size 4.030\", Zero Decked, Honed with Torque Plates and Pressure Washed, New Durabond Cam Bearings Installed, Line Honed, ARP Main Studs</p><p><br></p><p><b>Pistons: </b>Mahle Forged pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n</p><p><br></p><p><b>Lifters:</b> Comp Cams Hydraulic Roller</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets, GM Cover Gaskets</p>",
+          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly</p><p><br></p><p><b>Camshaft: </b>Comp Cams Hydraulic Roller</p><p><br></p><p><b>Timing Sets: </b>Cloyes Billet Hex Adjust Roller</p><p><br></p><p><b>Oil Delivery: </b>Melling Select Performance\n</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-12l"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">CYLINDER HEAD SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12m"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Type: </b>Factory GM LS3 Aluminum Bowl Ported, Three angle performance valve job</p><p><br></p><p><b>Intake Valves: </b>Manley Stainless Steel 2.16”</p><p><br></p><p><b>Exhaust Valves: </b>Manley Stainless Steel 1.59”\n</p><p><br></p><p><b>Head Bolts:</b>&nbsp;ARP Performance</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets, GM Cover Gaskets</p>",
+          "text2": "<p><b>Combustion Chamber:&nbsp;</b>70cc\n</p><p><br></p><p><b>Flow: </b>340CFM @ .600” Lift</p><p><br></p><p><b>Spring Kit: </b>Polished Double Valve Spring, Light Weight Tool Steel Retainers and Hardened Locks</p><p><br></p><p><b>Rocker Arms: </b>GM Factory 1.7 Ratio</p><p><br></p><p><b>Pushrods: </b>Smith Brothers 5/16 .083” Wall Hardened</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-12n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered. When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href=\"tel:1-800-591-9171\" class=\"text-warning\" style=\"background-color: rgb(255, 255, 255);\">1-800-591-9171</a> ext 2. Each Golen Engine Performance Street Engine comes standard with a “<b>Three Year no Mileage Limit Warranty</b>” to keep you confident and covered! Feel free to contact us anytime for help choosing the perfect performance engine combination!!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-12o"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "Golen Engine Service",
+              "title": "Golen Engine Service"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><a href=\"https://goo.gl/maps/q9Fs3eGSvpP2\" class=\"text-warning\">Golen Engine Service</a><br>17 Dracut Rd<br>Hudson, NH 03051&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 2.<br>Local: <a href=\"tel:1-603-886-3800\" class=\"text-warning\">1-603-886-3800</a>",
+          "text3": "<strong>Links</strong><br><a href=\"shipping.html\" class=\"text-warning\">Shipping</a><br><a href=\"warranty.html\" class=\"text-warning\">Warranty</a><br><a href=\"shop-tour.html\" class=\"text-warning\">360° Shop Tour</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-12p"
+        }
+      ]
+    },
+    "LS7-427ci-650hp-ws-ds-long-block.html": {
+      "settings": {
+        "title": "LS7 427ci 650hp WS / DS Long Block",
+        "meta_descr": "LS7 427ci 650hp WS / DS Long Block",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 45
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#262626"
+            },
+            ".mbr-section-title": {
+              "color": "#262626",
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle I": {
+              "font-size": "20px",
+              "color": "#90a878"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">CHEVY LS7 427ci 650hp LONG BLOCK</span>",
+          "meta": "<i>LAMYNES.PL</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12q"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rhs-502ci-800hp-long-block-sm.png",
+              "link": "",
+              "alt": "CHEVY LS7 427ci 650hp LONG BLOCK",
+              "title": "CHEVY LS7 427ci 650hp LONG BLOCK",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<div><span style=\"font-weight: normal;\">Base Price Wet Sump $12,499 / Dry Sump Z06 $13,199</span></div>",
+          "text": "<p>The 427ci makes max power and torque with a hydraulic cam which\nis very street able but also gives you the sound you are looking for!!<br></p><p><b>Peak Horsepower: </b>650bhp @ 6800 rpm<br><b>Peak Torque:</b> 580lb/ft @ 5000 rpm<br><b>Compression Ratio:</b> 11.5:1\n<br><b>Operating Range:</b> 2500 – 6800rpm<br><b>Required Fuel:</b> 91+ Octane Pump Gasoline&nbsp;<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-427ci-650hp-WS-DS.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "25px",
+              "color": "#232323"
+            },
+            "DIV": {
+              "text-align": "center",
+              "color": "#e68c07",
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+            },
+            "SPAN": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box4-12r"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            "A": {
+              "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"jeep-engines.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">JEEP ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-engines.html\" aria-expanded=\"false\">Jeep 4.6 Stroker Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-testimonials.html\" aria-expanded=\"false\">Jeep Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-build-gallery.html\" aria-expanded=\"false\">Jeep Build Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-technical-instructions.html\" aria-expanded=\"false\">Jeep Technical Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-customer-photos.html\" aria-expanded=\"false\">Jeep Customer Photos</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">CHEVY ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">LSx Crate Engines</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-lt4-engines.html\">LT1/LT4 Engines 2014-UP Direct Injection</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-performance-engines.html\">LT1 Performance Engines 1993-1997</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"muscle-car-engines.html\" aria-expanded=\"false\">MUSCLE CAR ENGINES&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"race-car-engines.html\" aria-expanded=\"false\">RACE ENGINES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\">Dyno Tuning Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"machine-shop-services.html\" aria-expanded=\"false\">Machine Shop Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop-tour.html\">360° Shop Tour</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shipping.html\">Shipping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"warranty.html\">Warranty</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy-policy.html\">Privacy Policy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:1-800-591-9171\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"tel:1-800-591-9171\">1-800-591-9171\n<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"contact-us.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm-w-1.png",
+              "height": 128,
+              "alt": "Golen Engine",
+              "link": "index.html",
+              "title": "Golen Engine",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel: 1-800-591-9171\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GOLEN ENGINE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-12s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">BLOCK SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Block: </b>New GM LS7 Aluminum Block, Bore Size 4.125\", Zero Decked, Honed with Torque Plates and Pressure Washed, New Durabond Cam Bearings Installed, Line Honed, ARP Main Studs</p><p><br></p><p><b>Pistons: </b>Mahle Forged pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n</p><p><br></p><p><b>Lifters:</b> Comp Cams Hydraulic Roller</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets</p>",
+          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly</p><p><br></p><p><b>Camshaft: </b>Comp Cams Hydraulic Roller</p><p><br></p><p><b>Timing Sets: </b>Cloyes Billet Hex Adjust Roller</p><p><br></p><p><b>Oil Delivery: </b>Melling Select Performance\n</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-12u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">CYLINDER HEAD SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Type: </b>Trick Flow LS7 Aluminum CNC Ported</p><p><br></p><p><b>Intake Valves: </b>Manley Stainless Steel 2.16”</p><p><br></p><p><b>Exhaust Valves: </b>Manley Stainless Steel 1.6”\n</p><p><br></p><p><b>Head Bolts:</b>&nbsp;ARP Performance</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets, GM Cover Gaskets</p>",
+          "text2": "<p><b>Combustion Chamber:&nbsp;</b>70cc\n</p><p><br></p><p><b>Flow: </b>360CFM @ .600” Lift</p><p><br></p><p><b>Spring Kit: </b>PAC Racing Polished Double Valve Spring, Light Weight Tool Steel Retainers and Hardened Locks</p><p><br></p><p><b>Rocker Arms: </b>GM Factory 1.7 Ratio</p><p><br></p><p><b>Pushrods: </b>Smith Brothers 3/8 .083” Wall Hardened</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-12w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered. When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href=\"tel:1-800-591-9171\" class=\"text-warning\" style=\"background-color: rgb(255, 255, 255);\">1-800-591-9171</a> ext 2. Each Golen Engine Performance Street Engine comes standard with a “<b>Three Year no Mileage Limit Warranty</b>” to keep you confident and covered! Feel free to contact us anytime for help choosing the perfect performance engine combination!!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-12x"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "Golen Engine Service",
+              "title": "Golen Engine Service"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><a href=\"https://goo.gl/maps/q9Fs3eGSvpP2\" class=\"text-warning\">Golen Engine Service</a><br>17 Dracut Rd<br>Hudson, NH 03051&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 2.<br>Local: <a href=\"tel:1-603-886-3800\" class=\"text-warning\">1-603-886-3800</a>",
+          "text3": "<strong>Links</strong><br><a href=\"shipping.html\" class=\"text-warning\">Shipping</a><br><a href=\"warranty.html\" class=\"text-warning\">Warranty</a><br><a href=\"shop-tour.html\" class=\"text-warning\">360° Shop Tour</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-12y"
+        }
+      ]
+    },
+    "LS7-440ci-700hp-long-block.html": {
+      "settings": {
+        "title": "LS7 440ci 700hp Long Block",
+        "meta_descr": "LS7 440ci 700hp Long Block",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 46
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#262626"
+            },
+            ".mbr-section-title": {
+              "color": "#262626",
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle I": {
+              "font-size": "20px",
+              "color": "#90a878"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">CHEVY LS7 440ci 700hp WS / DS LONG BLOCK</span>",
+          "meta": "<i>LAMYNES.PL</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12z"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rhs-502ci-800hp-long-block-sm.png",
+              "link": "",
+              "alt": "CHEVY LS7 427ci 650hp LONG BLOCK",
+              "title": "CHEVY LS7 427ci 650hp LONG BLOCK",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<div><span style=\"font-weight: normal;\">Base Price Wet Sump $12,699 / Dry Sump Z06 $13,399</span></div>",
+          "text": "<p>The 440ci makes max power and torque with a hydraulic cam which\nis very street able but also gives you the sound you are looking for!!<br></p><p><b>Peak Horsepower: </b>700bhp @ 6700 rpm<br><b>Peak Torque:</b> 600lb/ft @ 5200 rpm<br><b>Compression Ratio:</b> 11.5:1\n<br><b>Operating Range:</b> 3000 – 7000rpm<br><b>Required Fuel:</b> 91+ Octane Pump Gasoline&nbsp;<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-440ci-700hp-WS-DS.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "25px",
+              "color": "#232323"
+            },
+            "DIV": {
+              "text-align": "center",
+              "color": "#e68c07",
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+            },
+            "SPAN": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box4-130"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            "A": {
+              "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"jeep-engines.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">JEEP ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-engines.html\" aria-expanded=\"false\">Jeep 4.6 Stroker Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-testimonials.html\" aria-expanded=\"false\">Jeep Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-build-gallery.html\" aria-expanded=\"false\">Jeep Build Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-technical-instructions.html\" aria-expanded=\"false\">Jeep Technical Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-customer-photos.html\" aria-expanded=\"false\">Jeep Customer Photos</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">CHEVY ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">LSx Crate Engines</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-lt4-engines.html\">LT1/LT4 Engines 2014-UP Direct Injection</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-performance-engines.html\">LT1 Performance Engines 1993-1997</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"muscle-car-engines.html\" aria-expanded=\"false\">MUSCLE CAR ENGINES&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"race-car-engines.html\" aria-expanded=\"false\">RACE ENGINES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\">Dyno Tuning Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"machine-shop-services.html\" aria-expanded=\"false\">Machine Shop Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop-tour.html\">360° Shop Tour</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shipping.html\">Shipping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"warranty.html\">Warranty</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy-policy.html\">Privacy Policy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:1-800-591-9171\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"tel:1-800-591-9171\">1-800-591-9171\n<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"contact-us.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm-w-1.png",
+              "height": 128,
+              "alt": "Golen Engine",
+              "link": "index.html",
+              "title": "Golen Engine",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel: 1-800-591-9171\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GOLEN ENGINE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-131"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">BLOCK SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-132"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Block: </b>New GM LS7 Aluminum Block, Bore Size 4.125\", Zero Decked, Honed with Torque Plates and Pressure Washed, New Durabond Cam Bearings Installed, Line Honed, ARP Main Studs</p><p><br></p><p><b>Pistons: </b>Mahle Forged pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n</p><p><br></p><p><b>Lifters:</b> Comp Cams Hydraulic Roller</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets</p>",
+          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.125”, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly</p><p><br></p><p><b>Camshaft: </b>Comp Cams Hydraulic Roller</p><p><br></p><p><b>Timing Sets: </b>Cloyes Billet Hex Adjust Roller</p><p><br></p><p><b>Oil Delivery: </b>Melling Select Performance</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-133"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">CYLINDER HEAD SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-134"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Type: </b>Factory GM LS7 Aluminum CNC Ported</p><p><br></p><p><b>Intake Valves: </b>Manley Stainless Steel 2.16”</p><p><br></p><p><b>Exhaust Valves: </b>Manley Stainless Steel 1.6”\n</p><p><br></p><p><b>Head Bolts:</b>&nbsp;ARP Performance</p><p><br></p><p><b>Intake System:</b></p>",
+          "text2": "<p><b>Combustion Chamber:&nbsp;</b>70cc\n</p><p><br></p><p><b>Flow: </b>360CFM @ .600” Lift</p><p><br></p><p><b>Spring Kit: </b>PAC Racing Polished Double Valve Spring, Light Weight Tool Steel Retainers and Hardened Locks</p><p><br></p><p><b>Rocker Arms: </b>GM Factory 1.7 Ratio</p><p><br></p><p><b>Pushrods: </b>Smith Brothers 3/8 .083” Wall Hardened</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-135"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered. When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href=\"tel:1-800-591-9171\" class=\"text-warning\" style=\"background-color: rgb(255, 255, 255);\">1-800-591-9171</a> ext 2. Each Golen Engine Performance Street Engine comes standard with a “<b>Three Year no Mileage Limit Warranty</b>” to keep you confident and covered! Feel free to contact us anytime for help choosing the perfect performance engine combination!!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-136"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "Golen Engine Service",
+              "title": "Golen Engine Service"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><a href=\"https://goo.gl/maps/q9Fs3eGSvpP2\" class=\"text-warning\">Golen Engine Service</a><br>17 Dracut Rd<br>Hudson, NH 03051&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 2.<br>Local: <a href=\"tel:1-603-886-3800\" class=\"text-warning\">1-603-886-3800</a>",
+          "text3": "<strong>Links</strong><br><a href=\"shipping.html\" class=\"text-warning\">Shipping</a><br><a href=\"warranty.html\" class=\"text-warning\">Warranty</a><br><a href=\"shop-tour.html\" class=\"text-warning\">360° Shop Tour</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-137"
+        }
+      ]
+    },
+    "RHS-454ci-700hp-long-block.html": {
+      "settings": {
+        "title": "RHS 454ci 700hp Long Block",
+        "meta_descr": "RHS 454ci 700hp Long Block",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 47
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#262626"
+            },
+            ".mbr-section-title": {
+              "color": "#262626",
+              "font-size": "60px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle I": {
+              "font-size": "20px",
+              "color": "#90a878"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-weight: normal;\">CHEVY RHS 454ci 700hp WS / DS LONG BLOCK</span>",
+          "meta": "<i>LAMYNES.PL</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-138"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rhs-502ci-800hp-long-block-sm.png",
+              "link": "",
+              "alt": "CHEVY LS7 427ci 650hp LONG BLOCK",
+              "title": "CHEVY LS7 427ci 650hp LONG BLOCK",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<div><span style=\"font-weight: normal;\">Base Price $13,699</span></div>",
+          "text": "<p>&nbsp;The 427ci makes max power and torque with a hydraulic cam which\nis very street able but also gives you the sound you are looking for!!<br></p><p><b>Peak Horsepower: </b>700bhp @ 6800 rpm<br><b>Peak Torque:</b> 590lb/ft @ 5000 rpm<br><b>Compression Ratio:</b> 11.5:1\n<br><b>Operating Range:</b> 2500 – 6800rpm<br><b>Required Fuel:</b> 91+ Octane Pump Gasoline&nbsp;<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2018/02/RHS-454ci-700hp.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "25px",
+              "color": "#232323"
+            },
+            "DIV": {
+              "text-align": "center",
+              "color": "#e68c07",
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+            },
+            "SPAN": {
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "msg-box4-139"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fac51c!important"
+            },
+            "A": {
+              "font-size": "12px"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"jeep-engines.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">JEEP ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-engines.html\" aria-expanded=\"false\">Jeep 4.6 Stroker Engine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-testimonials.html\" aria-expanded=\"false\">Jeep Testimonials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-build-gallery.html\" aria-expanded=\"false\">Jeep Build Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-technical-instructions.html\" aria-expanded=\"false\">Jeep Technical Instructions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jeep-customer-photos.html\" aria-expanded=\"false\">Jeep Customer Photos</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">CHEVY ENGINES&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lsx-crate-engines.html\" aria-expanded=\"false\">LSx Crate Engines</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-lt4-engines.html\">LT1/LT4 Engines 2014-UP Direct Injection</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lt1-performance-engines.html\">LT1 Performance Engines 1993-1997</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"muscle-car-engines.html\" aria-expanded=\"false\">MUSCLE CAR ENGINES&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"race-car-engines.html\" aria-expanded=\"false\">RACE ENGINES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dyno-tuning-service.html\" aria-expanded=\"false\">Dyno Tuning Service</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"machine-shop-services.html\" aria-expanded=\"false\">Machine Shop Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-us.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">Blog</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop-tour.html\">360° Shop Tour</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shipping.html\">Shipping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"warranty.html\">Warranty</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"privacy-policy.html\">Privacy Policy</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:1-800-591-9171\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"tel:1-800-591-9171\">1-800-591-9171\n<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"contact-us.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm-w-1.png",
+              "height": 128,
+              "alt": "Golen Engine",
+              "link": "index.html",
+              "title": "Golen Engine",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"tel: 1-800-591-9171\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GOLEN ENGINE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-13a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">BLOCK SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-13b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Block: </b>New GM LS7 Aluminum Block, Bore Size 4.125\", Zero Decked, Honed with Torque Plates and Pressure Washed, New Durabond Cam Bearings Installed, Line Honed, ARP Main Studs</p><p><br></p><p><b>Pistons: </b>Mahle Forged pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n</p><p><br></p><p><b>Lifters:</b> Comp Cams Hydraulic Roller</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets</p>",
+          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.125”, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly</p><p><br></p><p><b>Camshaft: </b>Comp Cams Hydraulic Roller</p><p><br></p><p><b>Timing Sets: </b>Cloyes Billet Hex Adjust Roller</p><p><br></p><p><b>Oil Delivery: </b>Melling Select Performance</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-13c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#232323",
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "<span style=\"font-size: 36px; font-weight: normal;\">CYLINDER HEAD SPECIFICATIONS</span>",
+          "meta": "ZZ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-13d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Type: </b>Trick Flow LS7 Aluminum CNC Ported</p><p><br></p><p><b>Intake Valves: </b>Manley Stainless Steel 2.16”</p><p><br></p><p><b>Exhaust Valves: </b>Manley Stainless Steel 1.6”\n</p><p><br></p><p><b>Head Bolts:</b>&nbsp;ARP Performance</p>",
+          "text2": "<p><b>Combustion Chamber:&nbsp;</b>70cc\n</p><p><br></p><p><b>Flow: </b>360CFM @ .600” Lift</p><p><br></p><p><b>Spring Kit: </b>PAC Racing Polished Double Valve Spring, Light Weight Tool Steel Retainers and Hardened Locks</p><p><br></p><p><b>Rocker Arms: </b>GM Factory 1.7 Ratio</p><p><br></p><p><b>Pushrods: </b>Smith Brothers 3/8 .083” Wall Hardened</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-13e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered. When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href=\"tel:1-800-591-9171\" class=\"text-warning\" style=\"background-color: rgb(255, 255, 255);\">1-800-591-9171</a> ext 2. Each Golen Engine Performance Street Engine comes standard with a “<b>Three Year no Mileage Limit Warranty</b>” to keep you confident and covered! Feel free to contact us anytime for help choosing the perfect performance engine combination!!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-13f"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/golen-logo-sm.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "Golen Engine Service",
+              "title": "Golen Engine Service"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br><a href=\"https://goo.gl/maps/q9Fs3eGSvpP2\" class=\"text-warning\">Golen Engine Service</a><br>17 Dracut Rd<br>Hudson, NH 03051&nbsp;<br>",
+          "text2": "<strong>Contacts</strong><br>Phone: <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 2.<br>Local: <a href=\"tel:1-603-886-3800\" class=\"text-warning\">1-603-886-3800</a>",
+          "text3": "<strong>Links</strong><br><a href=\"shipping.html\" class=\"text-warning\">Shipping</a><br><a href=\"warranty.html\" class=\"text-warning\">Warranty</a><br><a href=\"shop-tour.html\" class=\"text-warning\">360° Shop Tour</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "18px"
+            },
+            "STRONG": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-13g"
         }
       ]
     }
