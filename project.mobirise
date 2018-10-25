@@ -15194,7 +15194,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Engine Size</th><th>Base Price</th><th>View Details</th></tr></thead><tbody><tr><td>5.3L</td><td>$3499</td><td><a href=\"5-3L-SB.html\" class=\"text-warning\">View&nbsp;Specs</a></td></tr><tr><td>5.7L LS1/LS6</td><td>$3699</td><td><a href=\"5-7L-LS1-LS6.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>6.0L LS2</td><td>$3999</td><td><a href=\" 6-0L-LS2.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>6.0L LY6</td><td>$3799</td><td><a href=\" 6-0L-LY6.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>6.2L LS3</td><td>$4499</td><td><a href=\" 6-2L LS3.html\" class=\"text-warning\">View Specs</a></td></tr></tbody>",
+          "table": "<thead><tr><th>Engine Size</th><th>Base Price</th><th>View Details</th></tr></thead><tbody><tr><td>5.3L</td><td>$3499</td><td><a href=\"5-3L-SB.html\" class=\"text-warning\">View&nbsp;Specs</a></td></tr><tr><td>5.7L LS1/LS6</td><td>$3699</td><td><a href=\"5-7L-LS1-LS6.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>6.0L LS2</td><td>$3999</td><td><a href=\" 6-0L-LS2.html\">View Specs</a></td></tr><tr><td>6.0L LY6</td><td>$3799</td><td><a href=\" 6-0L-LY6.html\">View Specs</a></td></tr><tr><td>6.2L LS3</td><td>$4499</td><td><a href=\" 6-2L LS3.html\">View Specs</a></td></tr></tbody>",
           "_anchor": "extTable1-s2"
         },
         {
@@ -17223,10 +17223,10 @@
         }
       ]
     },
-    " 6-0L-LS2.html": {
+    "6-0L-LS2.html": {
       "settings": {
-        "title": " 6.0L LS2 Short Block",
-        "meta_descr": " 6.0L LS2 Short Block",
+        "title": "6.0L LS2 Short Block",
+        "meta_descr": "6.0L LS2 Short Block",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -17565,10 +17565,10 @@
         }
       ]
     },
-    " 6-0L-LY6.html": {
+    "6-0L-LY6.html": {
       "settings": {
-        "title": " 6.0L LY6 Short Block",
-        "meta_descr": " 6.0L LY6 Short Block",
+        "title": "6.0L LY6 Short Block",
+        "meta_descr": "6.0L LY6 Short Block",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -17907,10 +17907,10 @@
         }
       ]
     },
-    " 6-2L LS3.html": {
+    "6-2L LS3.html": {
       "settings": {
-        "title": " 6.2L LS3 Short Block",
-        "meta_descr": " 6.2L LS3 Short Block",
+        "title": "6.2L LS3 Short Block",
+        "meta_descr": "6.2L LS3 Short Block",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
