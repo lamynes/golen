@@ -7377,150 +7377,6 @@ h6,
 
 
 
-#header3-10t .mbr-section-title,
-#header3-10t .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-10t .mbr-section-subtitle {
-  color: #262626;
-}
-#header3-10t .mbr-section-title {
-  color: #262626;
-  font-size: 60px;
-}
-#header3-10t .mbr-section-title SPAN {
-  font-family: 'Oswald', sans-serif;
-  font-size: 48px;
-  color: #000000;
-}
-#header3-10t .mbr-section-subtitle I {
-  font-size: 20px;
-  color: #90a878;
-}
-#msg-box4-10u H3 {
-  font-size: 30px;
-  text-align: center;
-}
-#msg-box4-10u P {
-  font-size: 25px;
-  color: #232323;
-}
-#msg-box4-10u DIV {
-  text-align: center;
-  color: #e68c07;
-  font-size: 48px;
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box4-10u SPAN {
-  font-size: 36px;
-}
-#msg-box4-10u .btn {
-  font-size: 17px;
-}
-#menu-10v .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-10v .navbar-caption {
-  color: #ffffff;
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-}
-#menu-10v .navbar-toggler {
-  color: #ffffff;
-}
-#menu-10v .close-icon::before,
-#menu-10v .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-10v .link,
-#menu-10v .dropdown-item {
-  color: #ffffff;
-  font-family: 'Oswald', sans-serif;
-}
-#menu-10v .link {
-  font-size: 0.75rem;
-}
-#menu-10v .dropdown-item,
-#menu-10v .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-10v .link:hover,
-#menu-10v .dropdown-item:hover,
-#menu-10v .link:focus,
-#menu-10v .dropdown-item:focus {
-  color: #fac51c;
-}
-#menu-10v .link[aria-expanded="true"],
-#menu-10v .dropdown-menu {
-  background: #000000;
-}
-#menu-10v .nav-dropdown-sm .link:focus,
-#menu-10v .nav-dropdown-sm .link:hover,
-#menu-10v .nav-dropdown-sm .dropdown-item:focus,
-#menu-10v .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-10v .navbar,
-#menu-10v .nav-dropdown-sm,
-#menu-10v .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-10v .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-10v .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-10v .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-10v .bg-color.transparent.opened .link:hover,
-#menu-10v .bg-color.transparent.opened .link:focus {
-  color: #fac51c;
-}
-#menu-10v .link[aria-expanded="true"],
-#menu-10v .dropdown-item[aria-expanded="true"] {
-  color: #fac51c!important;
-}
-#menu-10v A {
-  font-size: 12px;
-}
-#menu-10v .btn {
-  font-size: 14px;
-}
-#header3-10w .mbr-section-title,
-#header3-10w .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-10w .mbr-section-subtitle {
-  color: #000000;
-  font-size: 20px;
-}
-#header3-10w .mbr-section-title DIV {
-  font-size: 36px;
-}
-#header3-10w .mbr-section-title SPAN {
-  color: #232323;
-  font-size: 46px;
-}
-#content6-10x P {
-  font-size: 22px;
-  text-align: left;
-}
-#content1-10y P {
-  font-size: 20px;
-}
-#contacts1-10z P {
-  color: #000000;
-  font-size: 18px;
-}
-#contacts1-10z STRONG {
-  font-size: 20px;
-  color: #000000;
-}
-
-
-
-
 #header3-110 .mbr-section-title,
 #header3-110 .mbr-section-subtitle {
   text-align: center;
@@ -8090,6 +7946,150 @@ h6,
   font-size: 18px;
 }
 #contacts1-11r STRONG {
+  font-size: 20px;
+  color: #000000;
+}
+
+
+
+
+#header3-10t .mbr-section-title,
+#header3-10t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-10t .mbr-section-subtitle {
+  color: #262626;
+}
+#header3-10t .mbr-section-title {
+  color: #262626;
+  font-size: 60px;
+}
+#header3-10t .mbr-section-title SPAN {
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
+  color: #000000;
+}
+#header3-10t .mbr-section-subtitle I {
+  font-size: 20px;
+  color: #90a878;
+}
+#msg-box4-10u H3 {
+  font-size: 30px;
+  text-align: center;
+}
+#msg-box4-10u P {
+  font-size: 25px;
+  color: #232323;
+}
+#msg-box4-10u DIV {
+  text-align: center;
+  color: #e68c07;
+  font-size: 48px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box4-10u SPAN {
+  font-size: 36px;
+}
+#msg-box4-10u .btn {
+  font-size: 17px;
+}
+#menu-10v .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-10v .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-10v .navbar-toggler {
+  color: #ffffff;
+}
+#menu-10v .close-icon::before,
+#menu-10v .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-10v .link,
+#menu-10v .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-10v .link {
+  font-size: 0.75rem;
+}
+#menu-10v .dropdown-item,
+#menu-10v .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-10v .link:hover,
+#menu-10v .dropdown-item:hover,
+#menu-10v .link:focus,
+#menu-10v .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-10v .link[aria-expanded="true"],
+#menu-10v .dropdown-menu {
+  background: #000000;
+}
+#menu-10v .nav-dropdown-sm .link:focus,
+#menu-10v .nav-dropdown-sm .link:hover,
+#menu-10v .nav-dropdown-sm .dropdown-item:focus,
+#menu-10v .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-10v .navbar,
+#menu-10v .nav-dropdown-sm,
+#menu-10v .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-10v .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-10v .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-10v .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-10v .bg-color.transparent.opened .link:hover,
+#menu-10v .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-10v .link[aria-expanded="true"],
+#menu-10v .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-10v A {
+  font-size: 12px;
+}
+#menu-10v .btn {
+  font-size: 14px;
+}
+#header3-10w .mbr-section-title,
+#header3-10w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-10w .mbr-section-subtitle {
+  color: #000000;
+  font-size: 20px;
+}
+#header3-10w .mbr-section-title DIV {
+  font-size: 36px;
+}
+#header3-10w .mbr-section-title SPAN {
+  color: #232323;
+  font-size: 46px;
+}
+#content6-10x P {
+  font-size: 22px;
+  text-align: left;
+}
+#content1-10y P {
+  font-size: 20px;
+}
+#contacts1-10z P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-10z STRONG {
   font-size: 20px;
   color: #000000;
 }
