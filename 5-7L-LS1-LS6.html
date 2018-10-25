@@ -7,8 +7,8 @@
   <meta name="generator" content="Mobirise v4.8.6, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/golen-logo-sm-w-1.png" type="image/x-icon">
-  <meta name="description" content="Admin page">
-  <title>Blog Admin</title>
+  <meta name="description" content="5.7L LS1/LS6 Short Block">
+  <title>5.7L LS1/LS6 Short Block</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin">
@@ -38,7 +38,7 @@
   firebase.initializeApp(config);
 </script>
   <body>
-  <section id="menu-rk" data-rv-view="754">
+  <section id="menu-xk" data-rv-view="55">
 
     <nav class="navbar navbar-dropdown navbar-fixed-top">
         <div class="container">
@@ -72,149 +72,104 @@
 
 </section>
 
-<section class="engine"><a href="https://mobirise.info/b">create a site for free</a></section><section class="mbr-section mbr-after-navbar" id="firebase-admin-block-rl" data-rv-view="756" style="background-color: rgb(255, 255, 255); padding-top: 9rem; padding-bottom: 12rem;">
-  <style>
-  .btn-circle {
-    width: 30px;
-    height: 30px;
-    text-align: center;
-    padding: 6px 0;
-    font-size: 12px;
-    line-height: 1.428571429;
-    border-radius: 15px;
-  }
-  </style>
-  <div class="container" id="login-form">
-
-    <h2 class="form-signin-heading">Please sign in</h2>
-    <button class="btn btn-lg btn-danger btn-block" onclick="loginGoogle()">Google Login</button>
-    
-    
-
-    
-
-  </div>
-  <div class="container" id="login-panel" style="display: none">
-    <ul class="nav nav-tabs" role="tablist" id="menu-tabs">
-      <li class="nav-item">
-        <a href="#" class="nav-link" onclick="signOut()">Sign Out</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link active" data-toggle="tab" href="#articles" role="tab">Articles</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" data-toggle="tab" onclick="newArticle()" href="#new-form" role="tab">New Article</a>
-      </li>
-    </ul>
-    <!-- Tab panes -->
-    <div class="tab-content">
-      <div class="tab-pane active" id="articles" role="tabpanel">
-
-        <div class="container">
-          <div class="row">
-
-            <div class="col-sm-12 blog-main">
-              <div class="sidebar-module">
-                <h4>Articles</h4>
-                <ol class="list-unstyled" id="article-list">
-                </ol>
-              </div>
+<section class="engine"><a href="https://mobirise.info/g">how to build a site</a></section><section class="mbr-section mbr-section__container article mbr-after-navbar" id="header3-xi" data-rv-view="50" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 40px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="mbr-section-title display-2"><span style="font-weight: normal;">Chevy 5.7L LS1/LS6 Factory Short Block 
+</span></h3>
+                
             </div>
-            <!-- /.blog-sidebar -->
-          </div>
         </div>
-
-      </div>
-      <div class="tab-pane" id="new-form" role="tabpanel">
-
-                <div class="container">
-                  <div class="row">
-                    <div class="col-sm-12 blog-main" id="new-article-form">
-
-                      <div class="blog-post">
-                        <div id="firebase-authorPic" class="article-photo" style="float: left">
-                          <img id="authorPic" class="img-responsive" src="http://placehold.it/100x100" style="margin-right:20px; border-radius: 50%; height: 100px">
-                        </div>
-                        <h2 id="title" contenteditable="true" data-placeholder="Article title" class="blog-post-title">Article Title</h2>
-                        <p class="blog-post-meta"><small id="firebase-timestamp">January 12, 2014</small>
-                          <span id="author-name">by John</span>
-                        </p>
-
-                        <p class="panel-body" id="intro" contenteditable="true" placeholder="Write some intro...">This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>
-
-                        <hr>
-                        <div id="body" contenteditable="true">
-                          <p>Just write stuff ...</p>
-
-                        </div><!-- /#body -->
-
-                      </div>
-                      <div style="text-align: right;">
-                        <a href="#" class="btn btn-primary" id="create-article" onclick="save()">Create</a>
-                        <a href="#" class="btn btn-primary" id="save-article" onclick="save()" style="display: none">Save</a>
-                        <a href="#" class="btn btn-secondary" id="save-cancel" onclick="cancel()">Cancel</a>
-                      </div>
-
-                    </div>
-                    <!-- /.blog-main -->
-                  </div>
-                </div>
-      </div>
     </div>
+</section>
 
-  </div>
-</section><script data-rv-view="756" class="mbr-after-navbar">
-  document.addEventListener("DOMContentLoaded", function() {
-    var recentPostsRef = firebase.database().ref('posts').orderByChild("order").limitToFirst(100);
-    fetchAdminPosts(recentPostsRef);
+<section class="mbr-section" id="msg-box4-xj" data-rv-view="52" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 0px;">
 
-    firebase.auth().onAuthStateChanged(onAuthStateChanged);
-
-    function onAuthStateChanged(user) {
-
-      if (user) {
-        writeUserData(user.uid, user.displayName, user.email, user.photoURL);
-        document.getElementById('login-form').style.display = 'none';
-        document.getElementById('login-panel').style.display = 'block';
-        cancel();
-      } else {
-        document.getElementById('login-form').style.display = 'block';
-        document.getElementById('login-panel').style.display = 'none';
-
-      }
-    }
-
-    CKEDITOR.inline( 'body',{
-        toolbar: [
-    			{ name: 'document', items: [ 'Source' ] },
-    			{ name: 'basicstyles', items: [ 'Bold', 'Italic' ] },
-    			{ name: 'paragraph', items: [ 'NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote' ] },
-    			{ name: 'links', items: [ 'Link', 'Unlink' ] },
-    			{ name: 'insert', items: [ 'Image' ] },
-    			{ name: 'styles', items: [ 'Format', 'Styles' ] }
-    		]
-    } );
-
-    CKEDITOR.inline( 'intro',{
-        toolbar: [
-    			{ name: 'document', items: [ 'Source' ] },
-    			{ name: 'basicstyles', items: [ 'Bold', 'Italic' ] },
-    			{ name: 'paragraph', items: [ 'NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote' ] },
-    			{ name: 'links', items: [ 'Link', 'Unlink' ] },
-    			{ name: 'insert', items: [ 'Image' ] },
-    			{ name: 'styles', items: [ 'Format', 'Styles' ] }
-    		]
-    } );
-
-  });
-</script>
-
-<footer class="mbr-small-footer mbr-section mbr-section-nopadding" id="footer1-rj" data-rv-view="752" style="background-color: rgb(0, 0, 0); padding-top: 1.75rem; padding-bottom: 1.75rem;">
     
-    <div class="container text-xs-center">
-        <p>Copyright © 2018 Golen Engine. Golen Engine: High Performance Engines<a href="tel:603-886-3800"><br></a></p>
+    <div class="container">
+        <div class="row">
+            <div class="mbr-table-md-up">
+
+              <div class="mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 50%;">
+                  <div class="mbr-figure"><img src="assets/images/lsx-factory-replacement-sm-1.png" alt="Chevy 5.3L LS1 Factory Short Block " title="Chevy 5.3L LS1 Factory Short Block "></div>
+              </div>
+
+              
+
+
+              <div class="mbr-table-cell col-md-5 text-xs-center text-md-left content-size">
+                  <h3 class="mbr-section-title display-2"><div><span style="font-weight: normal;">Base Price $3,699</span></div></h3>
+                  <div class="lead">
+
+                    <p></p><p>The 5.7L factory short block uses a new GM LS6 block with 3.905" bore to produce the 346CI<br></p><p></p>
+
+                  </div>
+
+                  <div><a class="btn btn-warning" href="contact-us.html">Get Started Today</a> <a class="btn btn-warning" href="https://golenengineservice.com/wp-content/uploads/2017/07/5.7L-Factory-Replacement-Short-Block.pdf" target="_blank">Download Spec Sheet</a></div>
+              </div>
+
+
+              
+
+            </div>
+        </div>
     </div>
-</footer>
+
+</section>
+
+<section class="mbr-section mbr-section__container article" id="header3-xl" data-rv-view="57" style="background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 60px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="mbr-section-title display-2"><span style="font-size: 36px; font-weight: normal;">ENGINE SPECIFICATIONS</span></h3>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article mbr-section__container" id="content6-xm" data-rv-view="59" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-6 lead"><p><strong>Block: </strong>New GM LS6 Block Honed with Torque Plates, Bore Size 3.905”, Line Honed with GM Main Bolts, Blueprinted Oil Clearances</p><p><strong><br></strong></p><p><strong>Pistons: </strong>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><strong>Bearings: </strong>Clevite Main and Rod Bearings<br></p><p><strong><br></strong></p></div>
+            <div class="col-xs-12 col-md-6 lead"><p><strong>Crank: </strong>New GM Factory Crankshaft, Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><strong>Rods: </strong>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP Rod Bolts</p><p><br></p><p><strong>Rings:&nbsp;</strong>Speed Pro Plasma Moly Rings<br></p><p><br></p></div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section article mbr-section__container" id="content1-xn" data-rv-view="61" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 60px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 lead"><p>We are able to build your engine to match just about any specs you desire, so if you do not see it just ask us!  Each Golen Engine comes standard with a three year no mileage limit warranty to keep you confident and covered. When you purchase one of our LS HP or Hot Rod Series Street Engines you will receive a full spec sheet listing the exact components your engine was built with. We will also provide you with a complete Set Up Guide as well as full phone tech support to aid you with the installation process. It is mandatory for you to contact Golen Engine Tech Support before starting your engine for the first time and you can reach our Tech Support Line at <a href="tel:1-800-591-9171" class="text-warning" style="background-color: rgb(255, 255, 255);">1-800-591-9171</a> ext 2. Each Golen Engine Performance Street Engine comes standard with a “<strong>Three Year no Mileage Limit Warranty</strong>” to keep you confident and covered! Feel free to contact us anytime for help choosing the perfect performance engine combination!!</p></div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section mbr-section-md-padding mbr-footer footer1" id="contacts1-xo" data-rv-view="63" style="background-color: rgb(255, 255, 255); padding-top: 90px; padding-bottom: 90px;">
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <div><img src="assets/images/golen-logo-sm.png" alt="Golen Engine Service" title="Golen Engine Service"></div>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Address</strong><br><a href="https://goo.gl/maps/q9Fs3eGSvpP2" class="text-warning">Golen Engine Service</a><br>17 Dracut Rd<br>Hudson, NH 03051&nbsp;<br></p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Contacts</strong><br>Phone: <a href="tel:1-800-591-9171" class="text-warning">1-800-591-9171</a> ext 2.<br>Local: <a href="tel:1-603-886-3800" class="text-warning">1-603-886-3800</a></p>
+            </div>
+            <div class="mbr-footer-content col-xs-12 col-md-3">
+                <p><strong>Links</strong><br><a href="shipping.html" class="text-warning">Shipping</a><br><a href="warranty.html" class="text-warning">Warranty</a><br><a href="shop-tour.html" class="text-warning">360° Shop Tour</a></p>
+            </div>
+
+        </div>
+    </div>
+</section>
 
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
