@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "LS7-440ci-700hp-ws-ds-long-block.html",
+    "currentPage": "5-3L-SB.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16800,8 +16800,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block:&nbsp;</b>New GM 5.3 Block Honed with Torque Plates, Bore Size 3.780”, Line Honed with GM Main Bolts, Blueprinted Oil Clearances</p><p><b><br></b></p><p><b>Pistons:&nbsp;</b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings:&nbsp;</b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank:&nbsp;</b>New GM Factory Crankshaft,Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods:&nbsp;</b>Scat  4340 Forged Steel I-Beam, 6.125” Length. ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block:&nbsp;</b></p><ul><li>New GM 5.3 Block Honed with Torque Plates</li><li>Bore Size 3.780”</li><li>Line Honed with GM Main Bolts</li><li>Blueprinted Oil Clearances</li></ul><p><b><br></b></p><p><b>Pistons:&nbsp;</b></p><ul><li>Speed Pro Hypereutectic Pistons with coated skirts</li></ul><p><br></p><p><b>Bearings:&nbsp;</b></p><ul><li>Clevite Main and Rod Bearings<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank:&nbsp;</b></p><ul><li>New GM Factory Crankshaft,Stroke 3.622”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods:&nbsp;</b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP Rod Bolts</li></ul><p><br></p><p><b>Rings:&nbsp;</b></p><ul><li>Speed Pro Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -16810,6 +16810,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-x3"
