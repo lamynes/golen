@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "5-3L-SB.html",
+    "currentPage": "LS2-402ci-550hp-long-block.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16631,7 +16631,7 @@
             }
           },
           "title": "<div><span style=\"font-weight: normal;\">Base Price $3,499</span></div>",
-          "text": "<p>The 5.3L factory short block uses a new GM LS1 block with 3.780\" bore to produce the 327CI.</p>",
+          "text": "<p>The 5.3L factory short block uses a new GM LS1 block with 3.780\" bore to produce the 327CI</p>",
           "_tags": [
             "Theme"
           ],
@@ -17145,8 +17145,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS6 Block Honed with Torque Plates, Bore Size 3.905”, Line Honed with GM Main Bolts, Blueprinted Oil Clearances</p><p><b><br></b></p><p><b>Pistons: </b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings: </b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>New GM Factory Crankshaft, Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS6 Block Honed with Torque Plates</li><li>Bore Size 3.905”</li><li>Line Honed with GM Main Bolts</li><li>Blueprinted Oil Clearances</li></ul><p><b><br></b></p><p><b>Pistons: </b></p><ul><li>Speed Pro Hypereutectic Pistons with coated skirts</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite Main and Rod Bearings<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>New GM Factory Crankshaft</li><li>Stroke 3.622”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP Rod Bolts</li></ul><p><br></p><p><b>Rings:&nbsp;</b></p><ul><li>Speed Pro Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -17155,6 +17155,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-xm"
@@ -17487,8 +17490,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS2 Block Honed with Torque Plates, -Bore Size 4.000”, Line Honed with GM Main Bolts, &nbsp;Blueprinted Oil Clearances</p><p><b><br></b></p><p><b>Pistons: </b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings: </b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>New GM Factory Crankshaft, Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS2 Block Honed with Torque Plates</li><li>Bore Size 4.000”</li><li>Line Honed with GM Main Bolts</li><li>Blueprinted Oil Clearances</li></ul><p><b><br></b></p><p><b>Pistons: </b></p><ul><li>Speed Pro Hypereutectic Pistons with coated skirts</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite Main and Rod Bearings<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>New GM Factory Crankshaft</li><li>Stroke 3.622”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP Rod Bolts</li></ul><p><br></p><p><b>Rings:&nbsp;</b></p><ul><li>Speed Pro Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -17497,6 +17500,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-xt"
@@ -17829,8 +17835,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LY6 Cast Iron Block Honed with Torque Plates, Bore Size 4.000”, Line Honed with GM Main Bolts, Blueprinted Oil Clearances<br><br></p><p><b>Pistons: </b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings: </b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>New GM Factory Crankshaft, Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LY6 Cast Iron Block Honed with Torque Plates</li><li>Bore Size 4.000”</li><li>Line Honed with GM Main Bolts</li><li>Blueprinted Oil Clearances<br><br></li></ul><p><b>Pistons: </b></p><ul><li>Speed Pro Hypereutectic Pistons with coated skirts</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite Main and Rod Bearings<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>New GM Factory Crankshaft, Stroke 3.622”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP Rod Bolts</li></ul><p><br></p><p><b>Rings:&nbsp;</b></p><ul><li>Speed Pro Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -17839,6 +17845,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-y0"
@@ -18171,8 +18180,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS3 Block Honed with Torque Plates, Bore Size 4.000”, Line Honed with GM Main Bolts, Blueprinted Oil Clearances<br><br></p><p><b>Pistons: </b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings: </b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>New GM Factory Crankshaft, Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS3 Block Honed with Torque Plates</li><li>Bore Size 4.000”</li><li>Line Honed with GM Main Bolts</li><li>Blueprinted Oil Clearances<br><br></li></ul><p><b>Pistons: </b></p><ul><li>Speed Pro Hypereutectic Pistons with coated skirts</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite Main and Rod Bearings<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>New GM Factory Crankshaft</li><li>Stroke 3.622”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP Rod Bolts</li></ul><p><br></p><p><b>Rings:&nbsp;</b></p><ul><li>Speed Pro Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -18181,6 +18190,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-y7"
@@ -18513,8 +18525,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS2 Block Honed with Torque Plates, Bore Size 4.000, Line Honed with GM Main Bolts, Blueprinted Oil Clearances<br><br></p><p><b>Pistons: </b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings: </b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>New GM Factory Crankshaft, Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS2 Block Honed with Torque Plates</li><li>Bore Size 4.000\"</li><li> Line Honed with GM Main Bolts</li><li>Blueprinted Oil Clearances<br><br></li></ul><p><b>Pistons: </b></p><ul><li>Speed Pro Hypereutectic Pistons with coated skirts</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite Main and Rod Bearings<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>New GM Factory Crankshaft</li><li>Stroke 3.622”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP Rod Bolts</li></ul><p><br></p><p><b>Rings:&nbsp;</b></p><ul><li>Speed Pro Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -18523,6 +18535,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-ys"
@@ -18855,8 +18870,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS6 Block Honed with Torque Plates, Bore Size 3.905, Line Honed with GM Main Bolts, Blueprinted Oil Clearances<br><br></p><p><b>Pistons: </b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings: </b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>New GM Factory Crankshaft, Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS6 Block Honed with Torque Plates</li><li>Bore Size 3.905</li><li>Line Honed with GM Main Bolts</li><li>Blueprinted Oil Clearances<br><br></li></ul><p><b>Pistons: </b></p><ul><li>Speed Pro Hypereutectic Pistons with coated skirts</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite Main and Rod Bearings<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>New GM Factory Crankshaft</li><li>Stroke 3.622”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP Rod Bolts</li></ul><p><br></p><p><b>Rings:&nbsp;</b></p><ul><li>Speed Pro Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -18865,6 +18880,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-ye"
@@ -19197,8 +19215,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LY6 Cast Iron Block Honed with Torque Plates, Bore Size 4.000, Line Honed with GM Main Bolts, Blueprinted Oil Clearances<br><br></p><p><b>Pistons: </b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings: </b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>New GM Factory Crankshaft, Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LY6 Cast Iron Block Honed with Torque Plates</li><li>Bore Size 4.000\"</li><li>Line Honed with GM Main Bolts</li><li>Blueprinted Oil Clearances<br><br></li></ul><p><b>Pistons: </b></p><ul><li>Speed Pro Hypereutectic Pistons with coated skirts</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite Main and Rod Bearings<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>New GM Factory Crankshaft</li><li>Stroke 3.622”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP Rod Bolts</li></ul><p><br></p><p><b>Rings:&nbsp;</b></p><ul><li>Speed Pro Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -19207,6 +19225,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-yz"
@@ -19539,8 +19560,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LY6 Cast Iron Block Honed with Torque Plates, Bore Size 4.065, Line Honed with GM Main Bolts, Blueprinted Oil Clearances<br><br></p><p><b>Pistons: </b>Speed Pro Hypereutectic Pistons with coated skirts</p><p><br></p><p><b>Bearings: </b>Clevite Main and Rod Bearings<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>New GM Factory Crankshaft, Stroke 3.622”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP Rod Bolts</p><p><br></p><p><b>Rings:&nbsp;</b>Speed Pro Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LY6 Cast Iron Block Honed with Torque Plates</li><li>Bore Size 4.065</li><li>Line Honed with GM Main Bolts</li><li>Blueprinted Oil Clearances<br><br></li></ul><p><b>Pistons: </b></p><ul><li>Speed Pro Hypereutectic Pistons with coated skirts</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite Main and Rod Bearings<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>New GM Factory Crankshaft</li><li>Stroke 3.622”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP Rod Bolts</li></ul><p><br></p><p><b>Rings:&nbsp;</b></p><ul><li>Speed Pro Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -19549,6 +19570,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-z6"
@@ -19881,8 +19905,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS2 Block Honed with Torque Plates, Bore Size 4.005, Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Mahle Forged Pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts\n</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS2 Block Honed with Torque Plates</li><li>Bore Size 4.005</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged Pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts\n</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -19891,6 +19915,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-zd"
@@ -20223,8 +20250,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>GM LQ9 or LY6 Block Honed with Torque Plates, Bore Size 4.030, Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Mahle Forged Pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts\n</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>GM LQ9 or LY6 Block Honed with Torque Plates</li><li>Bore Size 4.030</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged Pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts\n</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -20233,6 +20260,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-zk"
@@ -20565,8 +20595,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS3 Block Honed with Torque Plates, Bore Size 4.070, Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Mahle Forged Pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts\n</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS3 Block Honed with Torque Plates</li><li>Bore Size 4.070\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged Pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts\n</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -20575,6 +20605,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-zr"
@@ -20907,8 +20940,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS7 Block Honed with Torque Plates, Bore Size 4.125, Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Mahle Forged Pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts\n</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS7 Block Honed with Torque Plates</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged Pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts\n</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -20917,6 +20950,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-zy"
@@ -21249,8 +21285,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS7 Block Honed with Torque Plates, Bore Size 4.130\", Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Mahle Forged Pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.125”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts\n</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS7 Block Honed with Torque Plates</li><li>Bore Size 4.130\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged Pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts\n</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -21259,6 +21295,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-105"
@@ -21591,8 +21630,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LSx Cast Iron Block Honed with Torque Plates, Bore Size 4.185\", Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Custom Diamond Forged Pistons with Anti-Friction\n</p><p>Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.125”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts\n</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LSx Cast Iron Block Honed with Torque Plates</li><li>Bore Size 4.185\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Custom Diamond Forged Pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts\n</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -21601,6 +21640,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-10c"
@@ -21933,8 +21975,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New RHS Block Honed with Torque Plates, Bore Size 4.185\", Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Wiseco Forged Pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.125”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts\n</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New RHS Block Honed with Torque Plates</li><li>Bore Size 4.185\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li> Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Forged Pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts\n</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -21943,6 +21985,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-10j"
@@ -22275,8 +22320,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New RHS Tall Deck Block Honed with Torque Plates, Bore Size 4.165\", Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Wiseco Forged Pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.125”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts\n</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly Rings<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New RHS Tall Deck Block Honed with Torque Plates</li><li>Bore Size 4.165\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Forged Pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts\n</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly Rings<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -22285,6 +22330,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-10q"
@@ -22617,8 +22665,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS3 Block Honed with Torque Plates, Bore Size 4.070\", Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Wiseco Custom Forged Boost Pistons</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts</p><p><br></p><p><b>Rings: </b>Wiseco Gas Nitrided Ring Set<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS3 Block Honed with Torque Plates</li><li>Bore Size 4.070\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Custom Forged Boost Pistons</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Gas Nitrided Ring Set<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -22627,6 +22675,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-114"
@@ -22959,8 +23010,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LS7 Block Honed with Torque Plates, Bore Size 4.130\", Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Wiseco Custom Forged Boost Pistons</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts</p><p><br></p><p><b>Rings: </b>Wiseco Gas Nitrided Ring Set<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LS7 Block Honed with Torque Plates</li><li>Bore Size 4.130\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Custom Forged Boost Pistons</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Gas Nitrided Ring Set<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -22969,6 +23020,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-11b"
@@ -23301,8 +23355,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LSx Cast Iron Block Honed with Torque Plates, Bore Size 4.125\", Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Wiseco Custom Forged Boost Pistons</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts</p><p><br></p><p><b>Rings: </b>Wiseco Gas Nitrided Ring Set<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LSx Cast Iron Block Honed with Torque Plates</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Custom Forged Boost Pistons</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Gas Nitrided Ring Set<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -23311,6 +23365,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-11i"
@@ -23643,8 +23700,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New RHS Block Honed with Torque Plates, Bore Size 4.125\", Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Wiseco Custom Forged Boost Pistons</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts</p><p><br></p><p><b>Rings: </b>Wiseco Gas Nitrided Ring Set<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New RHS Block Honed with Torque Plates</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Custom Forged Boost Pistons</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Gas Nitrided Ring Set<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -23653,6 +23710,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-11p"
@@ -23985,8 +24045,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>New GM LQ9 Cast Iron Block Honed with Torque Plates, Bore Size 4.030\", Zero Decked, Line Honed with ARP Main Studs, Blueprinted Oil Clearances, All New GM Block Plugs Installed, New Durabond Cam Bearings Installed</p><p><br></p><p><b>Pistons: </b>Wiseco Custom Forged Boost Pistons</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n<br></p><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Your Choice of 24x or 58x Reluctor Wheel, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Scat  4340 Forged Steel I-Beam, 6.125” Length, ARP 2000 Rod Bolts\n</p><p><br></p><p><b>Rings: </b>Wiseco Gas Nitrided Ring Set<br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LQ9 Cast Iron Block Honed with Torque Plates</li><li>Bore Size 4.030\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Custom Forged Boost Pistons</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts\n</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Gas Nitrided Ring Set<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -23995,6 +24055,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-10x"
@@ -24327,8 +24390,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b>Seasoned GM LQ9 or New LY6 Cast Iron Block, Bore Size 4.030\", Zero Decked, Honed with Torque Plates and Pressure Washed, New Durabond Cam Bearings Installed, Line Honed, ARP Main Studs</p><p><br></p><p><b>Pistons: </b>Mahle Forged pistons with Anti-Friction Coating</p><p><br></p><p><b>Bearings: </b>Clevite H-Series Main and Rod Bearings\n</p><p><br></p><p><b>Lifters:</b> Comp Cams Hydraulic Roller</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets, GM Cover Gaskets</p>",
-          "text2": "<p><b>Crank: </b>Callies Comp Star 4340 Forged Steel, Stroke 4.000”, Internally Balanced Front and Rear</p><p><br></p><p><b>Rods: </b>Callies Comp Star 4340 Forged H-Beam, 6.125” length</p><p><br></p><p><b>Rings: </b>Mahle Plasma Moly</p><p><br></p><p><b>Camshaft: </b>Comp Cams Hydraulic Roller</p><p><br></p><p><b>Timing Sets: </b>Cloyes Billet Hex Adjust Roller</p><p><br></p><p><b>Oil Delivery: </b>Melling Select Performance\n</p><p><br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>Seasoned GM LQ9 or New LY6 Cast Iron Block</li><li>Bore Size 4.030\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li><li>GM Cover Gaskets</li></ul>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Comp Star 4340 Forged H-Beam</li><li>6.125” length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance\n</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -24378,8 +24441,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Type: </b>Factory GM LS3 Aluminum Bowl Ported, Three angle performance valve job</p><p><br></p><p><b>Intake Valves: </b>Manley Stainless Steel 2.16”</p><p><br></p><p><b>Exhaust Valves: </b>Manley Stainless Steel 1.59”\n</p><p><br></p><p><b>Head Bolts:</b>&nbsp;ARP Performance</p><p><br></p><p><b>Gaskets: </b>GM MLS Head Gaskets, GM Cover Gaskets</p>",
-          "text2": "<p><b>Combustion Chamber:&nbsp;</b>70cc\n</p><p><br></p><p><b>Flow: </b>340CFM @ .600” Lift</p><p><br></p><p><b>Spring Kit: </b>Polished Double Valve Spring, Light Weight Tool Steel Retainers and Hardened Locks</p><p><br></p><p><b>Rocker Arms: </b>GM Factory 1.7 Ratio</p><p><br></p><p><b>Pushrods: </b>Smith Brothers 5/16 .083” Wall Hardened</p><p><br></p><p><br></p>",
+          "text1": "<p><b>Type: </b></p><ul><li>Factory GM LS3 Aluminum Bowl Ported</li><li>Three angle performance valve job</li></ul><p><br></p><p><b>Intake Valves: </b></p><ul><li>Manley Stainless Steel 2.16”</li></ul><p><br></p><p><b>Exhaust Valves: </b></p><ul><li>Manley Stainless Steel 1.59”\n</li></ul><p><br></p><p><b>Head Bolts:</b>&nbsp;</p><ul><li>ARP Performance</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li><li>GM Cover Gaskets</li></ul>",
+          "text2": "<p><b>Combustion Chamber:&nbsp;</b></p><ul><li>70cc\n</li></ul><p><br></p><p><b>Flow: </b></p><ul><li>340CFM @ .600” Lift</li></ul><p><br></p><p><b>Spring Kit: </b></p><ul><li>Polished Double Valve Spring</li><li>Light Weight Tool Steel Retainers and Hardened Locks</li></ul><p><br></p><p><b>Rocker Arms: </b></p><ul><li>GM Factory 1.7 Ratio</li></ul><p><br></p><p><b>Pushrods: </b></p><ul><li>Smith Brothers 5/16 .083” Wall Hardened</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -24388,6 +24451,9 @@
             "P": {
               "font-size": "22px",
               "text-align": "left"
+            },
+            "UL": {
+              "font-size": "20px"
             }
           },
           "_anchor": "content6-127"
