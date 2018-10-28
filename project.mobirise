@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "408ci-LQ9-boosted-competition-short-block.html",
+    "currentPage": "rhs-502ci-800hp-long-block.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 1457,
+    "uniqCompNum": 1458,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -24126,7 +24126,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2017/07/LY6-LQ9-408ci-550hp-Long-Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> ",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -24135,7 +24135,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -24524,7 +24525,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2017/07/LS2-402ci-550hp-Long-Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> ",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -24533,7 +24534,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -24691,7 +24693,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Block: </b></p><ul><li>New GM LS2 Aluminum Block</li><li>Bore Size 4.030\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed, ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li><li>GM Cover Gaskets</li></ul>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance\n</li></ul><p><br></p><p><br></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Comp Star 4340 Forged Steel H-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance\n</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -24924,7 +24926,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2017/07/LS3-416ci-605hp-Long-Block.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> ",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -24933,7 +24935,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -25092,7 +25095,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Block: </b></p><ul><li>New GM LS3 Aluminum Block</li><li>Bore Size 4.030\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li><li>GM Cover Gaskets</li></ul>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance\n</li></ul><p><br></p><p><br></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Comp Star 4340 Forged Steel H-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance\n</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -25325,7 +25328,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-427ci-650hp-WS-DS.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> ",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -25334,7 +25337,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -25493,7 +25497,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Block: </b></p><ul><li>New GM LS7 Aluminum Block</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li></ul>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance\n</li></ul><p><br></p><p><br></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Comp Star 4340 Forged Steel H-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance\n</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -25726,7 +25730,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2018/02/RHS-454ci-700hp.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> ",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -25735,7 +25739,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -25893,8 +25898,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b></p><ul><li>New GM LS7 Aluminum Block</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li></ul>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>RHS LS7 Aluminum Block</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li></ul>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Comp Star 4340 Forged Steel H-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -26127,7 +26132,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-440ci-700hp-WS-DS.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> ",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -26136,7 +26141,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -26295,7 +26301,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Block: </b></p><ul><li>New GM LS7 Aluminum Block</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li></ul>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Comp Star 4340 Forged Steel H-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -26348,7 +26354,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Type: </b></p><ul><li>Factory GM LS7 Aluminum CNC Ported</li></ul><p><br></p><p><b>Intake Valves: </b></p><ul><li>Manley Stainless Steel 2.16”</li></ul><p><br></p><p><b>Exhaust Valves: </b></p><ul><li>Manley Stainless Steel 1.6”\n</li></ul><p><br></p><p><b>Head Bolts:</b>&nbsp;</p><ul><li>ARP Performance</li></ul>",
+          "text1": "<p><b>Type: </b></p><ul><li>Trick Flow LS7 Aluminum CNC Ported</li></ul><p><br></p><p><b>Intake Valves: </b></p><ul><li>Manley Stainless Steel 2.16”</li></ul><p><br></p><p><b>Exhaust Valves:</b></p><ul><li>Manley Stainless Steel 1.6”\n</li></ul><p><br></p><p><b>Head Bolts:</b></p><ul><li>ARP Performance</li></ul><p><br></p><p><b>Gaskets:</b></p><ul><li>GM MLS Head Gaskets</li><li>GM Cover Gaskets</li></ul>",
           "text2": "<p><b>Combustion Chamber:&nbsp;</b></p><ul><li>70cc\n</li></ul><p><br></p><p><b>Flow: </b></p><ul><li>360CFM @ .600” Lift</li></ul><p><br></p><p><b>Spring Kit: </b></p><ul><li>PAC Racing Polished Double Valve Spring</li><li>Light Weight Tool Steel Retainers and Hardened Locks</li></ul><p><br></p><p><b>Rocker Arms: </b></p><ul><li>GM Factory 1.7 Ratio</li></ul><p><br></p><p><b>Pushrods: </b></p><ul><li>Smith Brothers 3/8 .083” Wall Hardened</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
@@ -26363,7 +26369,7 @@
               "font-size": "20px"
             }
           },
-          "_anchor": "content6-135"
+          "_anchor": "content6-14h"
         },
         {
           "_params": {
@@ -26528,7 +26534,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-440ci-700hp-WS-DS.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> ",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -26537,7 +26543,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -26695,8 +26702,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b></p><ul><li>New GM LS7 Aluminum Block</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li></ul>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LSx Cast Iron Block</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Forged Boost Ready</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>Cometic MLS Head Gaskets</li></ul>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Dragon Slayer 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Ultra H-Beam Forged Steel</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Stainless Steel</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller Boost Grind</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -26749,7 +26756,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Type: </b></p><ul><li>Factory GM LS7 Aluminum CNC Ported</li></ul><p><br></p><p><b>Intake Valves: </b></p><ul><li>Manley Stainless Steel 2.16”</li></ul><p><br></p><p><b>Exhaust Valves: </b></p><ul><li>Manley Stainless Steel 1.6”\n</li></ul><p><br></p><p><b>Head Bolts:</b>&nbsp;</p><ul><li>ARP Performance</li></ul>",
+          "text1": "<p><b>Type: </b></p><ul><li>Trick Flow LS7 Aluminum CNC Ported, 6-Bolt</li></ul><p><br></p><p><b>Intake Valves: </b></p><ul><li>Manley Stainless Steel 2.16”</li></ul><p><br></p><p><b>Exhaust Valves: </b></p><ul><li>Manley Stainless Steel 1.6”\n</li></ul><p><br></p><p><b>Head Bolts:</b>&nbsp;</p><ul><li>ARP Performance, 6-Bolt</li></ul>",
           "text2": "<p><b>Combustion Chamber:&nbsp;</b></p><ul><li>70cc\n</li></ul><p><br></p><p><b>Flow: </b></p><ul><li>360CFM @ .600” Lift</li></ul><p><br></p><p><b>Spring Kit: </b></p><ul><li>PAC Racing Polished Double Valve Spring</li><li>Light Weight Tool Steel Retainers and Hardened Locks</li></ul><p><br></p><p><b>Rocker Arms: </b></p><ul><li>GM Factory 1.7 Ratio</li></ul><p><br></p><p><b>Pushrods: </b></p><ul><li>Smith Brothers 3/8 .083” Wall Hardened</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
@@ -26929,7 +26936,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2018/02/LS7-440ci-700hp-WS-DS.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> ",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -26938,7 +26945,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -27096,8 +27104,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b></p><ul><li>New GM LS7 Aluminum Block</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li></ul>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>New GM LSx Cast Iron Block</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li></ul>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Comp Star 4340 Forged Steel H-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -27150,7 +27158,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Type: </b></p><ul><li>Factory GM LS7 Aluminum CNC Ported</li></ul><p><br></p><p><b>Intake Valves: </b></p><ul><li>Manley Stainless Steel 2.16”</li></ul><p><br></p><p><b>Exhaust Valves: </b></p><ul><li>Manley Stainless Steel 1.6”\n</li></ul><p><br></p><p><b>Head Bolts:</b>&nbsp;</p><ul><li>ARP Performance</li></ul>",
+          "text1": "<p><b>Type: </b></p><ul><li>Trick Flow LS7 Aluminum CNC Ported</li></ul><p><br></p><p><b>Intake Valves: </b></p><ul><li>Manley Stainless Steel 2.16”</li></ul><p><br></p><p><b>Exhaust Valves: </b></p><ul><li>Manley Stainless Steel 1.6”\n</li></ul><p><br></p><p><b>Head Bolts:</b>&nbsp;</p><ul><li>ARP Performance</li></ul>",
           "text2": "<p><b>Combustion Chamber:&nbsp;</b></p><ul><li>70cc\n</li></ul><p><br></p><p><b>Flow: </b></p><ul><li>360CFM @ .600” Lift</li></ul><p><br></p><p><b>Spring Kit: </b></p><ul><li>PAC Racing Polished Double Valve Spring</li><li>Light Weight Tool Steel Retainers and Hardened Locks</li></ul><p><br></p><p><b>Rocker Arms: </b></p><ul><li>GM Factory 1.7 Ratio</li></ul><p><br></p><p><b>Pushrods: </b></p><ul><li>Smith Brothers 3/8 .083” Wall Hardened</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
@@ -27330,7 +27338,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://golenengineservice.com/wp-content/uploads/2018/02/RHS-454ci-700hp.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download Spec Sheet</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">Get Started Today</a> ",
           "_name": "msg-box4",
           "_styles": {
             "H3": {
@@ -27339,7 +27347,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -27497,8 +27506,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Block: </b></p><ul><li>New GM LS7 Aluminum Block</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Mahle Forged pistons with Anti-Friction Coating</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>GM MLS Head Gaskets</li></ul>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.125”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Scat  4340 Forged Steel I-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Mahle Plasma Moly</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
+          "text1": "<p><b>Block: </b></p><ul><li>RHS LS7 Aluminum Tall Deck Block</li><li>Bore Size 4.165\"</li><li>Zero Decked</li><li>Honed with Torque Plates and Pressure Washed</li><li>New Durabond Cam Bearings Installed</li><li>Line Honed</li><li>ARP Main Studs</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Custom Wiseco Forged<br><br></li></ul><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n</li></ul><p><br></p><p><b>Lifters:</b> </p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Gaskets: </b></p><ul><li>Cometic Head Gaskets</li></ul>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Billet</li><li>Stroke 4.600”</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Ultra Forged Steel H-Beam</li><li>6.125” Length</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Custom Wiseco Stainless Steel</li></ul><p><br></p><p><b>Camshaft: </b></p><ul><li>Comp Cams Hydraulic Roller</li></ul><p><br></p><p><b>Timing Sets: </b></p><ul><li>Cloyes Billet Hex Adjust Roller</li></ul><p><br></p><p><b>Oil Delivery: </b></p><ul><li>Melling Select Performance</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -27551,7 +27560,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Type: </b></p><ul><li>Trick Flow LS7 Aluminum CNC Ported</li></ul><p><br></p><p><b>Intake Valves: </b></p><ul><li>Manley Stainless Steel 2.16”</li></ul><p><br></p><p><b>Exhaust Valves: </b></p><ul><li>Manley Stainless Steel 1.6”\n</li></ul><p><br></p><p><b>Head Bolts:</b>&nbsp;</p><ul><li>ARP Performance</li></ul>",
+          "text1": "<p><b>Type: </b></p><ul><li>Mast 305cc LS7 Aluminum CNC Ported</li></ul><p><br></p><p><b>Intake Valves: </b></p><ul><li>Mast Stainless Steel 2.250”</li></ul><p><br></p><p><b>Exhaust Valves: </b></p><ul><li>Mast Stainless Steel 1.6”\n</li></ul><p><br></p><p><b>Head Bolts:</b>&nbsp;</p><ul><li>ARP Performance</li></ul>",
           "text2": "<p><b>Combustion Chamber:&nbsp;</b></p><ul><li>70cc\n</li></ul><p><br></p><p><b>Flow: </b></p><ul><li>360CFM @ .600” Lift</li></ul><p><br></p><p><b>Spring Kit: </b></p><ul><li>PAC Racing Polished Double Valve Spring</li><li>Light Weight Tool Steel Retainers and Hardened Locks</li></ul><p><br></p><p><b>Rocker Arms: </b></p><ul><li>GM Factory 1.7 Ratio</li></ul><p><br></p><p><b>Pushrods: </b></p><ul><li>Smith Brothers 3/8 .083” Wall Hardened</li></ul><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
