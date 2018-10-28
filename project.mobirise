@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "427ci-LS7-competition-short-block.html",
+    "currentPage": "408ci-LQ9-boosted-competition-short-block.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19263,7 +19263,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -19610,7 +19611,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -19957,7 +19959,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -20304,7 +20307,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -20985,8 +20989,8 @@
               "size": 250
             }
           },
-          "title": "<div><span style=\"font-weight: normal;\">Base Price LY6 $7,299</span></div>",
-          "text": "<p>The LS7 440ci competition short block uses a new GM LS7 block\nwith 4.125\" bore and a 4.125” Stroke to produce the 440CI. This is a\ngreat replacement engine for your Z06 Corvette but can be built to work\nin just about any car.&nbsp;<br></p><p>This engine is for NA use only and it will not support NOS or Boost!<br></p>",
+          "title": "<div><span style=\"font-weight: normal;\">Base Price $7,299</span></div>",
+          "text": "<p>The LS7 440ci competition short block uses a new GM LS7&nbsp;<span style=\"font-size: 25px;\">block\nwith 4.125\" bore and a 4.125” Stroke to produce the 440CI. This is a\ngreat replacement engine for your Z06 Corvette but can be built to work\nin just about any car.&nbsp;</span></p><p>This engine is for NA use only and it will not support NOS or Boost!<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -20999,7 +21003,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -21332,7 +21337,7 @@
               "size": 250
             }
           },
-          "title": "<div><span style=\"font-weight: normal;\">Base Price LY6 $7,199</span></div>",
+          "title": "<div><span style=\"font-weight: normal;\">Base Price $7,199</span></div>",
           "text": "<p>The LSx 454ci competition short block uses a new GM LSx cast iron block\nwith 4.185\" bore and 4.125” Stroke to produce the large 454ci.<br></p><p>The larger cubic inch allows for more low end torque is a good\n<br>foundation for higher horsepower applications.<br></p>",
           "_tags": [
             "Theme"
@@ -21346,7 +21351,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -21679,7 +21685,7 @@
               "size": 250
             }
           },
-          "title": "<div><span style=\"font-weight: normal;\">Base Price LY6 $9,299</span></div>",
+          "title": "<div><span style=\"font-weight: normal;\">Base Price $9,299</span></div>",
           "text": "<p>The RHS 454ci competition short block uses a new RHS block\n<br>with 4.185\" bore and a 4.125” Stroke to produce the 454CI</p><p>This short block can handle big NA power and small shots of NOS.<br></p>",
           "_tags": [
             "Theme"
@@ -21693,7 +21699,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -22026,7 +22033,7 @@
               "size": 250
             }
           },
-          "title": "<div><span style=\"font-weight: normal;\">Base Price LY6 $11,499</span></div>",
+          "title": "<div><span style=\"font-weight: normal;\">Base Price $11,499</span></div>",
           "text": "<p>The RHS 502ci competition short block uses a new RHS block\n<br>with 4.165\" bore and a 4.600” Stroke to produce the 502CI<br></p>",
           "_tags": [
             "Theme"
@@ -22040,7 +22047,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "center"
             },
             "DIV": {
               "text-align": "center",
@@ -22387,7 +22395,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -22734,7 +22743,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -23081,7 +23091,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -23240,7 +23251,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Block: </b></p><ul><li>New GM LSx Cast Iron Block Honed with Torque Plates</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Custom Forged Boost Pistons</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Comp Star 4340 Forged Steel H-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Gas Nitrided Ring Set<br></li></ul><p><br></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Dragon Slayer 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Ultra 4340 Forged Steel H-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Gas Nitrided Ring Set<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -23428,7 +23439,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
@@ -23587,7 +23599,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Block: </b></p><ul><li>New RHS Block Honed with Torque Plates</li><li>Bore Size 4.125\"</li><li>Zero Decked</li><li>Line Honed with ARP Main Studs</li><li>Blueprinted Oil Clearances</li><li>All New GM Block Plugs Installed</li><li>New Durabond Cam Bearings Installed</li></ul><p><br></p><p><b>Pistons: </b></p><ul><li>Wiseco Custom Forged Boost Pistons</li></ul><p><br></p><p><b>Bearings: </b></p><ul><li>Clevite H-Series Main and Rod Bearings\n<br></li></ul><p><b><br></b></p>",
-          "text2": "<p><b>Crank: </b></p><ul><li>Callies Comp Star 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Comp Star 4340 Forged Steel H-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Gas Nitrided Ring Set<br></li></ul><p><br></p>",
+          "text2": "<p><b>Crank: </b></p><ul><li>Callies Dragon Slayer 4340 Forged Steel</li><li>Stroke 4.000”</li><li>Your Choice of 24x or 58x Reluctor Wheel</li><li>Internally Balanced Front and Rear</li></ul><p><br></p><p><b>Rods: </b></p><ul><li>Callies Ultra 4340 Forged Steel H-Beam</li><li>6.125” Length</li><li>ARP 2000 Rod Bolts</li></ul><p><br></p><p><b>Rings: </b></p><ul><li>Wiseco Gas Nitrided Ring Set<br></li></ul><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -23775,7 +23787,8 @@
             },
             "P": {
               "font-size": "25px",
-              "color": "#232323"
+              "color": "#232323",
+              "text-align": "left"
             },
             "DIV": {
               "text-align": "center",
