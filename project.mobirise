@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-454ci-700hp-long-block.html",
+    "currentPage": "lsx-complete-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16304,7 +16304,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th></tr></thead><tbody><tr><td>LS2 402ci 550hp</td><td>$12,799</td><td><a href=\"ls2-402ci-550hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LQ9 / LY6 408ci 550hp&nbsp;</td><td>LQ9 $12,249 / LY6 $12,649</td><td><a href=\"lq9-408ci-550hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS3 416ci 605hp</td><td>$13,799</td><td><a href=\"ls3-416ci-605hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS7 427ci 650hp WS / DS</td><td>WS $16,299 / DS z06 $16,899</td><td><a href=\"ls7-427ci-650hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS7 440ci 700hp WS / DS</td><td>WS $16,899 / DS z06 $17,499</td><td><a href=\"ls7-440ci-700hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LSx 454ci 700hp</td><td>&nbsp;$16,999</td><td><a href=\"lsx-454ci-700hp-long-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LSx 427ci Boosted</td><td>$18,499</td><td><a href=\"lsx-427ci-boosted-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>RHS 502ci 800hp</td><td>Call for custom pricing</td><td><a href=\"rhs-ls7-502ci-800hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>RHS 427ci Boosted</td><td>Call for custom pricing</td><td><a href=\"rhs-427ci-boosted-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th></tr></thead><tbody><tr><td>LS2 402ci 550hp</td><td>$12,799</td><td><a href=\"ls2-402ci-550hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LQ9 / LY6 408ci 550hp&nbsp;</td><td>LQ9 $12,249 / LY6 $12,649</td><td><a href=\"lq9-408ci-550hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS3 416ci 605hp</td><td>$13,799</td><td><a href=\"ls3-416ci-605hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS7 427ci 650hp WS / DS</td><td>WS $16,299 / DS z06 $16,899</td><td><a href=\"ls7-427ci-650hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LS7 440ci 700hp WS / DS</td><td>WS $16,899 / DS z06 $17,499</td><td><a href=\"ls7-440ci-700hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LSx 454ci 700hp</td><td>&nbsp;$16,999</td><td><a href=\"lsx-454ci-700hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>LSx 427ci Boosted</td><td>$18,499</td><td><a href=\"lsx-427ci-boosted-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>RHS 502ci 800hp</td><td>Call for custom pricing</td><td><a href=\"rhs-ls7-502ci-800hp-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>RHS 427ci Boosted</td><td>Call for custom pricing</td><td><a href=\"rhs-427ci-boosted-complete-engine.html\" class=\"text-warning\">View Specs</a></td></tr></tbody>",
           "_anchor": "extTable1-vi"
         },
         {
@@ -26511,7 +26511,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/long-block-sm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/long-block.png",
               "link": "",
               "alt": "CHEVY LS7 427ci 650hp LONG BLOCK",
               "title": "CHEVY LS7 427ci 650hp LONG BLOCK",
@@ -26913,7 +26913,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/long-block-sm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/long-block.png",
               "link": "",
               "alt": "CHEVY LS7 427ci 650hp LONG BLOCK",
               "title": "CHEVY LS7 427ci 650hp LONG BLOCK",
