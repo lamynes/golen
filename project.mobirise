@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "ls7-440ci-700hp-complete-engine.html",
+    "currentPage": "lsx-454ci-700hp-long-block.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26511,7 +26511,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rhs-502ci-800hp-long-block-sm.png",
+              "src": "@PROJECT_PATH@/assets/images/long-block-sm-1.png",
               "link": "",
               "alt": "CHEVY LS7 427ci 650hp LONG BLOCK",
               "title": "CHEVY LS7 427ci 650hp LONG BLOCK",
@@ -26913,7 +26913,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rhs-502ci-800hp-long-block-sm.png",
+              "src": "@PROJECT_PATH@/assets/images/long-block-sm-1.png",
               "link": "",
               "alt": "CHEVY LS7 427ci 650hp LONG BLOCK",
               "title": "CHEVY LS7 427ci 650hp LONG BLOCK",
