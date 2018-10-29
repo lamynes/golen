@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "rhs-ls7-502ci-800hp-complete-engine.html",
+    "currentPage": "lsx-complete-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16193,7 +16193,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lsx-427ci-725hp-complete-sm.png",
+              "src": "@PROJECT_PATH@/assets/images/lsx-427ci-725hp-complete-sm-1.png",
               "link": "",
               "alt": "LSx COMPLETE ENGINES",
               "title": "LSx COMPLETE ENGINES",
