@@ -1309,6 +1309,14 @@ h6,
 #header1-84 .btn {
   font-size: 15px;
 }
+#header3-iy .mbr-section-title,
+#header3-iy .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-iy .mbr-section-title {
+  color: #fac51c;
+  font-size: 72px;
+}
 #header3-18f .mbr-section-title,
 #header3-18f .mbr-section-subtitle {
   text-align: center;
@@ -1326,14 +1334,6 @@ h6,
 }
 #buttons1-18g .btn {
   font-size: 15px;
-}
-#header3-iy .mbr-section-title,
-#header3-iy .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-iy .mbr-section-title {
-  color: #fac51c;
-  font-size: 72px;
 }
 #extCounters3-5t .counter-title {
   font-size: 30px;

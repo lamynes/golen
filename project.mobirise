@@ -2191,6 +2191,30 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
+              "color": "#fac51c",
+              "font-size": "72px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-iy",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#000000"
+          },
+          "title": "<span style=\"font-weight: normal;\">GOLEN ENGINE</span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
               "font-size": "30px",
               "text-align": "center",
               "color": "#ffffff"
@@ -2233,30 +2257,6 @@
             }
           },
           "_anchor": "buttons1-18g"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#fac51c",
-              "font-size": "72px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-iy",
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#000000"
-          },
-          "title": "<span style=\"font-weight: normal;\">GOLEN ENGINE</span>",
-          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -8379,7 +8379,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "title": "<span style=\"font-weight: normal;\">Get 6 Months to Pay With Blispay</span>",
+          "title": "<span style=\"font-weight: normal;\">Get 6 Months to Pay With <i>Blispay</i></span>",
           "meta": "GOLEN HIGH PERFORMANCE ENGINES",
           "_tags": [
             "Theme"
