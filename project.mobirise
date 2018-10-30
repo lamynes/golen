@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "blispay-details.html",
+    "currentPage": "lsx-short-blocks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -5395,12 +5395,20 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "30px"
             },
             "P": {
               "font-size": "20px",
               "text-align": "left"
+            },
+            "UL": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "23px"
+            },
+            "I": {
+              "color": "#000000"
             }
           },
           "_anchor": "msg-box4-cm",
@@ -5409,21 +5417,21 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "50",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": "56",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -5443,8 +5451,8 @@
               "size": 250
             }
           },
-          "title": "Benefits of having your engine broken in and tuned on the dyno:",
-          "text": "<p><b>°</b>&nbsp; &nbsp;Seat Piston rings\n<br><b>°</b>&nbsp; &nbsp;Retorque all fasteners\n<br><b>°</b>&nbsp; &nbsp;Check for leaks\n<br><b>°</b>&nbsp; &nbsp;Inspection of oil and filters\n<br><b>°</b>&nbsp; Tune fuel and ignition systems for optimal performance<br></p>",
+          "title": "<i>Benefits of having your engine broken in and tuned on the dyno:</i>",
+          "text": "<ul><li>Seat Piston rings</li><li>Retorque all fasteners</li><li>Check for leaks</li><li>Inspection of oil and filters</li><li>Tune fuel and ignition systems for optimal performance<br></li></ul>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -5467,7 +5475,8 @@
               "color": "#000000"
             },
             "DIV": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             }
           },
           "_anchor": "content1-ca",
@@ -5476,7 +5485,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<div><font color=\"#000000\"><span style=\"font-size: 20px;\"><b>OUR PROCESS:</b>\n</span></font></div><div><font color=\"#000000\"><span style=\"font-size: 20px;\">\n</span></font></div><div><font color=\"#000000\"><span style=\"font-size: 20px;\">We will run your engine for a complete break in cycle monitoring all engine vitals over the course of a few hours,  once the break in cycle is complete will be change oil, inspect the oil filter and re torque all fasteners. At this point we will run the engine between 10-15 full rpm runs while recording all engine vitals and looking for consistent power readings from run to run. We will provide you with a video of your engine running on the dyno and accompany it with printed copies of the dyno readings for your records. Customers are always welcome to visit our shop and see their engines run on the dyno and take them home the same day, this service is by appointment only.</span></font></div><div><font color=\"#000000\"><span style=\"font-size: 20px;\"><br></span></font></div><div><font color=\"#000000\"><span style=\"font-size: 20px;\">\n</span></font></div><div><b>PRICING:</b></div><ul><li>LSx Wet Sump EFI Engines $700\n</li><li>LSx Dry Sump EFI Engines $850 \n</li><li>(includes both internal LS7 Zo6 Dry Sump and External Dry Sumps)\n</li><li>SBC/BBC Carb or EFI $700\n</li><li>SBF Carb or EFI $700\n</li><li>Chrysler SB/BB Carb or EFI $800</li></ul>"
+          "text": "<div><font color=\"#000000\"><span style=\"font-size: 20px;\"><b>OUR PROCESS:</b></span></font></div><div><font color=\"#000000\"><span style=\"font-size: 20px;\"><b><br></b>\n</span></font></div><div><font color=\"#000000\"><span style=\"font-size: 20px;\">\n</span></font></div><div><font color=\"#000000\"><span style=\"font-size: 20px;\">We will run your engine for a complete break in cycle monitoring all engine vitals over the course of a few hours,  once the break in cycle is complete will be change oil, inspect the oil filter and re torque all fasteners. At this point we will run the engine between 10-15 full rpm runs while recording all engine vitals and looking for consistent power readings from run to run. We will provide you with a video of your engine running on the dyno and accompany it with printed copies of the dyno readings for your records. Customers are always welcome to visit our shop and see their engines run on the dyno and take them home the same day, this service is by appointment only.</span></font></div><div><font color=\"#000000\"><span style=\"font-size: 20px;\"><br></span></font></div><div><font color=\"#000000\"><span style=\"font-size: 20px;\">\n</span></font></div><div><b>PRICING:</b></div><ul><li>LSx Wet Sump EFI Engines $700\n</li><li>LSx Dry Sump EFI Engines $850 \n</li><li>(includes both internal LS7 Zo6 Dry Sump and External Dry Sumps)\n</li><li>SBC/BBC Carb or EFI $700\n</li><li>SBF Carb or EFI $700\n</li><li>Chrysler SB/BB Carb or EFI $800</li></ul>"
         },
         {
           "_tags": [
@@ -15199,6 +15208,9 @@
               "text-align": "center",
               "font-size": "20px",
               "color": "#000000"
+            },
+            "SPAN": {
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -15207,8 +15219,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
@@ -15975,6 +15987,9 @@
               "text-align": "center",
               "font-size": "20px",
               "color": "#000000"
+            },
+            "SPAN": {
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -15983,8 +15998,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
@@ -16496,6 +16511,9 @@
             "H3": {
               "text-align": "center",
               "font-size": "36px"
+            },
+            "SPAN": {
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -16504,8 +16522,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
