@@ -11501,10 +11501,14 @@ h6,
 }
 #header2-178 .mbr-section-text {
   text-align: center;
-  color: #232323;
+  color: #393939;
   font-size: 20px;
 }
 #header2-178 .mbr-section-title {
   text-align: center;
+  color: #fac51c;
+}
+#header2-178 .mbr-section-title SPAN {
   color: #000000;
+  font-size: 36px;
 }
