@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-short-blocks.html",
+    "currentPage": "blispay-details.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32242,7 +32242,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": false,
-            "imageSize": "34",
+            "imageSize": "23",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/corvette-stingray-custom-muscle-cars-96.jpg",
             "parallax": true,
