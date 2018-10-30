@@ -32243,11 +32243,11 @@
             "inverse": false,
             "showArrow": false,
             "imageSize": "23",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/corvette-stingray-custom-muscle-cars-96.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -32279,7 +32279,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i><br></i></span><span style=\"font-weight: normal;\"><i>6 Month Special Financing Available + 2% Cash Back</i></span>",
           "text": "We’ve teamed up with Blispay to offer special financing. Enjoy 6 months to pay on all purchases over $199. Plus, you'll get 2% Cash Back! \n<br>\n<br><b>How it works:</b> <br><b>Apply for Blispay \n</b><br>Apply on your phone or computer at <a href=\"https://blispay.com/golenengine\" target=\"_blank\" class=\"text-warning\">https://blispay.com/golenengine</a>\n<br>\n<br><b>Complete your purchase \n</b><br>If approved, you'll instantly receive a digital Blispay Visa® Card which you can use to make your purchase. \n<br>\n<br><b>Enjoy 6 months to pay \n</b><br>You’ll receive No Payments, No Interest on all purchases over $199 if paid in full in 6 months + 2% Cash Back.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://blispay.com/golenengine\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE AND APPLY NOW</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://blispay.com/golenengine\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE AND APPLY NOW</a>",
           "_tags": [
             "Theme"
           ],
@@ -32287,13 +32287,13 @@
           "_anchor": "header2-178",
           "_styles": {
             ".mbr-section-text B": {
-              "font-size": "20px",
+              "font-size": "23px",
               "color": "#000000"
             },
             ".mbr-section-text": {
               "text-align": "center",
               "color": "#393939",
-              "font-size": "20px"
+              "font-size": "23px"
             },
             ".mbr-section-title": {
               "text-align": "center",
