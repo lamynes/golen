@@ -32243,18 +32243,18 @@
             "inverse": false,
             "showArrow": false,
             "imageSize": "23",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/corvette-stingray-custom-muscle-cars-96.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
