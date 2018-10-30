@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "index.html",
+    "currentPage": "lsx-short-blocks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -15637,7 +15637,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "title": "Get 6 Months to Pay With Blispay",
+          "title": "<span style=\"font-weight: normal;\">Get 6 Months to Pay With Blispay</span>",
           "meta": "GOLEN HIGH PERFORMANCE ENGINES",
           "_tags": [
             "Theme"
