@@ -1331,20 +1331,6 @@ h6,
   font-size: 20px;
   color: #90a878;
 }
-#header3-184 .mbr-section-title,
-#header3-184 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-184 .mbr-section-title {
-  font-size: 30px;
-  text-align: center;
-}
-#header3-184 .mbr-section-subtitle {
-  font-size: 20px;
-}
-#buttons1-185 .btn {
-  font-size: 15px;
-}
 #extFeatures7-rq P {
   font-size: 20px;
   text-align: center;
@@ -1377,6 +1363,20 @@ h6,
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
   color: #000000;
+}
+#header3-184 .mbr-section-title,
+#header3-184 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-184 .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-184 .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-185 .btn {
+  font-size: 15px;
 }
 #header3-lj .mbr-section-title,
 #header3-lj .mbr-section-subtitle {
@@ -2835,11 +2835,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-173 .link {
-  font-size: 1.05rem;
+  font-size: 0.85rem;
 }
 #menu-173 .dropdown-item,
 #menu-173 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.921rem;
 }
 #menu-173 .link:hover,
 #menu-173 .dropdown-item:hover,
@@ -4670,20 +4670,6 @@ h6,
 #buttons1-17e .btn {
   font-size: 14px;
 }
-#header3-17l .mbr-section-title,
-#header3-17l .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-17l .mbr-section-title {
-  font-size: 30px;
-  text-align: center;
-}
-#header3-17l .mbr-section-subtitle {
-  font-size: 20px;
-}
-#buttons1-17g .btn {
-  font-size: 15px;
-}
 #msg-box4-rz H3 {
   font-size: 36px;
   text-align: center;
@@ -4852,6 +4838,20 @@ h6,
   font-size: 48px;
   text-align: center;
 }
+#header3-189 .mbr-section-title,
+#header3-189 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-189 .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-189 .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-18a .btn {
+  font-size: 15px;
+}
 #content1-t3 P {
   text-align: center;
   font-size: 20px;
@@ -4876,20 +4876,6 @@ h6,
   color: #f3c649;
   text-align: center;
   font-size: 60px;
-}
-#header3-17s .mbr-section-title,
-#header3-17s .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-17s .mbr-section-title {
-  font-size: 30px;
-  text-align: center;
-}
-#header3-17s .mbr-section-subtitle {
-  font-size: 20px;
-}
-#buttons1-17t .btn {
-  font-size: 15px;
 }
 #msg-box4-tv H3 {
   font-size: 36px;
@@ -4999,6 +4985,20 @@ h6,
 #extTable1-ty TH {
   color: #000000;
 }
+#header3-17s .mbr-section-title,
+#header3-17s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17s .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-17s .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17t .btn {
+  font-size: 15px;
+}
 #content1-ui P {
   text-align: center;
   font-size: 20px;
@@ -5095,20 +5095,6 @@ h6,
   text-align: center;
   font-size: 60px;
 }
-#header3-17u .mbr-section-title,
-#header3-17u .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-17u .mbr-section-title {
-  font-size: 30px;
-  text-align: center;
-}
-#header3-17u .mbr-section-subtitle {
-  font-size: 20px;
-}
-#buttons1-17v .btn {
-  font-size: 15px;
-}
 #msg-box4-vf H3 {
   text-align: center;
   font-size: 36px;
@@ -5147,6 +5133,20 @@ h6,
 }
 #extTable1-vi TH {
   color: #000000;
+}
+#header3-17u .mbr-section-title,
+#header3-17u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17u .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-17u .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17v .btn {
+  font-size: 15px;
 }
 #content1-vx P {
   text-align: center;
