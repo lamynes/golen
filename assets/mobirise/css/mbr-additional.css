@@ -1161,11 +1161,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-m3 .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #menu-m3 .dropdown-item,
 #menu-m3 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #menu-m3 .link:hover,
 #menu-m3 .dropdown-item:hover,
@@ -2762,11 +2762,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-pm .link {
-  font-size: 0.75rem;
+  font-size: 1.05rem;
 }
 #menu-pm .dropdown-item,
 #menu-pm .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.137rem;
 }
 #menu-pm .link:hover,
 #menu-pm .dropdown-item:hover,
