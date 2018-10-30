@@ -2764,24 +2764,6 @@ h6,
 #extSlider1-mg DIV {
   color: #fac51c;
 }
-#header3-17j .mbr-section-title,
-#header3-17j .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-17j .mbr-section-title {
-  font-size: 30px;
-  text-align: center;
-  color: #ffffff;
-}
-#header3-17j .mbr-section-subtitle {
-  font-size: 20px;
-}
-#header3-17j .mbr-section-title SPAN {
-  color: #ffffff;
-}
-#buttons1-17k .btn {
-  font-size: 15px;
-}
 #header3-j9 .mbr-section-title,
 #header3-j9 .mbr-section-subtitle {
   text-align: center;
@@ -2807,6 +2789,24 @@ h6,
 #header3-ja .mbr-section-title SPAN {
   color: #ffffff;
   font-size: 48px;
+}
+#header3-17j .mbr-section-title,
+#header3-17j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17j .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+  color: #ffffff;
+}
+#header3-17j .mbr-section-subtitle {
+  font-size: 20px;
+}
+#header3-17j .mbr-section-title SPAN {
+  color: #ffffff;
+}
+#buttons1-17k .btn {
+  font-size: 15px;
 }
 #content1-jb P {
   text-align: center;
