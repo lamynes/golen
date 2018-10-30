@@ -855,11 +855,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-kw .link {
-  font-size: 1.05rem;
+  font-size: 0.85rem;
 }
 #menu-kw .dropdown-item,
 #menu-kw .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.921rem;
 }
 #menu-kw .link:hover,
 #menu-kw .dropdown-item:hover,
@@ -926,13 +926,6 @@ h6,
   color: #fac51c;
   font-size: 72px;
 }
-#extMsg-box4-17d .btn {
-  font-size: 15px;
-}
-#extMsg-box4-17d SPAN {
-  color: #ffffff;
-  font-size: 48px;
-}
 #content1-7s P {
   font-size: 20px;
   text-align: left;
@@ -982,6 +975,9 @@ h6,
 #msg-box4-8c I {
   color: #fac51c;
 }
+#msg-box4-8c .btn {
+  font-size: 14px;
+}
 #content1-nu P {
   font-size: 20px;
   text-align: left;
@@ -996,6 +992,19 @@ h6,
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
   color: #000000;
+}
+#header3-17w .mbr-section-title,
+#header3-17w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17w .mbr-section-title {
+  font-size: 30px;
+}
+#header3-17w .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17x .btn {
+  font-size: 15px;
 }
 #content1-7n P {
   font-size: 46px;
@@ -1034,6 +1043,9 @@ h6,
 #msg-box4-8q I {
   color: #fac51c;
 }
+#msg-box4-8q .btn {
+  font-size: 14px;
+}
 #content1-nv P {
   font-size: 20px;
   text-align: left;
@@ -1049,6 +1061,19 @@ h6,
   font-family: 'Oswald', sans-serif;
   color: #000000;
 }
+#header3-180 .mbr-section-title,
+#header3-180 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-180 .mbr-section-title {
+  font-size: 30px;
+}
+#header3-180 .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-181 .btn {
+  font-size: 15px;
+}
 #msg-box4-8t H3 {
   font-size: 36px;
   text-align: center;
@@ -1061,6 +1086,9 @@ h6,
   text-align: center;
   color: #000000;
   font-size: 20px;
+}
+#msg-box4-8t .btn {
+  font-size: 14px;
 }
 #content1-nw P {
   font-size: 20px;
@@ -1080,6 +1108,20 @@ h6,
 #content1-8i DIV {
   font-size: 20px;
 }
+#header3-186 .mbr-section-title,
+#header3-186 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-186 .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-186 .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-187 .btn {
+  font-size: 15px;
+}
 #content1-7v P {
   font-size: 46px;
   text-align: center;
@@ -1092,6 +1134,16 @@ h6,
   color: #ffffff;
   text-align: left;
   font-size: 20px;
+}
+#header3-188 .mbr-section-title,
+#header3-188 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-188 .mbr-section-title {
+  font-size: 30px;
+}
+#header3-188 .mbr-section-title SPAN {
+  font-size: 36px;
 }
 #msg-box4-7g H3 {
   font-size: 36px;
@@ -1168,11 +1220,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-m3 .link {
-  font-size: 1.05rem;
+  font-size: 0.85rem;
 }
 #menu-m3 .dropdown-item,
 #menu-m3 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.921rem;
 }
 #menu-m3 .link:hover,
 #menu-m3 .dropdown-item:hover,
@@ -1237,13 +1289,6 @@ h6,
   color: #fac51c;
   font-size: 72px;
 }
-#extMsg-box4-17b .btn {
-  font-size: 15px;
-}
-#extMsg-box4-17b SPAN {
-  color: #ffffff;
-  font-size: 48px;
-}
 #extCounters3-5t .counter-title {
   font-size: 30px;
   color: #ffffff;
@@ -1285,6 +1330,20 @@ h6,
 #header3-w7 .mbr-section-subtitle I {
   font-size: 20px;
   color: #90a878;
+}
+#header3-184 .mbr-section-title,
+#header3-184 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-184 .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-184 .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-185 .btn {
+  font-size: 15px;
 }
 #extFeatures7-rq P {
   font-size: 20px;
@@ -2728,12 +2787,19 @@ h6,
 #features3-je H4 {
   color: #000000;
 }
-#extMsg-box4-16u .btn {
-  font-size: 15px;
+#header3-17j .mbr-section-title,
+#header3-17j .mbr-section-subtitle {
+  text-align: center;
 }
-#extMsg-box4-16u SPAN {
-  color: #fac51c;
-  font-size: 48px;
+#header3-17j .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-17j .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17k .btn {
+  font-size: 15px;
 }
 #content1-jf P {
   text-align: center;
@@ -4542,11 +4608,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-rr .link {
-  font-size: 1.05rem;
+  font-size: 0.85rem;
 }
 #menu-rr .dropdown-item,
 #menu-rr .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.921rem;
 }
 #menu-rr .link:hover,
 #menu-rr .dropdown-item:hover,
@@ -4601,12 +4667,22 @@ h6,
   text-align: center;
   font-size: 60px;
 }
-#extMsg-box4-16y .btn {
-  font-size: 15px;
+#buttons1-17e .btn {
+  font-size: 14px;
 }
-#extMsg-box4-16y SPAN {
-  color: #ffffff;
-  font-size: 48px;
+#header3-17l .mbr-section-title,
+#header3-17l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17l .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-17l .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17g .btn {
+  font-size: 15px;
 }
 #msg-box4-rz H3 {
   font-size: 36px;
@@ -4645,6 +4721,20 @@ h6,
 #extTable1-s2 TH {
   color: #000000;
 }
+#header3-17m .mbr-section-title,
+#header3-17m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17m .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-17m .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17n .btn {
+  font-size: 15px;
+}
 #msg-box4-s3 H3 {
   font-size: 36px;
   text-align: center;
@@ -4677,6 +4767,20 @@ h6,
 #extTable1-s6 .mbr-section-title SPAN {
   font-size: 25px;
 }
+#header3-17o .mbr-section-title,
+#header3-17o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17o .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-17o .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17p .btn {
+  font-size: 15px;
+}
 #msg-box4-s7 H3 {
   text-align: center;
   font-size: 36px;
@@ -4707,6 +4811,20 @@ h6,
 }
 #extTable1-sa TABLE {
   text-align: left;
+}
+#header3-17q .mbr-section-title,
+#header3-17q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17q .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-17q .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17r .btn {
+  font-size: 15px;
 }
 #msg-box4-sb H3 {
   text-align: center;
@@ -4759,12 +4877,19 @@ h6,
   text-align: center;
   font-size: 60px;
 }
-#extMsg-box4-179 .btn {
-  font-size: 15px;
+#header3-17s .mbr-section-title,
+#header3-17s .mbr-section-subtitle {
+  text-align: center;
 }
-#extMsg-box4-179 SPAN {
-  color: #ffffff;
-  font-size: 48px;
+#header3-17s .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-17s .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17t .btn {
+  font-size: 15px;
 }
 #msg-box4-tv H3 {
   font-size: 36px;
@@ -4800,11 +4925,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-t6 .link {
-  font-size: 1.05rem;
+  font-size: 0.85rem;
 }
 #menu-t6 .dropdown-item,
 #menu-t6 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.921rem;
 }
 #menu-t6 .link:hover,
 #menu-t6 .dropdown-item:hover,
@@ -4911,11 +5036,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-ul .link {
-  font-size: 1.05rem;
+  font-size: 0.85rem;
 }
 #menu-ul .dropdown-item,
 #menu-ul .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 0.921rem;
 }
 #menu-ul .link:hover,
 #menu-ul .dropdown-item:hover,
@@ -4970,12 +5095,19 @@ h6,
   text-align: center;
   font-size: 60px;
 }
-#extMsg-box4-17a .btn {
-  font-size: 15px;
+#header3-17u .mbr-section-title,
+#header3-17u .mbr-section-subtitle {
+  text-align: center;
 }
-#extMsg-box4-17a SPAN {
-  color: #ffffff;
-  font-size: 48px;
+#header3-17u .mbr-section-title {
+  font-size: 30px;
+  text-align: center;
+}
+#header3-17u .mbr-section-subtitle {
+  font-size: 20px;
+}
+#buttons1-17v .btn {
+  font-size: 15px;
 }
 #msg-box4-vf H3 {
   text-align: center;
@@ -4983,6 +5115,14 @@ h6,
 }
 #msg-box4-vf SPAN {
   font-size: 48px;
+}
+#msg-box4-vf .btn {
+  font-size: 14px;
+}
+#msg-box4-vf P {
+  font-size: 25px;
+  color: #e68c07;
+  text-align: center;
 }
 #content1-vg P {
   font-size: 20px;
