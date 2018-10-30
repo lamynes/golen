@@ -2645,7 +2645,7 @@ h6,
 
 
 #extSlider1-mg H2 {
-  color: #f3c649;
+  color: #fac51c;
   text-align: center;
   font-size: 80px;
 }
@@ -2655,7 +2655,7 @@ h6,
   font-size: 30px;
 }
 #extSlider1-mg DIV {
-  color: #f3c649;
+  color: #fac51c;
 }
 #header3-j9 .mbr-section-title,
 #header3-j9 .mbr-section-subtitle {
@@ -11470,15 +11470,11 @@ h6,
   font-size: 15px;
   color: #ffffff;
 }
-#extHeader12-177 P {
-  text-align: center;
-  color: #000000;
+#header2-178 .mbr-section-text B {
   font-size: 20px;
+  color: #000000;
 }
-#extHeader12-177 H3 {
-  font-size: 30px;
+#header2-178 .mbr-section-text {
   text-align: center;
-}
-#extHeader12-177 B {
-  font-size: 25px;
+  color: #232323;
 }
