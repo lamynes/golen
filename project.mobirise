@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-short-blocks.html",
+    "currentPage": "lsx-crate-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 1557,
+    "uniqCompNum": 1560,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1987,8 +1987,8 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
@@ -2006,9 +2006,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "6 Month Special Financing Available + 2% Cash Back",
+          "title": "<span style=\"font-weight: normal;\"><i>6 Month Special Financing Available + 2% Cash Back</i></span>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -2019,11 +2019,11 @@
               "font-size": "15px"
             },
             "SPAN": {
-              "color": "#fac51c",
+              "color": "#ffffff",
               "font-size": "48px"
             }
           },
-          "_anchor": "extMsg-box4-16v"
+          "_anchor": "extMsg-box4-17b"
         },
         {
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -15154,8 +15154,8 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
@@ -15173,7 +15173,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "6 Month Special Financing Available + 2% Cash Back",
+          "title": "<span style=\"font-weight: normal;\"><i>6 Month Special Financing Available + 2% Cash Back</i></span>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "alias": "mobirise3-blocks/components",
@@ -15186,7 +15186,7 @@
               "font-size": "15px"
             },
             "SPAN": {
-              "color": "#fac51c",
+              "color": "#ffffff",
               "font-size": "48px"
             }
           },
@@ -15933,8 +15933,8 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
@@ -15952,7 +15952,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "6 Month Special Financing Available + 2% Cash Back",
+          "title": "<span style=\"font-weight: normal;\"><i>6 Month Special Financing Available + 2% Cash Back</i></span>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "alias": "mobirise3-blocks/components",
@@ -15965,11 +15965,11 @@
               "font-size": "15px"
             },
             "SPAN": {
-              "color": "#fac51c",
+              "color": "#ffffff",
               "font-size": "48px"
             }
           },
-          "_anchor": "extMsg-box4-170"
+          "_anchor": "extMsg-box4-179"
         },
         {
           "_inherit": "msg-box5",
@@ -16463,8 +16463,8 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
             "parallax": false,
@@ -16482,9 +16482,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "6 Month Special Financing Available + 2% Cash Back",
+          "title": "<span style=\"font-weight: normal;\"><i>6 Month Special Financing Available + 2% Cash Back</i></span>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -16495,11 +16495,11 @@
               "font-size": "15px"
             },
             "SPAN": {
-              "color": "#fac51c",
+              "color": "#ffffff",
               "font-size": "48px"
             }
           },
-          "_anchor": "extMsg-box4-172"
+          "_anchor": "extMsg-box4-17a"
         },
         {
           "_inherit": "msg-box5",
