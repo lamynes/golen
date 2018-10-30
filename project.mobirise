@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-crate-engines.html",
+    "currentPage": "jeep-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 1595,
+    "uniqCompNum": 1599,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -867,6 +867,55 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "title": "6 Month Special Financing Available + 2% Cash Back With Blispay",
+          "meta": "GOLEN HIGH PERFORMANCE ENGINES",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "buttons1-18e"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1000,6 +1049,53 @@
           },
           "title": "<span style=\"font-weight: normal;\">MACHINED, BALANCED &amp; BLUPRINTED</span>",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
+          "meta": "GOLEN HIGH PERFORMANCE ENGINES",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "buttons1-17x"
         },
         {
           "_inherit": "msg-box5",
@@ -1150,50 +1246,6 @@
           "text": "<div><font color=\"#000000\"><span style=\"font-size: 20px;\"><b>Pricing on 4.6L Jeep Complete Engine for 1991-2006 fuel injected Jeeps:</b></span></font></div><ul><li><b>1991-1999</b> year models <b>$5849\n</b></li><li><b>2000-2006</b> year models <b>$6249</b></li></ul><p><br></p><p><b>Complete Engine Includes the following parts and services:</b></p><ul><li>Dyno Break In Service\n</li><li>Oil pan\n</li><li>Timing cover\n</li><li>Slinger and Buffer for timing cover\n</li><li>Oil pan and timing cover bolt kit\n</li><li>Valve Cover Kit w/ Golen 4.6L Badge\n</li><li>Harmonic balancer pulley\n</li><li>Labor to install covers\n</li><li>Joe Gibbs 15w50 Break In Oil\n</li><li>Oil filters (3)\n</li><li>Spark plugs\n</li><li>24lb Fuel Injector Kit</li></ul><p><b><br></b></p><p><b>Optional Parts to gain a little more power:</b></p><ul><li>Performance tubular stainless steel header $425\n</li><li>62mm Throttle Body 1991-2004 $295</li><li>Flow Kooler - High Flow Water Pump $125</li></ul>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "30px"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
-          "meta": "GOLEN HIGH PERFORMANCE ENGINES",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-17w"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "buttons1-17x"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1303,6 +1355,53 @@
           },
           "title": "<span style=\"font-weight: normal;\">MACHINED, BALANCED &amp; BLUPRINTED</span>",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
+          "meta": "GOLEN HIGH PERFORMANCE ENGINES",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-180"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "buttons1-181"
         },
         {
           "_inherit": "msg-box5",
@@ -1455,17 +1554,22 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
           "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
           "meta": "GOLEN HIGH PERFORMANCE ENGINES",
@@ -1473,13 +1577,13 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-180"
+          "_anchor": "header3-186"
         },
         {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
@@ -1491,7 +1595,7 @@
               "font-size": "15px"
             }
           },
-          "_anchor": "buttons1-181"
+          "_anchor": "buttons1-187"
         },
         {
           "_inherit": "msg-box5",
@@ -1640,51 +1744,6 @@
             "bgColor": "#ffffff"
           },
           "text": "<div><font color=\"#000000\"><span style=\"font-size: 20px;\"><b>Pricing on 4.6L Jeep Carb Turn Key for 1971-1990 Jeeps:</b></span></font></div><ul><li><b>1971-1990</b> year models <b>$7499</b></li></ul><p><br></p><p><b>Parts and Services Included in Jeep Carb Turn Key Engine:</b></p><ul><li>Dyno Break In and Tuning Service\n</li><li>Oil pan\n</li><li>Timing cover\n</li><li>Slinger and Buffer for timing cover\n</li><li>Oil pan and timing cover bolt kit\n</li><li>Valve Cover Kit w/ Golen 4.6L Badge\n</li><li>Valve Cover Breathers with PCV\n</li><li>Harmonic balancer pulley\n</li><li>Labor to install covers\n</li><li>Joe Gibbs 10w40 Break In Oil\n</li><li>Oil filters (3)\n</li><li>Spark plugs\n</li><li>Performance intake manifold\n</li><li>Performance tubular stainless steel header\n</li><li>Holley 390cfm Carb w/electric choke\n</li><li>HEI Distributor and Coil Kit\n</li><li>Performance Spark Plug Wires\n</li><li>Flowkooler High Flow Water Pump\n</li><li>Thermostat Housing and Thermostat</li></ul>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "30px",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
-          "meta": "GOLEN HIGH PERFORMANCE ENGINES",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-186"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "buttons1-187"
         },
         {
           "_tags": [
@@ -2760,10 +2819,14 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -8505,10 +8568,14 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -15340,6 +15407,55 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#000000"
+          },
+          "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
+          "meta": "GOLEN HIGH PERFORMANCE ENGINES",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17m"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "buttons1-17n"
+        },
+        {
           "_inherit": "msg-box5",
           "_tags": [
             "Theme"
@@ -15368,10 +15484,10 @@
             "imageSize": "70",
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -15505,31 +15621,35 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
-          "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
+          "title": "6 Month Special Financing Available + 2% Cash Back With Blispay",
           "meta": "GOLEN HIGH PERFORMANCE ENGINES",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-17m"
+          "_anchor": "header3-18b"
         },
         {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
@@ -15541,7 +15661,7 @@
               "font-size": "15px"
             }
           },
-          "_anchor": "buttons1-17n"
+          "_anchor": "buttons1-18c"
         },
         {
           "_inherit": "msg-box5",
@@ -15569,10 +15689,10 @@
             "imageSize": "70",
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -15704,17 +15824,21 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
           "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
           "meta": "GOLEN HIGH PERFORMANCE ENGINES",
@@ -15727,8 +15851,8 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingBottom": "1",
+            "bgColor": "#000000"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
@@ -15767,10 +15891,10 @@
             "imageSize": "70",
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -15902,17 +16026,21 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
           "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
           "meta": "GOLEN HIGH PERFORMANCE ENGINES",
@@ -15926,7 +16054,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
@@ -15963,10 +16091,10 @@
             "imageSize": "70",
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -16095,17 +16223,21 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
           "title": "<span style=\"font-weight: normal;\">6 Month Special Financing Available + 2% Cash Back With Blispay</span>",
           "meta": "GOLEN HIGH PERFORMANCE ENGINES",
@@ -16119,7 +16251,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
@@ -16524,10 +16656,14 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -16955,10 +17091,14 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "font-size": "20px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           },
           "_params": {
