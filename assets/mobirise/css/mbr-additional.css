@@ -4794,11 +4794,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-rr .link {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 #menu-rr .dropdown-item,
 #menu-rr .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.866rem;
 }
 #menu-rr .link:hover,
 #menu-rr .dropdown-item:hover,
