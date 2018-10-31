@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "index.html",
+    "currentPage": "lsx-short-blocks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16872,7 +16872,7 @@
           "_name": "extTable1",
           "_styles": {
             "TD": {
-              "font-size": "15px"
+              "font-size": "17px"
             },
             ".mbr-section-title": {
               "font-size": "48px",
