@@ -174,9 +174,6 @@
 		<loc>https://test.golenengineservice.com/blispay-details.html</loc>
 	</url>
 	<url>
-		<loc>https://test.golenengineservice.com/5-point-7l-ls1-ls6-street-strip-short-block.7L LS1LS6 StreetStrip Short Bl.bbefkcqaytMU0cshort-block.html</loc>
-	</url>
-	<url>
 		<loc>https://test.golenengineservice.com/6-point-0l-ls2-street-strip-short-block.html</loc>
 	</url>
 	<url>
@@ -199,5 +196,8 @@
 	</url>
 	<url>
 		<loc>https://test.golenengineservice.com/5-point-3l-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/5-point-7l-ls1-ls6-street-strip-short-block.html</loc>
 	</url>
 </urlset>
