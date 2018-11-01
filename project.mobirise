@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "index.html",
+    "currentPage": "dyno-tuning-service.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -786,7 +786,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -4657,7 +4657,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -6122,7 +6122,7 @@
             "UL": {
               "color": "#000000",
               "text-align": "left",
-              "font-size": "23px"
+              "font-size": "20px"
             },
             "I": {
               "color": "#000000"
@@ -6132,16 +6132,16 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": "56",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -6170,7 +6170,7 @@
           },
           "title": "<i>Benefits of having your engine broken in and tuned on the dyno:</i>",
           "text": "<ul><li>Seat Piston rings</li><li>Retorque all fasteners</li><li>Check for leaks</li><li>Inspection of oil and filters</li><li>Tune fuel and ignition systems for optimal performance<br></li></ul>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>"
         },
         {
           "_tags": [
@@ -6371,7 +6371,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -12426,7 +12426,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -16167,7 +16167,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -17344,7 +17344,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -17623,7 +17623,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -27513,7 +27513,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -27915,7 +27915,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -32568,7 +32568,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
