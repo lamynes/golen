@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-complete-engines.html",
+    "currentPage": "lsx-short-blocks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16873,7 +16873,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th></tr></thead><tbody><tr><td>402ci LS2</td><td>$5,399</td><td><a href=\"402ci-LS2-competition-short-block .html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>408ci LY6 / LQ9</td><td>$4,999 / $4,699</td><td><a href=\"408ci-LY6-or-LQ9-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>416ci LS3</td><td>$5,899</td><td><a href=\"416ci-LS-cmpetition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>427ci LS7</td><td>$7,199</td><td><a href=\"427ci-ls7-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>440ci LS7</td><td>$7,299</td><td><a href=\"440ci-ls7-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>454ci LSx</td><td>$7,199</td><td><a href=\"454ci-lsx-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>454ci RHS</td><td>$9,299</td><td><a href=\"454ci-rhs-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>502ci RHS</td><td>$11,499</td><td><a href=\"502ci-rhs-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th></tr></thead><tbody><tr><td>402ci LS2</td><td>$5,399</td><td><a href=\"402ci-LS2-competition-short-block .html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>408ci LY6 / LQ9</td><td>$4,999 / $4,699</td><td><a href=\"408ci-ly6-or-lq9-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>416ci LS3</td><td>$5,899</td><td><a href=\"416ci-LS-cmpetition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>427ci LS7</td><td>$7,199</td><td><a href=\"427ci-ls7-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>440ci LS7</td><td>$7,299</td><td><a href=\"440ci-ls7-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>454ci LSx</td><td>$7,199</td><td><a href=\"454ci-lsx-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>454ci RHS</td><td>$9,299</td><td><a href=\"454ci-rhs-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr><tr><td>502ci RHS</td><td>$11,499</td><td><a href=\"502ci-rhs-competition-short-block.html\" class=\"text-warning\">View Specs</a></td></tr></tbody>",
           "_anchor": "extTable1-sa"
         },
         {
