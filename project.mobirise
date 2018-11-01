@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "blispay-details.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2130,7 +2130,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -2993,11 +2993,11 @@
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3109,11 +3109,11 @@
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -9036,10 +9036,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "3",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -9255,7 +9255,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e68c07!important"
+              "color": "#fac51c!important"
             },
             "A": {
               "font-size": "17px",
@@ -14100,11 +14100,11 @@
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -14169,9 +14169,9 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
           },
           "text": "<p>Hi Chad,</p><p><br></p><p>\n</p><p>\n</p><p>I purchased and installed one of your 4.6 L strokers in January of this year. I took it to Moab last month--it did very well, good low end torque in the rocks and enough power to run in hi-range\n</p><p>\n<span style=\"font-size: 1.07rem;\">on the easy stuff even with 38 inch tires. I'm pleased with it, it is a great addition to my jeep.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p>\n</p><p>Darrel Jones\n<span style=\"font-size: 1.07rem;\"></span></p><p>Laramie, WY</p>",
           "_tags": [
@@ -29893,10 +29893,10 @@
             "inverse": false,
             "showArrow": false,
             "imageSize": "20",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/about-header-1.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
