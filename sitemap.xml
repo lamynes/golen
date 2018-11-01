@@ -81,63 +81,6 @@
 		<loc>https://test.golenengineservice.com/402ci-LS2-competition-short-block .html</loc>
 	</url>
 	<url>
-		<loc>https://test.golenengineservice.com/408ci-LY6-or-LQ9-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/416ci-LS-cmpetition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/427ci-LS7-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/440ci-LS7-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/454ci-lSx-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/454ci-RHS-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/502ci-RHS-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/416ci-LS3-boosted-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/427ci-LS7-boosted-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/427ci-LSx-boosted-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/427ci-RHS-boosted-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/408ci-LQ9-boosted-competition-short-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/LY6-LQ9-408ci-550hp-long-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/LS2-402ci-550hp-long-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/LS3-416ci-605hp-long-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/LS7-427ci-650hp-ws-ds-long-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/RHS-454ci-700hp-long-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/LS7-440ci-700hp-ws-ds-long-block.html</loc>
-	</url>
-	<url>
-		<loc>https://test.golenengineservice.com/LSx-427ci-boosted-long-block.html</loc>
-	</url>
-	<url>
 		<loc>https://test.golenengineservice.com/lsx-454ci-700hp-long-block.html</loc>
 	</url>
 	<url>
@@ -199,5 +142,62 @@
 	</url>
 	<url>
 		<loc>https://test.golenengineservice.com/5-point-7l-ls1-ls6-street-strip-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/408ci-ly6-or-lq9-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/416ci-ls-cmpetition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/427ci-ls7-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/440ci-ls7-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/454ci-lsx-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/454ci-rhs-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/502ci-rhs-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/408ci-lq9-boosted-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/416ci-ls3-boosted-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/427ci-ls7-boosted-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/427ci-lsx-boosted-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/427ci-rhs-boosted-competition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/ly6-lq9-408ci-550hp-long-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/ls2-402ci-550hp-long-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/ls3-416ci-605hp-long-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/ls7-427ci-650hp-ws-ds-long-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/ls7-440ci-700hp-ws-ds-long-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/lsx-427ci-boosted-long-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/rhs-454ci-700hp-long-block.html</loc>
 	</url>
 </urlset>
