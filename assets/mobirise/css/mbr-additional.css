@@ -2724,6 +2724,7 @@ h6,
 
 
 
+
 #menu-kw .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2842,6 +2843,12 @@ h6,
 }
 #extFeatures12-ih H3 {
   text-align: center;
+  color: #fac51c;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures12-ih SPAN {
+  color: #000000;
+  font-size: 36px;
 }
 #header3-ij .mbr-section-title,
 #header3-ij .mbr-section-subtitle {

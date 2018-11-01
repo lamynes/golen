@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "dyno-tuning-service.html",
+    "currentPage": "shipping.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -203,7 +203,7 @@
           },
           "title": "MACHINE SHOP SERVICES",
           "text": "FULL SERVICE MACHINING IN-HOUSE",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"shop-tour.html\" data-toolbar=\"-mbrBtnMove\">360° VIEW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a> "
         },
         {
           "_styles": {
@@ -312,11 +312,11 @@
             "colCount": "3",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -392,11 +392,11 @@
             "colCount": "3",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -472,11 +472,11 @@
             "colCount": "3",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -552,11 +552,11 @@
             "colCount": "3",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -632,11 +632,11 @@
             "colCount": "3",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5990,7 +5990,7 @@
           },
           "title": "IN HOUSE DYNO TUNING",
           "text": "SUPERFLOW SF-902 DYNAMOMETERS, LSX EFI DYNO SERVICES \n<br>&amp; FULL RACE DYNO TUNING",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"shop-tour.html\" data-toolbar=\"-mbrBtnMove\">360°&nbsp;VIEW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"contact-us.html\" data-toolbar=\"-mbrBtnMove\">REQUEST A QUOTE</a>",
           "_tags": [
             "Theme"
           ],
@@ -8493,7 +8493,7 @@
           "_anchor": "content1-id",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "text": "<p>All engines sold in United States will be shipped via truck freight unless otherwise stated. We can ship to business or residential addresses and can provide a lift gate service if needed.</p><p><br></p><p>\n</p><p>We also offer air freight to anywhere in the world and ship outside the US on a weekly basis. If you are in need of a quote please call our sales dept at <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> ext 1.</p><p><br></p><p>\n</p><p>\n</p><p>Each engine is properly bagged, shrink wrapped and crated in a custom wooden crate as seen in the pictures below. &nbsp;All small box of parts will be shipped via UPS ground within a 24 hour timeframe.</p>"
@@ -8524,7 +8524,14 @@
               "font-size": "30px"
             },
             "H3": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#fac51c",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+            },
+            "SPAN": {
+              "color": "#000000",
+              "font-size": "36px"
             }
           },
           "alias": "mobirise3-blocks/components",
@@ -8539,14 +8546,14 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "2",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/freignt-1.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -8578,7 +8585,7 @@
             }
           },
           "number1": "01",
-          "title1": "<span style=\"font-weight: normal;\">Internally Secured</span>",
+          "title1": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Internally Secured</span>",
           "subtitle1": "Beautiful Day on the Island Drive",
           "caption1": "Beautiful Day on the Island Drive",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -8604,7 +8611,7 @@
             }
           },
           "number2": "02",
-          "title2": "<span style=\"font-weight: normal;\">Closed and Sealed</span>",
+          "title2": "<span style=\"font-weight: normal;\"><br>Closed and Sealed</span>",
           "subtitle2": "Looking north from PCH-Highway 1",
           "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
