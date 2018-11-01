@@ -138,9 +138,6 @@
 		<loc>https://test.golenengineservice.com/5-point-7l-ls1-ls6-short-block.html</loc>
 	</url>
 	<url>
-		<loc>https://test.golenengineservice.com/5-point-3l-short-block.html</loc>
-	</url>
-	<url>
 		<loc>https://test.golenengineservice.com/5-point-7l-ls1-ls6-street-strip-short-block.html</loc>
 	</url>
 	<url>
@@ -199,5 +196,8 @@
 	</url>
 	<url>
 		<loc>https://test.golenengineservice.com/416ci-ls3-cmpetition-short-block.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/5-point-3l-ls1-short-block.html</loc>
 	</url>
 </urlset>
