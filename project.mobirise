@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-short-blocks.html",
+    "currentPage": "6-point-0l-ly6-short-block.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 1641,
+    "uniqCompNum": 1642,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -23048,7 +23048,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lsx-factory-replacement-sm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/lyq-1.png",
               "link": "",
               "alt": "Chevy 5.3L LS1 Factory Short Block ",
               "title": "Chevy 5.3L LS1 Factory Short Block ",
@@ -24092,7 +24092,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lsx-factory-replacement-sm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/lyq-1.png",
               "link": "",
               "alt": "Chevy 5.3L LS1 Factory Short Block ",
               "title": "Chevy 5.3L LS1 Factory Short Block ",
@@ -25484,7 +25484,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lsx-sb-pic-sm.png",
+              "src": "@PROJECT_PATH@/assets/images/lyq-1.png",
               "link": "",
               "alt": "CHEVY 408ci LY6 or LQ9 COMPETITION SHORT BLOCK",
               "title": "CHEVY 408ci LY6 or LQ9 COMPETITION SHORT BLOCK",
