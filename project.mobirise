@@ -866,7 +866,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/rick-scribner-jeep2-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rick-scribner-jeep2-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
