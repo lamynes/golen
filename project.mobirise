@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "6-point-0l-ly6-short-block.html",
+    "currentPage": "jeep-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -866,7 +866,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jeep-header.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/rick-scribner-jeep2-2.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -879,7 +879,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.2"
+            "overlayOpacity": "0.4"
           },
           "title": "JEEP 4.6 STROKER CRATE ENGINES",
           "text": "HIGH PERFORMANCE &amp; RELIABLE",
@@ -27572,7 +27572,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lsx-factory-replacement-sm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/lyq-1.png",
               "link": "",
               "alt": "CHEVY 408ci LY6 / LQ9 BOOSTED COMPETITION SHORT BLOCK",
               "title": "CHEVY 408ci LY6 / LQ9 BOOSTED COMPETITION SHORT BLOCK",
