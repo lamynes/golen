@@ -1340,6 +1340,12 @@ h6,
 #header3-19t .mbr-section-subtitle {
   text-align: center;
 }
+#header3-19t .mbr-section-title {
+  color: #8c8c8c;
+}
+#header3-19t .mbr-section-title SPAN {
+  font-size: 46px;
+}
 #content1-19s P {
   font-size: 20px;
   text-align: left;
