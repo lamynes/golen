@@ -2625,26 +2625,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "LSx Crate Engines",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-19t"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -2666,7 +2646,7 @@
           },
           "_anchor": "content1-5u",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
@@ -2699,6 +2679,26 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>We offer all new builds in both short and long block form as well complete turn key packages that comes dyno tested and tuned. All of our engines are built to order which allows you to customize the power level to suit your needs.</p><p><br></p><p>\n</p><p>\n</p><p>Optional parts include:</p><ul><li>Custom Cams</li></ul><ul><li>Aftermarket Cylinder heads and Intake Manifolds</li></ul><ul><li>Custom Valve Covers</li><li>Stainless Steel Headers</li><li>Billet Front Runner Kits</li><li>Stand Alone EFI Systems</li><li>Performance Transmissions</li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "title": "LSx Crate Engines",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19t"
         },
         {
           "_params": {
