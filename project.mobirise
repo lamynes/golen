@@ -15588,7 +15588,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-rz\" data-toolbar=\"-mbrBtnMove\">FACTORY\nREPLACEMENT <br>LS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-s3\" data-toolbar=\"-mbrBtnMove\">STREET / STRIP\n<br>LS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-s7\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION\n<br>SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-sb\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION <br>BOOSTED SHORT BLOCKS</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-rz\" data-toolbar=\"-mbrBtnMove\">FACTORY\nREPLACEMENT<br>LS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-s3\" data-toolbar=\"-mbrBtnMove\">STREET / STRIP<br>LS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-s7\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION<br>SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-sb\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION<br>BOOSTED SHORT BLOCKS</a>",
           "_tags": [
             "Theme"
           ],
