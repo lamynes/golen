@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "jeep-customer-photos.html",
+    "currentPage": "jeep-testimonials.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 1656,
+    "uniqCompNum": 1657,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -13289,8 +13289,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "Garrett Cannon",
+              "title": "Garrett Cannon"
             }
           },
           "media4": {
@@ -14004,6 +14004,64 @@
           ],
           "_name": "content1",
           "_anchor": "content1-r1"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "68",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/rick-scribner-jeep2-1.jpg",
+              "link": "",
+              "alt": "Rick Scribner",
+              "title": "Rick Scribner"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Hey Chad,<br><br>Hope you are doing well.\n<br><br>Just touching base to let you know how it is going. The Jeep is a joy to drive, I drove it up the hill last weekend, which was never really enjoyable pre-stroker, but it basically just marched up the hill like nobody’s business.\n<br>\n<br>No more hunting for the right gear.\n<br><br>Did the 500 mile oil change this week.<br>\n<br>Thank you for a great experience.\n<br><br>Rick Scribner",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box5-1a0"
         },
         {
           "_params": {
