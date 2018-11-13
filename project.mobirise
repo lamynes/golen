@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 1649,
+    "uniqCompNum": 1650,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -2330,7 +2330,7 @@
           "caption2": "All new parts from GM, Callies and Mahle\n<br>Balanced and Blueprinted\n<br>Each Engine Custom Built to Order",
           "title3": "<a href=\"lsx-complete-engines.html\" class=\"text-warning\">LSx COMPLETE ENGINES</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "High Performance Boost Ready for LS Based Cars and Trucks\n<br>Great for Centrifugal and Roots Style Chargers\n<br>We can Custom Build for Turbo Applications\n<br>Many Options Available",
+          "caption3": "High Performance Boost Ready for LS Based Cars and Trucks, Great for Centrifugal and Roots Style Chargers\n<br>We can Custom Build for Turbo Applications\n<br>Many Options Available",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -2625,6 +2625,26 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "LSx Crate Engines",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19t"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -2686,7 +2706,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p><b>LSx Crate Engines</b></p><p>When it's time to install a new motor, what's better than a proven Chevy LSx engine? Aluminum block Gen III and IV engines that bear the LS designation are compact, lightweight and can make lots of power. An LSx crate engine is the fastest, easiest and most reliable way of getting your car ready for street or strip.<br></p><p>\n</p><p><br></p><p><b>Understand the LSx Engine Family</b></p><p>The LS1 debuted in 1997 and was soon followed by the stronger and more powerful LS6. 2005 saw a switch to the Gen IV engine, starting with the 6.0 liter LS2. Then came the 5.3 liter FWD LS4, the 7.0 liter LS7, the 6.2 liter LS3 and the blown LS9.\n</p><p>\n</p><p><br></p><p><b>LS1 or LSx?\n</b></p><p>There's an LSx crate engine to suit every need, from daily driver to rubber-burning hot rod. For rebuilding an older car, many owners choose an LS1 crate engine. This often saves time and money as many of the auxiliary components can be moved.\n</p><p>\n</p><p><br></p><p><b>Looking for an LSx Engine for Sale?\n</b></p><p>At Golen Engine, we offer many variants of the classic LSx. These range from the LS1 crate engine up to the LS3. We sell them in short block, long block and complete engines. \n</p><p>\n</p><p><br></p><p><b>Here's an overview.\n</b></p><p>\n</p><ul><li>Short Block LSx: You get a new GM block and crank, along with forged steel rods and Speed Pro pistons, plus American-made bearings and rings. The whole assembly is balanced for less vibration and longer main bearing life. It’s also blueprinted to extract as much power as possible while ensuring the engine will last.\n</li></ul><p>\n</p><ul><li>Long Block LSx: Take the short block and add a cam and fully built-up heads.\n</li></ul><p>\n</p><ul><li>Complete LSx Engine: This gets the appropriate intake plus the ignition system and all the covers. Simply mate it up to the trans, hook up the hoses and you're good to go.\n</li></ul><p>\n</p><p><br></p><p><b>The Golen Engine Difference\n</b></p><p>If you're trying to find a good LS1 engine for sale, there are many places to look. Don't cut corners when you're replacing the motor, invest in a quality LSx engine. Talk to us. We can supply an LSx crate engine that delivers power and performance for years to come. Call us today.\n</p><p><br></p>",
+          "text": "<p>When it's time to install a new motor, what's better than a proven Chevy LSx engine? Aluminum block Gen III and IV engines that bear the LS designation are compact, lightweight and can make lots of power. An LSx crate engine is the fastest, easiest and most reliable way of getting your car ready for street or strip.<br></p><p>\n</p><p><br></p><p><b>Understand the LSx Engine Family</b></p><p>The LS1 debuted in 1997 and was soon followed by the stronger and more powerful LS6. 2005 saw a switch to the Gen IV engine, starting with the 6.0 liter LS2. Then came the 5.3 liter FWD LS4, the 7.0 liter LS7, the 6.2 liter LS3 and the blown LS9.\n</p><p>\n</p><p><br></p><p><b>LS1 or LSx?\n</b></p><p>There's an LSx crate engine to suit every need, from daily driver to rubber-burning hot rod. For rebuilding an older car, many owners choose an LS1 crate engine. This often saves time and money as many of the auxiliary components can be moved.\n</p><p>\n</p><p><br></p><p><b>Looking for an LSx Engine for Sale?\n</b></p><p>At Golen Engine, we offer many variants of the classic LSx. These range from the LS1 crate engine up to the LS3. We sell them in short block, long block and complete engines. \n</p><p>\n</p><p><br></p><p><b>Here's an overview.\n</b></p><p>\n</p><ul><li>Short Block LSx: You get a new GM block and crank, along with forged steel rods and Speed Pro pistons, plus American-made bearings and rings. The whole assembly is balanced for less vibration and longer main bearing life. It’s also blueprinted to extract as much power as possible while ensuring the engine will last.\n</li></ul><p>\n</p><ul><li>Long Block LSx: Take the short block and add a cam and fully built-up heads.\n</li></ul><p>\n</p><ul><li>Complete LSx Engine: This gets the appropriate intake plus the ignition system and all the covers. Simply mate it up to the trans, hook up the hoses and you're good to go.\n</li></ul><p>\n</p><p><br></p><p><b>The Golen Engine Difference\n</b></p><p>If you're trying to find a good LS1 engine for sale, there are many places to look. Don't cut corners when you're replacing the motor, invest in a quality LSx engine. Talk to us. We can supply an LSx crate engine that delivers power and performance for years to come. Call us today.\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],

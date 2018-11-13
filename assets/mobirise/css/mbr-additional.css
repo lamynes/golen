@@ -1314,6 +1314,10 @@ h6,
 #extFeatures7-rq B {
   color: #000000;
 }
+#header3-19t .mbr-section-title,
+#header3-19t .mbr-section-subtitle {
+  text-align: center;
+}
 #content1-5u P {
   font-size: 20px;
   text-align: left;
