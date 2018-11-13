@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-crate-engines.html",
+    "currentPage": "lsx-short-blocks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -15588,7 +15588,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-rz\" data-toolbar=\"-mbrBtnMove\">FACTORY\nREPLACEMENT LS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-s3\" data-toolbar=\"-mbrBtnMove\">STREET / STRIP\nLS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-s7\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION\nSHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#msg-box4-sb\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION BOOSTED SHORT BLOCKS</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#header3-19m\" data-toolbar=\"-mbrBtnMove\">FACTORY\nREPLACEMENT LS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#header3-19n\" data-toolbar=\"-mbrBtnMove\">STREET / STRIP\nLS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#header3-19o\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION\nSHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"lsx-short-blocks.html#header3-19p\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION BOOSTED SHORT BLOCKS</a>",
           "_tags": [
             "Theme"
           ],
@@ -15608,8 +15608,8 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "title": "FACTORY\n<div>REPLACEMENT LS SHORT BLOCKS</div>",
@@ -15787,11 +15787,11 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "STREET / STRIP\r<div>LS SHORT BLOCKS</div>",
+          "title": "STREET / STRIP\n<div>LS SHORT BLOCKS</div>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -15961,7 +15961,7 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -16134,7 +16134,7 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
