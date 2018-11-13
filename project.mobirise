@@ -15640,7 +15640,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -15796,7 +15796,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -15949,7 +15949,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -16100,7 +16100,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
