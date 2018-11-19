@@ -12329,3 +12329,98 @@ h6,
   font-size: 20px;
   color: #000000;
 }
+
+
+
+#menu-1ay .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1ay .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-1ay .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1ay .close-icon::before,
+#menu-1ay .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1ay .link,
+#menu-1ay .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1ay .link {
+  font-size: 0.8rem;
+}
+#menu-1ay .dropdown-item,
+#menu-1ay .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1ay .link:hover,
+#menu-1ay .dropdown-item:hover,
+#menu-1ay .link:focus,
+#menu-1ay .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-1ay .link[aria-expanded="true"],
+#menu-1ay .dropdown-menu {
+  background: #000000;
+}
+#menu-1ay .nav-dropdown-sm .link:focus,
+#menu-1ay .nav-dropdown-sm .link:hover,
+#menu-1ay .nav-dropdown-sm .dropdown-item:focus,
+#menu-1ay .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1ay .navbar,
+#menu-1ay .nav-dropdown-sm,
+#menu-1ay .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1ay .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1ay .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1ay .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1ay .bg-color.transparent.opened .link:hover,
+#menu-1ay .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-1ay .link[aria-expanded="true"],
+#menu-1ay .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-1ay A {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1ay .btn {
+  font-size: 15px;
+}
+#msg-box8-1b2 .mbr-section-title,
+#msg-box8-1b2 p {
+  color: #fff;
+}
+#msg-box8-1b2 .lead P {
+  font-size: 30px;
+}
+#msg-box8-1b2 .mbr-section-title {
+  color: #fac51c;
+}
+#content1-1b1 P {
+  font-size: 20px;
+}
+#contacts1-1az P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-1az STRONG {
+  font-size: 20px;
+  color: #000000;
+}
