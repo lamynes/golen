@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "jeep-engines.html",
+    "currentPage": "jeep-4-point-6L-270hp-efi-turnkey-engine.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32916,10 +32916,10 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/jeep-4.6l-270-hp-complete-sm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/jeep-stroker-cj-efi-turn-key-2.png",
               "link": "",
-              "alt": "4.6L 270hp Jeep Complete Stroker Engine",
-              "title": "4.6L 270hp Jeep Complete Stroker Engine",
+              "alt": "Jeep 4.6L 270 HP EFI Turnkey Engine",
+              "title": "Jeep 4.6L 270 HP EFI Turnkey Engine",
               "active": true
             },
             "video": {
