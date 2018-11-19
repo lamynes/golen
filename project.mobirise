@@ -34330,7 +34330,7 @@
               "font-size": "30px"
             },
             ".mbr-section-title": {
-              "color": "#fac51c"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -34340,7 +34340,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/golen-building2-3.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/about-golen-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -34350,10 +34350,10 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.4"
           },
           "title": "About Golen Engine Service",
-          "text": "<p>17 Dracut Rd\n Hudson, NH 03051</p>",
+          "text": "<p><a href=\"https://goo.gl/maps/oFiB8Gz1Dtq\" target=\"_blank\">17 Dracut Rd\n Hudson, NH 03051</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
