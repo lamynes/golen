@@ -34330,7 +34330,12 @@
               "font-size": "30px"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#fac51c",
+              "font-size": "80px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#fac51c",
+              "font-size": "80px"
             }
           },
           "_params": {
@@ -34352,8 +34357,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
-          "title": "<span style=\"font-weight: normal;\">About Golen Engine Service</span>",
-          "text": "<p><a href=\"https://goo.gl/maps/oFiB8Gz1Dtq\" target=\"_blank\">17 Dracut Rd\n Hudson, NH 03051</a></p>",
+          "title": "ABOUT US",
+          "text": "<p>GOLEN HIGH PERFORMANCE ENGINES</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"

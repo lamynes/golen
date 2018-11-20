@@ -12411,7 +12411,12 @@ h6,
   font-size: 30px;
 }
 #msg-box8-1b2 .mbr-section-title {
-  color: #ffffff;
+  color: #fac51c;
+  font-size: 80px;
+}
+#msg-box8-1b2 .mbr-section-title SPAN {
+  color: #fac51c;
+  font-size: 80px;
 }
 #content1-1b1 P {
   font-size: 20px;
