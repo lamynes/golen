@@ -34354,8 +34354,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.2"
           },
           "title": "ABOUT US",
           "text": "<p>GOLEN HIGH PERFORMANCE ENGINES</p>",
