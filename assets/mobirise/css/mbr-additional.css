@@ -12559,6 +12559,13 @@ h6,
 #msg-box8-1cg .mbr-section-title {
   font-size: 60px;
 }
+#msg-box8-1cg .mbr-section-title SPAN {
+  font-size: 48px;
+}
+#msg-box8-1cg .lead P {
+  font-size: 30px;
+  color: #ffffff;
+}
 #menu-1bw .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -12633,6 +12640,9 @@ h6,
 #header3-1cj .mbr-section-title,
 #header3-1cj .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1cj .mbr-section-title {
+  font-size: 46px;
 }
 #content1-1ch P {
   font-size: 20px;
