@@ -12429,3 +12429,105 @@ h6,
   font-size: 20px;
   color: #000000;
 }
+
+
+
+#menu-1b4 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1b4 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-1b4 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1b4 .close-icon::before,
+#menu-1b4 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1b4 .link,
+#menu-1b4 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1b4 .link {
+  font-size: 0.8rem;
+}
+#menu-1b4 .dropdown-item,
+#menu-1b4 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1b4 .link:hover,
+#menu-1b4 .dropdown-item:hover,
+#menu-1b4 .link:focus,
+#menu-1b4 .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-1b4 .link[aria-expanded="true"],
+#menu-1b4 .dropdown-menu {
+  background: #000000;
+}
+#menu-1b4 .nav-dropdown-sm .link:focus,
+#menu-1b4 .nav-dropdown-sm .link:hover,
+#menu-1b4 .nav-dropdown-sm .dropdown-item:focus,
+#menu-1b4 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1b4 .navbar,
+#menu-1b4 .nav-dropdown-sm,
+#menu-1b4 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1b4 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1b4 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1b4 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1b4 .bg-color.transparent.opened .link:hover,
+#menu-1b4 .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-1b4 .link[aria-expanded="true"],
+#menu-1b4 .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-1b4 A {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1b4 .btn {
+  font-size: 15px;
+}
+#msg-box8-1b6 .mbr-section-title,
+#msg-box8-1b6 p {
+  color: #fff;
+}
+#msg-box8-1b6 .mbr-section-title {
+  font-size: 80px;
+  color: #fac51c;
+}
+#msg-box8-1b6 .lead P {
+  font-size: 36px;
+}
+#extFeatures7-1be H4 {
+  font-size: 20px;
+}
+#extFeatures7-1bf H4 {
+  font-size: 20px;
+}
+#extFeatures7-1bi H4 {
+  font-size: 20px;
+}
+#contacts1-1b5 P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-1b5 STRONG {
+  font-size: 20px;
+  color: #000000;
+}
