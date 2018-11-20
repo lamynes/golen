@@ -12559,6 +12559,13 @@ h6,
   color: #000000;
   font-size: 20px;
 }
+#msg-box8-1cg .mbr-section-title,
+#msg-box8-1cg p {
+  color: #fff;
+}
+#msg-box8-1cg .mbr-section-title {
+  font-size: 60px;
+}
 #menu-1bw .hide-buttons .nav-btn {
   display: none !important;
 }
