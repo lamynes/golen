@@ -34350,7 +34350,7 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0"
           },
           "title": "About Golen Engine Service",
           "text": "<p><a href=\"https://goo.gl/maps/oFiB8Gz1Dtq\" target=\"_blank\">17 Dracut Rd\n Hudson, NH 03051</a></p>",
