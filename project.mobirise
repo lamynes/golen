@@ -34560,8 +34560,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": "4",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/cw7prcfuaaaoayx.jpg",
             "parallax": true,
@@ -34573,10 +34573,10 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.5"
           },
           "title": "LS ENGINE BUILD OPTIONS",
-          "text": "<p>We offer several additional components to complete your custom LS Engine</p>",
+          "text": "<p>We offer several additional components to complete your custom LS Engine build</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
