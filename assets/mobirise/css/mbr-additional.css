@@ -12552,13 +12552,6 @@ h6,
 
 
 
-#header2-1c9 .mbr-section-title {
-  color: #000000;
-}
-#header2-1c9 .mbr-section-text {
-  color: #000000;
-  font-size: 20px;
-}
 #msg-box8-1cg .mbr-section-title,
 #msg-box8-1cg p {
   color: #fff;
@@ -12636,6 +12629,9 @@ h6,
 }
 #menu-1bw .btn {
   font-size: 15px;
+}
+#content1-1ch P {
+  font-size: 20px;
 }
 #extFeatures7-1c2 H4 {
   font-size: 20px;
