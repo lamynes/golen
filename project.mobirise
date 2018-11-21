@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "ls2-402ci-550hp-complete-engine.html",
+    "currentPage": "ls2-402ci-550hp-complete-engine-upgrades.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -37415,8 +37415,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/402-550hp-4.jpg",
             "parallax": true,
@@ -37572,7 +37572,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "text": "<p>Our 402ci Chevy LS2 Engine comes dyno tested and will make 550hp using the stock LS3 intake manifold and 90mm throttle body but there are some power gains as well as different looks to be had with the intakes listed below.</p><p><br></p><p>We offer full customization on all of our Chevy LS1 Engines so if you are looking for any internal changes or external add-ons just ask!!</p>",
+          "text": "<p>Our 402ci LS2 has a strong sounding idle with good street manners and makes 550hp which is sure to burn the tire!!. We have found some real nice gains by installing aftermarket intakes such as the Fast 102mm or the Holley Hi Ram. Using good performance long tube header that has 1 7/8” primary tubes and a 3.5” collector is recommend. This engine works best with a 3000 rpm stall or any manual transmission and a 3.73 gear or lower, you can check out our offerings from RPM Transmission below.</p><p><br></p><p>We offer full customization on all of our Chevy LS1 Engines so if you are looking for any internal changes or external add-ons just ask!!</p>",
           "_tags": [
             "Theme"
           ],
@@ -37588,7 +37588,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -37677,7 +37677,7 @@
             }
           },
           "title": "Intake Upgrades",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "subtitle": "Here are the most popular intakes that we use along with their power gains listed",
           "title1": "Fast LSxR",
           "subtitle1": "+ 10-15hp",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
@@ -37971,7 +37971,11 @@
             },
             "H5": {
               "font-size": "20px",
-              "color": "#e68c07"
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px",
+              "color": "#000000"
             }
           },
           "_anchor": "extFeatures7-1c2"
@@ -37979,7 +37983,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -38065,7 +38069,7 @@
             }
           },
           "title": "Throttle Body Upgrades",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "subtitle": "We offer both cable and electronic drive by wire throttle bodies in polished and black finishes",
           "title1": "Nick Williams 102mm DBW Black",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
@@ -38356,6 +38360,10 @@
           "_styles": {
             "H4": {
               "font-size": "20px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px",
+              "color": "#000000"
             }
           },
           "_anchor": "extFeatures7-1c3"
@@ -38363,7 +38371,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -38449,7 +38457,7 @@
             }
           },
           "title": "Valve Cover Upgrades",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "subtitle": "This engine comes standard with factory GM valve covers and below is a list of the most popular valve covers that we offer as upgrades, if you do not see what you want just ask and we can get it for you.",
           "title1": "Callies Billet Valve Covers",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
@@ -38740,6 +38748,10 @@
           "_styles": {
             "H4": {
               "font-size": "20px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px",
+              "color": "#000000"
             }
           },
           "_anchor": "extFeatures7-1c5"
@@ -38747,7 +38759,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -38830,7 +38842,7 @@
             }
           },
           "title": "Front Runner Kits",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "subtitle": "If you are Retro Fitting an LS Engine into a Hot Rod we offer the following options for Front Runner Kits.<br>",
           "title1": "Eddie Motorsports <br>LS Front Drive Kit Black",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
@@ -39121,6 +39133,10 @@
           "_styles": {
             "H4": {
               "font-size": "20px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px",
+              "color": "#000000"
             }
           },
           "_anchor": "extFeatures7-1c1"
@@ -39128,7 +39144,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -39217,7 +39233,7 @@
             }
           },
           "title": "EFI System Options",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "subtitle": "We offer Holley EFI Systems which are self learning and self tuning. These systems are super easy to install and we offer full tech support to help you get it tuned and running perfect.",
           "title1": "Holley Dominator EFI",
           "subtitle1": "Can run electronic DBW throttle bodies and electronic auto transmissions",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
@@ -39511,7 +39527,11 @@
             },
             "H5": {
               "font-size": "20px",
-              "color": "#e68c07"
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px",
+              "color": "#000000"
             }
           },
           "_anchor": "extFeatures7-1c4"
@@ -39560,7 +39580,7 @@
             }
           },
           "title": "Ignition System Options",
-          "text": "GM LS7 D514A Coil Kits",
+          "text": "GM LS7 D514A Coil Kits<br>We use the GM LS3/LS7 coils for they look the best and work great with all power levels up to 850hp.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -39570,14 +39590,18 @@
           "_styles": {
             "P": {
               "font-size": "20px",
-              "color": "#e68c07"
+              "color": "#000000",
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
             }
           }
         },
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -39654,7 +39678,7 @@
             }
           },
           "title": "Header Options",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "subtitle": "With options from both Kooks and American racing headers we have what you need for both factory GM cars that came with LS engines as well as Hot Rod Swap kits.",
           "title1": "<span style=\"font-weight: normal;\">American Racing Headers</span>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
@@ -39947,7 +39971,11 @@
               "font-size": "20px"
             },
             "SPAN": {
-              "color": "#e68c07"
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "20px",
+              "color": "#000000"
             }
           },
           "_anchor": "extFeatures7-1c7"
@@ -39996,7 +40024,7 @@
             }
           },
           "title": "Motor Mount Options",
-          "text": "Holley Swap Motor Mounts",
+          "text": "Holley Swap Motor Mounts<br>Normally you will want to match the motor mount to the set of headers that you purchase, we can help ensure that you get the correct parts the first time to make your install go smooth.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -40006,7 +40034,11 @@
           "_styles": {
             "P": {
               "font-size": "20px",
-              "color": "#e68c07"
+              "color": "#000000",
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
             }
           }
         },
@@ -40053,8 +40085,8 @@
               "size": 0
             }
           },
-          "title": "Transmission Options\r",
-          "text": "RPM Transmission 4L60E and&nbsp;<br>RPM Transmission 4L80E",
+          "title": "Transmission Options\n",
+          "text": "RPM Transmission 4L60E and RPM Transmission 4L80E<br>We only recommend RPM Transmission for they build super strong auto and manual transmissions and back them up. We can help set up the correct transmission package to match your engine.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -40064,14 +40096,18 @@
           "_styles": {
             "P": {
               "font-size": "20px",
-              "color": "#e68c07"
+              "color": "#000000",
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
             }
           }
         },
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -40151,7 +40187,7 @@
             }
           },
           "title": "RPM Std Trans???",
-          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "subtitle": "Here are a list of transmission accessories help you complete your install, we recommend the use of ARP flywheel bolts.",
           "title1": "LS Flex Plate (auto trans)",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
@@ -40439,7 +40475,13 @@
             "Extension"
           ],
           "_name": "extFeatures7",
-          "_anchor": "extFeatures7-1cf"
+          "_anchor": "extFeatures7-1cf",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
