@@ -37398,9 +37398,9 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/402-550hp-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/402-550hp-4.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -37410,7 +37410,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.2"
           },
           "title": "<span style=\"font-weight: normal;\"><i>From a C6 Corvette to a 1st Gen Camaro\n</i></span>",
           "text": "<p>Our entire line of Chevy LS engines can be custom built to be a direct bolt in for any vehicle so weather you have a GM car that came from the factory with a LS based engine or you have a early hot rod that you would like to retro fit we have you covered. Check out the options below  and keep in mind that we offer full engine custom builds so if you do not see what you are looking for just ask.</p>",
