@@ -37388,18 +37388,19 @@
               "font-size": "48px"
             },
             ".lead P": {
-              "font-size": "30px",
-              "color": "#ffffff"
+              "font-size": "20px",
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingTop": "3",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/402-550hp-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/402-550hp-3.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -37409,10 +37410,10 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\"><i>From a C6 Corvette to a 1st Gen Camaro\n</i></span>",
-          "text": "<p>We can build this engine to fit any car</p>",
+          "text": "<p>Our entire line of Chevy LS engines can be custom built to be a direct bolt in for any vehicle so weather you have a GM car that came from the factory with a LS based engine or you have a early hot rod that you would like to retro fit we have you covered. Check out the options below  and keep in mind that we offer full engine custom builds so if you do not see what you are looking for just ask.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -37576,7 +37577,7 @@
             "showIcons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -40016,7 +40017,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tra-4l80e-iii-2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/t-56-trans.jpg",
               "link": "",
               "alt": "",
               "title": ""
