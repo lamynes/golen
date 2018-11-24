@@ -248,4 +248,10 @@
 	<url>
 		<loc>https://test.golenengineservice.com/416ci-lt1-lt4-boosted-short-block-engine.html</loc>
 	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/416ci-lt1-lt4-long-block-engine.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/416ci-lt1-lt4-boosted-long-block-engine.html</loc>
+	</url>
 </urlset>
