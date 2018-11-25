@@ -213,9 +213,6 @@
 		<loc>https://test.golenengineservice.com/about-golen.html</loc>
 	</url>
 	<url>
-		<loc>https://test.golenengineservice.com/lsx-options.html</loc>
-	</url>
-	<url>
 		<loc>https://test.golenengineservice.com/ls2-402ci-550hp-complete-engine-upgrades.html</loc>
 	</url>
 	<url>
@@ -253,5 +250,17 @@
 	</url>
 	<url>
 		<loc>https://test.golenengineservice.com/416ci-lt1-lt4-boosted-long-block-engine.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/383ci-lt1-street-strip-short-block-engine.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/383ci-lt1-competition-short-block-engine.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/396ci-lt1-competition-short-block-engine.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/383ci-lt1-boosted-competition-short-block-engine.html</loc>
 	</url>
 </urlset>
