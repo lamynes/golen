@@ -16098,13 +16098,6 @@ h6,
 #header1-1j2 .btn {
   font-size: 14px;
 }
-#content1-1iz UL {
-  font-size: 20px;
-}
-#content1-1j0 P {
-  font-size: 20px;
-  text-align: left;
-}
 #extFeatures12-1j1 .mbr-iconfont-features4 {
   color: undefined !important;
 }
@@ -16138,6 +16131,13 @@ h6,
   font-size: 36px;
   font-family: 'Oswald', sans-serif;
 }
+#content1-1iz UL {
+  font-size: 20px;
+}
+#content1-1j0 P {
+  font-size: 20px;
+  text-align: left;
+}
 
 
 
@@ -16151,6 +16151,39 @@ h6,
 }
 #header1-1j8 .btn {
   font-size: 14px;
+}
+#extFeatures12-1jd .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-1jd .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-1jd .card-number {
+  color: #fac51c;
+}
+#extFeatures12-1jd H3 {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 60px;
+  color: #000000;
+}
+#extFeatures12-1jd P {
+  text-align: center;
+  font-size: 20px;
+}
+#extFeatures12-1jd I {
+  font-size: 46px;
+  color: #e68c07;
+}
+#extFeatures12-1jd DIV {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures12-1jd H4 {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
 }
 #footer1-1j6 P {
   font-size: 15px;
@@ -16242,39 +16275,6 @@ h6,
   font-size: 20px;
   text-align: left;
 }
-#extFeatures12-1jd .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-1jd .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-1jd .card-number {
-  color: #fac51c;
-}
-#extFeatures12-1jd H3 {
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-  font-size: 60px;
-  color: #000000;
-}
-#extFeatures12-1jd P {
-  text-align: center;
-  font-size: 20px;
-}
-#extFeatures12-1jd I {
-  font-size: 46px;
-  color: #e68c07;
-}
-#extFeatures12-1jd DIV {
-  text-align: center;
-  font-size: 36px;
-  font-family: 'Oswald', sans-serif;
-}
-#extFeatures12-1jd H4 {
-  text-align: center;
-  font-size: 36px;
-  font-family: 'Oswald', sans-serif;
-}
 
 
 
@@ -16364,21 +16364,6 @@ h6,
 #header1-1jh .btn {
   font-size: 14px;
 }
-#content1-1jk P {
-  font-size: 20px;
-  text-align: left;
-  font-family: 'Oswald', sans-serif;
-  color: #000000;
-}
-#content1-1jk UL {
-  font-size: 20px;
-  font-family: 'Oswald', sans-serif;
-  color: #000000;
-}
-#content1-1jj P {
-  font-size: 20px;
-  text-align: left;
-}
 #extFeatures12-1jl .mbr-iconfont-features4 {
   color: undefined !important;
 }
@@ -16411,6 +16396,21 @@ h6,
   font-size: 36px;
   font-family: 'Oswald', sans-serif;
 }
+#content1-1jk P {
+  font-size: 20px;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+#content1-1jk UL {
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+#content1-1jj P {
+  font-size: 20px;
+  text-align: left;
+}
 
 
 
@@ -16424,6 +16424,38 @@ h6,
 }
 #header1-1jo .btn {
   font-size: 14px;
+}
+#extFeatures12-1jt .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-1jt .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-1jt .card-number {
+  color: #fac51c;
+}
+#extFeatures12-1jt H3 {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 60px;
+  color: #000000;
+}
+#extFeatures12-1jt P {
+  text-align: center;
+  font-size: 20px;
+}
+#extFeatures12-1jt B {
+  font-size: 46px;
+  color: #e68c07;
+}
+#extFeatures12-1jt H4 {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures12-1jt DIV {
+  font-family: 'Oswald', sans-serif;
+  font-size: 36px;
 }
 #footer1-1jm P {
   font-size: 15px;
@@ -16514,36 +16546,4 @@ h6,
 #content1-1jq P {
   font-size: 20px;
   text-align: left;
-}
-#extFeatures12-1jt .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-1jt .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-1jt .card-number {
-  color: #fac51c;
-}
-#extFeatures12-1jt H3 {
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-  font-size: 60px;
-  color: #000000;
-}
-#extFeatures12-1jt P {
-  text-align: center;
-  font-size: 20px;
-}
-#extFeatures12-1jt B {
-  font-size: 46px;
-  color: #e68c07;
-}
-#extFeatures12-1jt H4 {
-  text-align: center;
-  font-size: 36px;
-  font-family: 'Oswald', sans-serif;
-}
-#extFeatures12-1jt DIV {
-  font-family: 'Oswald', sans-serif;
-  font-size: 36px;
 }
