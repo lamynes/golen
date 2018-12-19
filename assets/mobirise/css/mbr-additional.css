@@ -810,17 +810,6 @@ h6,
 #extTable1-eh .mbr-section-title {
   font-size: 30px;
 }
-#msg-box1-19r H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-19r .btn {
-  font-size: 14px;
-}
-#msg-box1-19r SPAN {
-  color: #fac51c;
-}
 #content1-f4 P {
   text-align: center;
   font-size: 20px;
@@ -1133,17 +1122,6 @@ h6,
   font-family: 'Oswald', sans-serif;
   color: #000000;
 }
-#msg-box1-18k H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-18k .btn {
-  font-size: 14px;
-}
-#msg-box1-18k SPAN {
-  color: #fac51c;
-}
 #content1-f5 P {
   text-align: center;
   font-size: 20px;
@@ -1440,17 +1418,6 @@ h6,
 #features3-lw P {
   font-size: 20px;
 }
-#msg-box1-18o H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-18o .btn {
-  font-size: 14px;
-}
-#msg-box1-18o SPAN {
-  color: #fac51c;
-}
 #content1-f6 P {
   text-align: center;
   font-size: 20px;
@@ -1617,17 +1584,6 @@ h6,
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
   color: #000000;
-}
-#msg-box1-18z H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-18z .btn {
-  font-size: 14px;
-}
-#msg-box1-18z SPAN {
-  color: #fac51c;
 }
 #content1-f7 P {
   text-align: center;
@@ -1941,17 +1897,6 @@ h6,
   font-size: 20px;
   text-align: left;
 }
-#msg-box1-19a H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-19a .btn {
-  font-size: 14px;
-}
-#msg-box1-19a SPAN {
-  color: #fac51c;
-}
 #social-buttons4-mr .mbr-section-title,
 #social-buttons4-mr .btn-social {
   color: #fff;
@@ -2101,17 +2046,6 @@ h6,
 #content1-ca DIV {
   font-size: 20px;
   text-align: left;
-}
-#msg-box1-19c H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-19c .btn {
-  font-size: 14px;
-}
-#msg-box1-19c SPAN {
-  color: #fac51c;
 }
 #content1-fb P {
   text-align: center;
@@ -2844,17 +2778,6 @@ h6,
 #features3-je H4 {
   color: #000000;
 }
-#msg-box1-19q H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-19q .btn {
-  font-size: 14px;
-}
-#msg-box1-19q SPAN {
-  color: #fac51c;
-}
 #content1-jf P {
   text-align: center;
   font-size: 20px;
@@ -3137,7 +3060,7 @@ h6,
   font-size: 72px;
 }
 #content1-ku P {
-  font-size: 17px;
+  font-size: 20px;
   text-align: left;
   color: #000000;
 }
@@ -3147,7 +3070,7 @@ h6,
 }
 #content1-ku DIV {
   text-align: left;
-  font-size: 17px;
+  font-size: 20px;
 }
 #footer1-kv P {
   font-size: 15px;
@@ -3383,17 +3306,6 @@ h6,
 #extFeatures7-1ju H5 {
   font-size: 20px;
 }
-#msg-box1-196 H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-196 .btn {
-  font-size: 14px;
-}
-#msg-box1-196 SPAN {
-  color: #fac51c;
-}
 #content1-f9 P {
   text-align: center;
   font-size: 20px;
@@ -3592,17 +3504,6 @@ h6,
 }
 #extTable1-b0 TH {
   color: #000000;
-}
-#msg-box1-192 H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-192 .btn {
-  font-size: 14px;
-}
-#msg-box1-192 SPAN {
-  color: #fac51c;
 }
 #content1-f8 P {
   text-align: center;
@@ -4719,17 +4620,6 @@ h6,
   font-size: 48px;
   text-align: center;
 }
-#msg-box1-18q H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-18q .btn {
-  font-size: 14px;
-}
-#msg-box1-18q SPAN {
-  color: #fac51c;
-}
 #content1-t3 P {
   text-align: center;
   font-size: 20px;
@@ -4755,6 +4645,9 @@ h6,
   text-align: center;
   font-size: 60px;
 }
+#content5-16z .mbr-section-title H1 {
+  font-size: 60px;
+}
 #content1-tw P {
   font-size: 20px;
   text-align: left;
@@ -4763,6 +4656,9 @@ h6,
 #content1-tw UL {
   font-size: 20px;
   color: #000000;
+}
+#content1-tw H2 {
+  text-align: center;
 }
 #msg-box4-tv H3 {
   font-size: 36px;
@@ -4863,16 +4759,11 @@ h6,
 #extTable1-ty TH {
   color: #000000;
 }
-#msg-box1-18t H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
+#content1-1jw P {
+  font-size: 20px;
 }
-#msg-box1-18t .btn {
-  font-size: 14px;
-}
-#msg-box1-18t SPAN {
-  color: #fac51c;
+#content1-1jw UL {
+  font-size: 20px;
 }
 #content1-ui P {
   text-align: center;
@@ -4970,6 +4861,9 @@ h6,
   text-align: center;
   font-size: 60px;
 }
+#content5-171 .mbr-section-title H1 {
+  font-size: 60px;
+}
 #content1-vg P {
   font-size: 20px;
   text-align: left;
@@ -4978,6 +4872,9 @@ h6,
 #content1-vg UL {
   font-size: 20px;
   color: #000000;
+}
+#content1-vg H2 {
+  text-align: center;
 }
 #msg-box4-vf H3 {
   text-align: center;
@@ -5009,16 +4906,8 @@ h6,
 #extTable1-vi TH {
   color: #000000;
 }
-#msg-box1-18u H3 {
-  text-align: center;
-  font-size: 36px;
-  color: #ffffff;
-}
-#msg-box1-18u .btn {
-  font-size: 14px;
-}
-#msg-box1-18u SPAN {
-  color: #fac51c;
+#content1-1jy P {
+  font-size: 20px;
 }
 #content1-vx P {
   text-align: center;
