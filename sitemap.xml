@@ -290,4 +290,19 @@
 	<url>
 		<loc>https://test.golenengineservice.com/ford-muscle-car-engines.html</loc>
 	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/road-race-engines.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/drag-race-engines.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/formula-drift-race-engines.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/circle-track-race-engines.html</loc>
+	</url>
+	<url>
+		<loc>https://test.golenengineservice.com/off-road-race-engines.html</loc>
+	</url>
 </urlset>
