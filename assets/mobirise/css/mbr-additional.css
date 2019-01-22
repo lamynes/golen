@@ -1585,6 +1585,13 @@ h6,
   font-family: 'Oswald', sans-serif;
   color: #000000;
 }
+#header3-1ln .mbr-section-title,
+#header3-1ln .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-1lm P {
+  font-size: 20px;
+}
 #content1-f7 P {
   text-align: center;
   font-size: 20px;
@@ -3296,6 +3303,13 @@ h6,
 }
 #extTable1-b0 TH {
   color: #000000;
+}
+#header3-1lo .mbr-section-title,
+#header3-1lo .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-1lp P {
+  font-size: 20px;
 }
 #content1-f8 P {
   text-align: center;
