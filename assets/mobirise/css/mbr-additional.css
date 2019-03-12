@@ -3105,8 +3105,13 @@ h6,
 #extFeatures7-1ju H5 {
   font-size: 20px;
 }
+#header3-1lw .mbr-section-title,
+#header3-1lw .mbr-section-subtitle {
+  text-align: center;
+}
 #content1-1lv P {
   font-size: 20px;
+  text-align: left;
 }
 #content1-f9 P {
   text-align: center;
