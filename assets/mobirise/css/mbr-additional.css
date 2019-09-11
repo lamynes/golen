@@ -2975,29 +2975,19 @@ section.form .container {
 }
 #msg-box8-xh .mbr-section-title {
   color: #fac51c;
-  font-size: 48px;
+  font-size: 60px;
 }
 #msg-box8-xh .lead P {
   font-size: 30px;
 }
-#extForm3-jk H2 {
-  color: #000000;
+.cid-rBMGTjAFj9 {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
 }
-#extForm3-jk .intro-box h5 DIV {
-  color: #000000;
-  font-size: 14px;
-}
-#extForm3-jk P {
-  color: #000000;
-  font-size: 17px;
-}
-#extForm3-jk H2 {
-  color: #ffffff;
-  text-align: center;
-}
-#extForm3-jk .intro-box h5 DIV {
-  font-size: 15px;
-  text-align: left;
+.cid-rBMGTjAFj9 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
 }
 #menu-i6 .hide-buttons .nav-btn {
   display: none !important;
