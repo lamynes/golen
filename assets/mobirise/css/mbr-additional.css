@@ -16716,6 +16716,16 @@ section.form .container {
 #msg-box6-1mn SPAN {
   font-size: 60px;
 }
+#extCounters3-1mu {
+  text-shadow: 5px 5px 5px #606060;
+}
+#extCounters3-1mu .counter-title {
+  font-size: 30px;
+  color: #000000;
+}
+#extCounters3-1mu .count {
+  color: #000000;
+}
 #header3-1mo .mbr-section-title,
 #header3-1mo .mbr-section-subtitle {
   text-align: center;
