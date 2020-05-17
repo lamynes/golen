@@ -16699,6 +16699,7 @@ section.form .container {
   font-size: 15px;
 }
 #msg-box6-1mn {
+  
   text-shadow: 5px 5px 5px #000000;
 }
 #msg-box6-1mn h3,
@@ -16715,6 +16716,91 @@ section.form .container {
 }
 #msg-box6-1mn SPAN {
   font-size: 48px;
+}
+#msg-box6-1mn .mbr-section-title {
+  color: #efefef;
+  font-size: 25px;
+  text-align: center;
+}
+#msg-box6-1mn .mbr-section-lead {
+  text-align: center;
+  font-size: 25px;
+  color: #efefef;
+}
+#msg-box6-1mn .mbr-section-title SPAN {
+  font-size: 40px;
+  font-family: 'Oswald', sans-serif;
+  color: #9900FF;
+}
+#msg-box6-1mn .mbr-section-title {
+  text-shadow: 2px 5px 15px black;
+}
+#msg-box6-1mn .mbr-section-title {
+  -webkit-animation: blink 3.0s linear infinite;
+  -moz-animation: blink 3.0s linear infinite;
+  -ms-animation: blink 3.0s linear infinite;
+  -o-animation: blink 3.0s linear infinite;
+  animation: blink 3.0s linear infinite;
+}
+#msg-box6-1mn h1 {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
+#msg-box6-1mn #logos {
+  position: absolute;
+  top: 0px;
+  left: 150px;
+  -webkit-perspective: 200px;
+  perspective: 200px;
+}
+#msg-box6-1mn #cube {
+  display: block;
+  position: relative;
+  margin: 40px auto;
+  height: 50px;
+  width: 50px;
+  -webkit-transform-style: preserve-3d;
+  -webkit-transform: rotateY(2deg);
+  transform-style: preserve-3d;
+  transform: rotateY(2deg);
+}
+#msg-box6-1mn #front {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  -webkit-backface-visibility: visible;
+  -webkit-transform: translateZ(100px);
+  backface-visibility: visible;
+  transform: translateZ(100px);
+}
+#msg-box6-1mn #back {
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  -webkit-backface-visibility: visible;
+  -webkit-transform: rotateY(180deg) translateZ(100px);
+  backface-visibility: visible;
+  transform: rotateY(180deg) translateZ(100px);
+}
+#msg-box6-1mn #cube {
+  -webkit-animation: upyourscache1554171966417 5s infinite linear;
+  animation: upyourscache1554171966417 5s infinite linear;
+}
+@-webkit-keyframes upyourscache1554171966417 {
+  0% {
+    -webkit-transform: rotateX(0) rotateY(0) rotateZ(0);
+  }
+  100% {
+    -webkit-transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
+}
+@keyframes upyourscache1554171966417 {
+  0% {
+    transform: rotateX(0) rotateY(0) rotateZ(0);
+  }
+  100% {
+    transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+  }
 }
 #extCounters3-1mu {
   text-shadow: 5px 5px 5px #cccccc;
