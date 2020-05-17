@@ -16808,6 +16808,10 @@ section.form .container {
     transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
   }
 }
+#header3-1mv .mbr-section-title,
+#header3-1mv .mbr-section-subtitle {
+  text-align: center;
+}
 #extCounters3-1mu {
   text-shadow: 5px 5px 5px #cccccc;
 }
@@ -16818,17 +16822,8 @@ section.form .container {
 #extCounters3-1mu .count {
   color: #000000;
 }
-#header3-1mv .mbr-section-title,
-#header3-1mv .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1mo .mbr-section-title,
-#header3-1mo .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1mo .mbr-section-subtitle {
+#content6-1mr .lead P {
   font-size: 20px;
-  color: #414141;
 }
 #contacts1-1mk P {
   color: #000000;
