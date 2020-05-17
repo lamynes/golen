@@ -5,6 +5,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
@@ -16627,6 +16628,8 @@ section.form .container {
 
 
 
+
+
 #menu-1mj .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -16699,7 +16702,6 @@ section.form .container {
   font-size: 15px;
 }
 #msg-box6-1mn {
-  
   text-shadow: 5px 5px 5px #000000;
 }
 #msg-box6-1mn h3,
@@ -16712,24 +16714,28 @@ section.form .container {
 }
 #msg-box6-1mn P {
   text-align: center;
-  font-size: 20px;
+  font-size: 24px;
+  font-family: 'Oswald', sans-serif;
 }
 #msg-box6-1mn SPAN {
   font-size: 48px;
 }
+#msg-box6-1mn DIV {
+  font-family: 'Montserrat', sans-serif;
+}
 #msg-box6-1mn .mbr-section-title {
   color: #efefef;
-  font-size: 25px;
+  font-size: 40px;
   text-align: center;
 }
 #msg-box6-1mn .mbr-section-lead {
   text-align: center;
-  font-size: 25px;
+  font-size: 40px;
   color: #efefef;
 }
 #msg-box6-1mn .mbr-section-title SPAN {
   font-size: 40px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Oswald';
   color: #9900FF;
 }
 #msg-box6-1mn .mbr-section-title {
