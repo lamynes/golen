@@ -1,13 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
-
-
-
 
 
 
@@ -16741,6 +16737,108 @@ section.form .container {
   font-size: 18px;
 }
 #contacts1-1mk STRONG {
+  font-size: 20px;
+  color: #000000;
+}
+
+
+
+#menu-1my .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1my .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-1my .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1my .close-icon::before,
+#menu-1my .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1my .link,
+#menu-1my .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1my .link {
+  font-size: 0.8rem;
+}
+#menu-1my .dropdown-item,
+#menu-1my .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1my .link:hover,
+#menu-1my .dropdown-item:hover,
+#menu-1my .link:focus,
+#menu-1my .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-1my .link[aria-expanded="true"],
+#menu-1my .dropdown-menu {
+  background: #000000;
+}
+#menu-1my .nav-dropdown-sm .link:focus,
+#menu-1my .nav-dropdown-sm .link:hover,
+#menu-1my .nav-dropdown-sm .dropdown-item:focus,
+#menu-1my .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1my .navbar,
+#menu-1my .nav-dropdown-sm,
+#menu-1my .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1my .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1my .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1my .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1my .bg-color.transparent.opened .link:hover,
+#menu-1my .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-1my .link[aria-expanded="true"],
+#menu-1my .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-1my A {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1my .btn {
+  font-size: 15px;
+}
+#msg-box8-1n0 .mbr-section-title,
+#msg-box8-1n0 .lead {
+  color: #fff;
+}
+#msg-box8-1n0 .mbr-section-title {
+  color: #000000;
+}
+#extFeatures7-1n6 P {
+  text-align: center;
+  font-size: 20px;
+}
+#extFeatures7-1n6 H4 {
+  font-size: 30px;
+}
+#extFeatures7-1n6 .mbr-section-title {
+  font-size: 60px;
+}
+#msg-box5-1n9 H3 {
+  color: #ffffff;
+}
+#contacts1-1mz P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-1mz STRONG {
   font-size: 20px;
   color: #000000;
 }
