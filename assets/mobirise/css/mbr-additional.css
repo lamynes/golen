@@ -16814,12 +16814,22 @@ section.form .container {
 #menu-1my .btn {
   font-size: 15px;
 }
+#msg-box8-1n0 {
+  text-shadow: 5px 10px 20px black;
+}
 #msg-box8-1n0 .mbr-section-title,
 #msg-box8-1n0 .lead {
   color: #fff;
 }
 #msg-box8-1n0 .mbr-section-title {
-  color: #000000;
+  color: #fac51c;
+  font-size: 60px;
+}
+#msg-box8-1n0 .btn {
+  font-size: 15px;
+}
+#msg-box8-1n0 .lead P {
+  font-size: 20px;
 }
 #extFeatures7-1n6 P {
   text-align: center;
@@ -16832,8 +16842,12 @@ section.form .container {
 #extFeatures7-1n6 .mbr-section-title {
   font-size: 60px;
 }
+#extFeatures7-1n6 UL {
+  text-align: center;
+}
 #msg-box5-1n9 H3 {
   color: #ffffff;
+  text-align: left;
 }
 #contacts1-1mz P {
   color: #000000;
