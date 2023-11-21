@@ -16653,6 +16653,7 @@ section.form .container {
 
 
 
+
 #menu-1my .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -16736,7 +16737,7 @@ section.form .container {
   font-size: 15px;
 }
 #msg-box8-1n0 .lead P {
-  font-size: 25px;
+  font-size: 30px;
 }
 #msg-box4-1ni H3 {
   text-align: center;
@@ -16744,6 +16745,23 @@ section.form .container {
 #msg-box4-1ni P {
   font-size: 24px;
   text-align: left;
+}
+#header3-1nm .mbr-section-title,
+#header3-1nm .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1nm .mbr-section-title {
+  color: #ffffff;
+}
+#extFeatures14-1nl H4 {
+  font-size: 48px;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures14-1nl P {
+  font-size: 24px;
+}
+#extFeatures14-1nl .btn {
+  font-size: 20px;
 }
 #msg-box5-1n9 H3 {
   color: #ffffff;
