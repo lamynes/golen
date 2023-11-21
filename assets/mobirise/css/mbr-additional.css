@@ -2982,22 +2982,6 @@ section.form .container {
 #header3-li .mbr-section-subtitle {
   text-align: center;
 }
-#content1-ld P {
-  font-size: 17px;
-  text-align: left;
-  color: #000000;
-}
-#content1-ld UL {
-  font-size: 17px;
-  color: #000000;
-}
-#content1-ld DIV {
-  text-align: center;
-}
-#content1-ld B {
-  font-size: 30px;
-  color: #000000;
-}
 #content1-le P {
   text-align: center;
   font-size: 25px;
@@ -3019,22 +3003,6 @@ section.form .container {
   font-size: 20px;
   color: #000000;
 }
-#content1-lc P {
-  font-size: 17px;
-  text-align: left;
-  color: #000000;
-}
-#content1-lc UL {
-  font-size: 17px;
-  color: #000000;
-}
-#content1-lc DIV {
-  text-align: center;
-}
-#content1-lc B {
-  font-size: 30px;
-  color: #000000;
-}
 #content1-lf P {
   text-align: center;
   font-size: 25px;
@@ -3054,22 +3022,6 @@ section.form .container {
 }
 #content1-l9 UL {
   font-size: 20px;
-  color: #000000;
-}
-#content1-lb P {
-  font-size: 17px;
-  text-align: left;
-  color: #000000;
-}
-#content1-lb UL {
-  font-size: 17px;
-  color: #000000;
-}
-#content1-lb DIV {
-  text-align: center;
-}
-#content1-lb B {
-  font-size: 30px;
   color: #000000;
 }
 #content1-lg P {
@@ -4038,15 +3990,6 @@ section.form .container {
 #menu-rr .btn {
   font-size: 15px;
 }
-#content5-16x .mbr-section-title,
-#content5-16x p {
-  color: #fff;
-}
-#content5-16x .mbr-section-title {
-  color: #fac51c;
-  text-align: center;
-  font-size: 60px;
-}
 #buttons1-17e .btn {
   font-size: 14px;
 }
@@ -4190,18 +4133,6 @@ section.form .container {
 
 
 
-#content5-16z .mbr-section-title,
-#content5-16z p {
-  color: #fff;
-}
-#content5-16z .mbr-section-title {
-  color: #fac51c;
-  text-align: center;
-  font-size: 60px;
-}
-#content5-16z .mbr-section-title H1 {
-  font-size: 60px;
-}
 #content1-tw P {
   font-size: 20px;
   text-align: left;
@@ -4400,18 +4331,6 @@ section.form .container {
 }
 #menu-ul .btn {
   font-size: 15px;
-}
-#content5-171 .mbr-section-title,
-#content5-171 p {
-  color: #fff;
-}
-#content5-171 .mbr-section-title {
-  color: #fac51c;
-  text-align: center;
-  font-size: 60px;
-}
-#content5-171 .mbr-section-title H1 {
-  font-size: 60px;
 }
 #content1-vg P {
   font-size: 20px;
@@ -16588,9 +16507,6 @@ section.form .container {
 #menu-1m3 .btn {
   font-size: 15px;
 }
-#header2-1m4 {
-  text-shadow: 5px 10px 10px black;
-}
 #header2-1m4 .mbr-section-title {
   color: #ffffff;
   font-size: 48px;
@@ -16696,9 +16612,6 @@ section.form .container {
 #menu-1mj .btn {
   font-size: 15px;
 }
-#msg-box6-1mn {
-  text-shadow: 5px 5px 5px #000000;
-}
 #msg-box6-1mn h3,
 #msg-box6-1mn p {
   color: #fff;
@@ -16717,9 +16630,6 @@ section.form .container {
 }
 #msg-box6-1mn DIV {
   font-family: 'Oswald', sans-serif;
-}
-#extFeatures7-1mx {
-  text-shadow: 5px 5px 5px #cccccc;
 }
 #extFeatures7-1mx H5 {
   color: #c97913;
@@ -16814,9 +16724,6 @@ section.form .container {
 #menu-1my .btn {
   font-size: 15px;
 }
-#msg-box8-1n0 {
-  text-shadow: 5px 10px 20px black;
-}
 #msg-box8-1n0 .mbr-section-title,
 #msg-box8-1n0 .lead {
   color: #fff;
@@ -16831,9 +16738,18 @@ section.form .container {
 #msg-box8-1n0 .lead P {
   font-size: 25px;
 }
+#msg-box5-1n9 H3 {
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box5-1n9 P {
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+}
 #extFeatures7-1n6 P {
   text-align: center;
-  font-size: 20px;
+  font-size: 24px;
   color: #000000;
 }
 #extFeatures7-1n6 H4 {
@@ -16844,10 +16760,6 @@ section.form .container {
 }
 #extFeatures7-1n6 UL {
   text-align: center;
-}
-#msg-box5-1n9 H3 {
-  color: #ffffff;
-  text-align: left;
 }
 #contacts1-1mz P {
   color: #000000;
