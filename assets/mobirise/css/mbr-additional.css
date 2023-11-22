@@ -3990,6 +3990,11 @@ section.form .container {
 #menu-rr .btn {
   font-size: 15px;
 }
+#content5-16x .mbr-section-title {
+  color: #fac51c;
+  text-align: center;
+  font-size: 80px;
+}
 #buttons1-17e .btn {
   font-size: 14px;
 }
@@ -4331,6 +4336,13 @@ section.form .container {
 }
 #menu-ul .btn {
   font-size: 15px;
+}
+#content5-171 .mbr-section-title {
+  color: #fac51c;
+}
+#content5-171 .mbr-section-title H1 {
+  text-align: center;
+  font-size: 80px;
 }
 #content1-vg P {
   font-size: 20px;
@@ -16731,13 +16743,16 @@ section.form .container {
 }
 #msg-box8-1n0 .mbr-section-title {
   color: #fac51c;
-  font-size: 60px;
+  font-size: 80px;
 }
 #msg-box8-1n0 .btn {
   font-size: 15px;
 }
 #msg-box8-1n0 .lead P {
   font-size: 30px;
+}
+#msg-box8-1n0 .mbr-section-title SPAN {
+  font-size: 80px;
 }
 #msg-box4-1ni H3 {
   text-align: center;
