@@ -2685,6 +2685,14 @@ section.form .container {
   font-size: 20px;
   color: #000000;
 }
+#social-buttons2-1nr .mbr-section-title,
+#social-buttons2-1nr .btn-social {
+  color: #232323;
+}
+#social-buttons2-1nr .btn-social > * {
+  vertical-align: middle;
+  padding-right: 0;
+}
 
 
 
