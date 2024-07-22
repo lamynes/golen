@@ -16807,3 +16807,96 @@ section.form .container {
   font-size: 20px;
   color: #000000;
 }
+
+
+
+#menu-1ns .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1ns .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-1ns .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1ns .close-icon::before,
+#menu-1ns .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1ns .link,
+#menu-1ns .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1ns .link {
+  font-size: 0.8rem;
+}
+#menu-1ns .dropdown-item,
+#menu-1ns .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1ns .link:hover,
+#menu-1ns .dropdown-item:hover,
+#menu-1ns .link:focus,
+#menu-1ns .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-1ns .link[aria-expanded="true"],
+#menu-1ns .dropdown-menu {
+  background: #000000;
+}
+#menu-1ns .nav-dropdown-sm .link:focus,
+#menu-1ns .nav-dropdown-sm .link:hover,
+#menu-1ns .nav-dropdown-sm .dropdown-item:focus,
+#menu-1ns .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1ns .navbar,
+#menu-1ns .nav-dropdown-sm,
+#menu-1ns .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1ns .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1ns .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1ns .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1ns .bg-color.transparent.opened .link:hover,
+#menu-1ns .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-1ns .link[aria-expanded="true"],
+#menu-1ns .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-1ns A {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1ns .btn {
+  font-size: 15px;
+}
+#msg-box7-1nu h3,
+#msg-box7-1nu p {
+  color: #fff;
+}
+#msg-box7-1nu H3 {
+  font-size: 60px;
+  color: #fac51c;
+}
+#msg-box7-1nu .btn {
+  font-size: 15px;
+}
+#contacts1-1nt P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-1nt STRONG {
+  font-size: 20px;
+  color: #000000;
+}
