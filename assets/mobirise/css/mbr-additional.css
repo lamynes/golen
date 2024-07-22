@@ -16810,9 +16810,12 @@ section.form .container {
 #extHeader5-1nx .btn {
   font-size: 20px;
 }
-#extHeader5-1nx LABEL {
-  font-size: 22px;
+#extHeader5-1nx SPAN {
+  color: #181818;
 }
 #extHeader5-1nx H3 {
-  font-size: 72px;
+  color: #232323;
+}
+#extHeader5-1nx LABEL {
+  font-size: 24px;
 }
