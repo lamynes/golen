@@ -868,8 +868,6 @@ section.form .container {
 
 
 
-
-
 #menu-kw .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1130,33 +1128,6 @@ section.form .container {
   color: #ffffff;
   text-align: left;
   font-size: 20px;
-}
-#msg-box4-7g H3 {
-  font-size: 36px;
-  text-align: center;
-  color: #000000;
-}
-#msg-box4-7g P {
-  text-align: center;
-  font-size: 46px;
-  color: #fac51c;
-}
-#msg-box4-7g I {
-  color: #fac51c;
-}
-#msg-box4-7g SPAN {
-  color: #000000;
-}
-#content1-7k P {
-  font-size: 20px;
-  text-align: left;
-  font-family: 'Oswald', sans-serif;
-  color: #000000;
-}
-#content1-7k UL {
-  font-size: 20px;
-  font-family: 'Oswald', sans-serif;
-  color: #000000;
 }
 #contacts1-1me P {
   color: #000000;
