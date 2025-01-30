@@ -16191,7 +16191,7 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "font-size": "60px",
+              "font-size": "48px",
               "color": "#000000"
             },
             "SPAN": {
