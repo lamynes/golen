@@ -4248,6 +4248,9 @@ section.form .container {
 
 
 
+
+
+
 #msg-box4-vf H3 {
   text-align: center;
   font-size: 48px;
@@ -4383,22 +4386,42 @@ section.form .container {
 #extTable1-vi TH {
   color: #000000;
 }
-#msg-box5-1om P {
-  font-size: 20px;
-  color: #000000;
-  text-align: center;
-}
-#msg-box5-1om H3 {
-  font-size: 30px;
-  color: #000000;
-  text-align: center;
-}
-#msg-box5-1om DIV {
-  text-align: center;
-}
 #msg-box5-1o7 H3 {
   text-align: center;
   font-size: 36px;
+}
+#extFeatures12-1oq .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-1oq .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-1oq .card-number {
+  color: #fac51c;
+}
+#extFeatures12-1oq H3 {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 60px;
+  color: #fac51c;
+}
+#extFeatures12-1oq P {
+  text-align: center;
+  font-size: 20px;
+}
+#extFeatures12-1oq I {
+  font-size: 46px;
+  color: #e68c07;
+}
+#extFeatures12-1oq DIV {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures12-1oq H4 {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
 }
 #extTable1-1oi TD {
   font-size: 17px;
