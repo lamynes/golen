@@ -4248,6 +4248,22 @@ section.form .container {
 
 
 
+#msg-box4-vf H3 {
+  text-align: center;
+  font-size: 60px;
+  color: #000000;
+}
+#msg-box4-vf SPAN {
+  font-size: 48px;
+}
+#msg-box4-vf .btn {
+  font-size: 14px;
+}
+#msg-box4-vf P {
+  font-size: 25px;
+  color: #e68c07;
+  text-align: center;
+}
 #menu-ul .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4319,10 +4335,6 @@ section.form .container {
 #menu-ul .btn {
   font-size: 15px;
 }
-#header1-1nn .mbr-section-title {
-  color: #fac51c;
-  font-size: 72px;
-}
 #content1-vg P {
   font-size: 20px;
   text-align: left;
@@ -4335,24 +4347,14 @@ section.form .container {
 #content1-vg H2 {
   text-align: center;
 }
-#msg-box4-vf H3 {
+#content1-vh P {
+  font-size: 30px;
+  text-align: center;
+}
+#msg-box5-1oa H3 {
   text-align: center;
   font-size: 36px;
-}
-#msg-box4-vf SPAN {
-  font-size: 48px;
-}
-#msg-box4-vf .btn {
-  font-size: 14px;
-}
-#msg-box4-vf P {
-  font-size: 25px;
-  color: #e68c07;
-  text-align: center;
-}
-#content1-vh P {
-  font-size: 20px;
-  text-align: center;
+  color: #000000;
 }
 #extTable1-vi TD {
   font-size: 17px;
@@ -4363,6 +4365,36 @@ section.form .container {
   text-align: center;
 }
 #extTable1-vi TH {
+  color: #000000;
+}
+#msg-box5-1o7 H3 {
+  text-align: center;
+  font-size: 36px;
+}
+#extTable1-1oi TD {
+  font-size: 17px;
+  color: #000000;
+}
+#extTable1-1oi .mbr-section-title {
+  font-size: 48px;
+  text-align: center;
+}
+#extTable1-1oi TH {
+  color: #000000;
+}
+#msg-box5-1ob H3 {
+  text-align: center;
+  font-size: 36px;
+}
+#extTable1-1oj TD {
+  font-size: 17px;
+  color: #000000;
+}
+#extTable1-1oj .mbr-section-title {
+  font-size: 48px;
+  text-align: center;
+}
+#extTable1-1oj TH {
   color: #000000;
 }
 #content1-1jy P {
