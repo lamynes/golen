@@ -16225,7 +16225,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -16332,7 +16332,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/1998-2014-corvette-ls-swap-2-1447x566.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -16342,7 +16342,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -16441,7 +16441,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/97-14-gm-truck-ls-swap-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -16451,7 +16451,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -16549,7 +16549,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lssize-614x344-upscaled-1228x688.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/b0d1725fadddf6d6e95988af11cdcb20-removebg-preview-612x408.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
