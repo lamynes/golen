@@ -16331,10 +16331,10 @@
             "imageSize": "70",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/_5212cfb6-c8d9-4560-b257-5d92eaa5850b-1024x1024.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -16342,7 +16342,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -16440,18 +16440,18 @@
             "imageSize": "70",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -16548,18 +16548,18 @@
             "imageSize": "45",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lssize-614x344-upscaled-1228x688.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
