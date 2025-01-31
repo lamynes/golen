@@ -16332,7 +16332,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1998-2014-corvette-ls-swap-2-1447x566.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -16451,7 +16451,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
@@ -16546,10 +16546,10 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "56",
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/b0d1725fadddf6d6e95988af11cdcb20-removebg-preview-612x408.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
