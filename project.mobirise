@@ -16212,8 +16212,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "54",
-            "paddingTop": "4",
-            "paddingBottom": "0",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/lssize-614x344-upscaled-1228x688.png",
             "parallax": true,
@@ -16230,7 +16230,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lsx-427ci-725hp-complete-sm-1-540x462.png",
+              "src": "@PROJECT_PATH@/assets/images/lsx-427ci-725hp-complete-540x462.png",
               "link": "",
               "alt": "LSx COMPLETE ENGINES",
               "title": "LSx COMPLETE ENGINES",
