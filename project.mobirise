@@ -16211,11 +16211,11 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "70",
-            "paddingTop": "4",
+            "imageSize": "52",
+            "paddingTop": "5",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lsa-dimentions-530x285.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/lssize-614x344-upscaled-1228x688.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -16225,7 +16225,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -16251,7 +16251,7 @@
           },
           "title": "LSx COMPLETE ENGINES",
           "text": "<p>6 Month Special Financing Available + 2% Cash Back With Blispay</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">Camaro 1998-2002 &amp; 2010-2014\n<br>Corvette 1997-2013 LS Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">GM Trucks (1999–2014)\n<br>LS-Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LS Swap/Hotrod Series\n<br>LS-Based Engines</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">Camaro 1998-2002 &amp; 2010-2014\n<br>Corvette 1997-2013 LS Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">GM Trucks (1999–2014)\n<br>LS-Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LS Swap/Hotrod Series\n<br>LS-Based Engines</a>",
           "_anchor": "msg-box4-vf",
           "_sourceTheme": "mobirise3"
         },
