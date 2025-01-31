@@ -4248,25 +4248,6 @@ section.form .container {
 
 
 
-
-
-
-#msg-box4-vf H3 {
-  text-align: center;
-  font-size: 48px;
-  color: #000000;
-}
-#msg-box4-vf SPAN {
-  font-size: 48px;
-}
-#msg-box4-vf .btn {
-  font-size: 14px;
-}
-#msg-box4-vf P {
-  font-size: 25px;
-  color: #e68c07;
-  text-align: center;
-}
 #menu-ul .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4338,6 +4319,22 @@ section.form .container {
 #menu-ul .btn {
   font-size: 15px;
 }
+#msg-box4-vf H3 {
+  text-align: center;
+  font-size: 48px;
+  color: #000000;
+}
+#msg-box4-vf SPAN {
+  font-size: 48px;
+}
+#msg-box4-vf .btn {
+  font-size: 14px;
+}
+#msg-box4-vf P {
+  font-size: 25px;
+  color: #e68c07;
+  text-align: center;
+}
 #buttons1-1ok .btn {
   font-size: 18px;
 }
@@ -4376,39 +4373,6 @@ section.form .container {
 #msg-box5-1o7 H3 {
   text-align: center;
   font-size: 36px;
-}
-#extFeatures12-1oq .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-1oq .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-1oq .card-number {
-  color: #fac51c;
-}
-#extFeatures12-1oq H3 {
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-  font-size: 60px;
-  color: #fac51c;
-}
-#extFeatures12-1oq P {
-  text-align: center;
-  font-size: 20px;
-}
-#extFeatures12-1oq I {
-  font-size: 46px;
-  color: #e68c07;
-}
-#extFeatures12-1oq DIV {
-  text-align: center;
-  font-size: 36px;
-  font-family: 'Oswald', sans-serif;
-}
-#extFeatures12-1oq H4 {
-  text-align: center;
-  font-size: 36px;
-  font-family: 'Oswald', sans-serif;
 }
 #extTable1-1oi TD {
   font-size: 17px;
