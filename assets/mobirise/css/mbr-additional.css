@@ -4350,14 +4350,14 @@ section.form .container {
 #content1-vg H2 {
   text-align: center;
 }
-#content1-vh P {
-  font-size: 30px;
-  text-align: center;
-}
 #msg-box5-1oa H3 {
   text-align: center;
   font-size: 30px;
   color: #000000;
+}
+#content1-vh P {
+  font-size: 30px;
+  text-align: center;
 }
 #extTable1-vi TD {
   font-size: 17px;
@@ -4374,6 +4374,10 @@ section.form .container {
   text-align: center;
   font-size: 30px;
 }
+#content1-1os P {
+  font-size: 30px;
+  text-align: center;
+}
 #extTable1-1oi TD {
   font-size: 17px;
   color: #000000;
@@ -4388,6 +4392,10 @@ section.form .container {
 #msg-box5-1ob H3 {
   text-align: center;
   font-size: 36px;
+}
+#content1-1ot P {
+  font-size: 30px;
+  text-align: center;
 }
 #extTable1-1oj TD {
   font-size: 17px;

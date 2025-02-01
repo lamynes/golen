@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2188,
+    "uniqCompNum": 2190,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -16304,26 +16304,6 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>Questions? Give us a call at <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> or <a href=\"contact-us.html\" class=\"text-warning\">Contact Us</a> and we’ll get in touch with you right away.</b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "30px",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-vh",
-          "_sourceTheme": "mobirise3"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showText": false,
             "showButtons": false,
@@ -16380,6 +16360,26 @@
             }
           },
           "_anchor": "msg-box5-1oa",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Questions? Give us a call at <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> or <a href=\"contact-us.html\" class=\"text-warning\">Contact Us</a> and we’ll get in touch with you right away.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-vh",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -16492,6 +16492,26 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Questions? Give us a call at <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> or <a href=\"contact-us.html\" class=\"text-warning\">Contact Us</a> and we’ll get in touch with you right away.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1os",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
             "showTitle": false,
             "showSearch": false,
             "rowСount": "3",
@@ -16596,6 +16616,26 @@
             }
           },
           "_anchor": "msg-box5-1ob",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Questions? Give us a call at <a href=\"tel:1-800-591-9171\" class=\"text-warning\">1-800-591-9171</a> or <a href=\"contact-us.html\" class=\"text-warning\">Contact Us</a> and we’ll get in touch with you right away.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1ot",
           "_sourceTheme": "mobirise3"
         },
         {
