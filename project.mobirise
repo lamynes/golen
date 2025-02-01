@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2187,
+    "uniqCompNum": 2188,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -16332,7 +16332,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/cam-vette-1280x374.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -16342,7 +16342,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -16451,7 +16451,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -16549,7 +16549,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/b0d1725fadddf6d6e95988af11cdcb20-removebg-preview-612x408.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
