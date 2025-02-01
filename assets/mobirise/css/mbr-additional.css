@@ -4355,58 +4355,58 @@ section.form .container {
   font-size: 30px;
   color: #000000;
 }
-#content1-vh P {
-  font-size: 30px;
-  text-align: center;
-}
 #extTable1-vi TD {
   font-size: 17px;
   color: #000000;
 }
 #extTable1-vi .mbr-section-title {
-  font-size: 48px;
+  font-size: 30px;
   text-align: center;
 }
 #extTable1-vi TH {
   color: #000000;
 }
+#content1-vh P {
+  font-size: 25px;
+  text-align: center;
+}
 #msg-box5-1o7 H3 {
   text-align: center;
   font-size: 30px;
-}
-#content1-1os P {
-  font-size: 30px;
-  text-align: center;
 }
 #extTable1-1oi TD {
   font-size: 17px;
   color: #000000;
 }
 #extTable1-1oi .mbr-section-title {
-  font-size: 48px;
+  font-size: 30px;
   text-align: center;
 }
 #extTable1-1oi TH {
   color: #000000;
 }
+#content1-1os P {
+  font-size: 25px;
+  text-align: center;
+}
 #msg-box5-1ob H3 {
   text-align: center;
   font-size: 36px;
-}
-#content1-1ot P {
-  font-size: 30px;
-  text-align: center;
 }
 #extTable1-1oj TD {
   font-size: 17px;
   color: #000000;
 }
 #extTable1-1oj .mbr-section-title {
-  font-size: 48px;
+  font-size: 30px;
   text-align: center;
 }
 #extTable1-1oj TH {
   color: #000000;
+}
+#content1-1ot P {
+  font-size: 25px;
+  text-align: center;
 }
 #content1-1jy P {
   font-size: 20px;
