@@ -16333,7 +16333,7 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=nQEuo_3Obc4&t=240s",
+              "src": "https://www.youtube.com/watch?v=uN8fNPPGxqQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
@@ -16382,7 +16382,7 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showSearch": false,
             "rowСount": "6",
             "colCount": "4",
