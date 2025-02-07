@@ -16311,12 +16311,12 @@
             "imageSize": "70",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/cam-vette-1280x374.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/-pFqLIpbABc?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=-pFqLIpbABc",
@@ -16325,7 +16325,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -16454,7 +16454,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
