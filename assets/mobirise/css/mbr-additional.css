@@ -17195,3 +17195,113 @@ section.form .container {
   font-size: 20px;
   color: #000000;
 }
+
+
+
+#menu-1qi .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1qi .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-1qi .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1qi .close-icon::before,
+#menu-1qi .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1qi .link,
+#menu-1qi .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1qi .link {
+  font-size: 0.8rem;
+}
+#menu-1qi .dropdown-item,
+#menu-1qi .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1qi .link:hover,
+#menu-1qi .dropdown-item:hover,
+#menu-1qi .link:focus,
+#menu-1qi .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-1qi .link[aria-expanded="true"],
+#menu-1qi .dropdown-menu {
+  background: #000000;
+}
+#menu-1qi .nav-dropdown-sm .link:focus,
+#menu-1qi .nav-dropdown-sm .link:hover,
+#menu-1qi .nav-dropdown-sm .dropdown-item:focus,
+#menu-1qi .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1qi .navbar,
+#menu-1qi .nav-dropdown-sm,
+#menu-1qi .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1qi .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1qi .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1qi .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1qi .bg-color.transparent.opened .link:hover,
+#menu-1qi .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-1qi .link[aria-expanded="true"],
+#menu-1qi .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-1qi A {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1qi .btn {
+  font-size: 15px;
+}
+#msg-box4-1qp H3 {
+  font-size: 46px;
+  text-align: left;
+  color: #000000;
+}
+#msg-box4-1qp P {
+  text-align: left;
+  font-size: 23px;
+  color: #000000;
+}
+#msg-box4-1qp SPAN {
+  color: #000000;
+}
+#msg-box4-1qp I {
+  color: #fac51c;
+}
+#msg-box4-1qp .btn {
+  font-size: 14px;
+}
+#content1-1ql P {
+  font-size: 20px;
+  text-align: left;
+  color: #000000;
+}
+#content1-1ql UL {
+  font-size: 20px;
+  color: #000000;
+}
+#contacts1-1r6 P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-1r6 STRONG {
+  font-size: 20px;
+  color: #000000;
+}
