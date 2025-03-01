@@ -17354,3 +17354,162 @@ section.form .container {
   font-size: 20px;
   color: #000000;
 }
+
+
+
+
+
+
+
+
+#menu-1r9 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1r9 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-1r9 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1r9 .close-icon::before,
+#menu-1r9 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1r9 .link,
+#menu-1r9 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1r9 .link {
+  font-size: 0.8rem;
+}
+#menu-1r9 .dropdown-item,
+#menu-1r9 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1r9 .link:hover,
+#menu-1r9 .dropdown-item:hover,
+#menu-1r9 .link:focus,
+#menu-1r9 .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-1r9 .link[aria-expanded="true"],
+#menu-1r9 .dropdown-menu {
+  background: #000000;
+}
+#menu-1r9 .nav-dropdown-sm .link:focus,
+#menu-1r9 .nav-dropdown-sm .link:hover,
+#menu-1r9 .nav-dropdown-sm .dropdown-item:focus,
+#menu-1r9 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1r9 .navbar,
+#menu-1r9 .nav-dropdown-sm,
+#menu-1r9 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1r9 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1r9 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1r9 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1r9 .bg-color.transparent.opened .link:hover,
+#menu-1r9 .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-1r9 .link[aria-expanded="true"],
+#menu-1r9 .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-1r9 A {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1r9 .btn {
+  font-size: 15px;
+}
+#msg-box4-1ra H3 {
+  font-size: 46px;
+  text-align: left;
+  color: #000000;
+}
+#msg-box4-1ra P {
+  text-align: left;
+  font-size: 24px;
+  color: #000000;
+}
+#msg-box4-1ra SPAN {
+  color: #000000;
+}
+#msg-box4-1ra I {
+  color: #fac51c;
+}
+#msg-box4-1ra .btn {
+  font-size: 20px;
+}
+#content1-1rb P {
+  font-size: 20px;
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+#content1-1rb UL {
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+  color: #000000;
+}
+#extFeatures12-1rc .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-1rc .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-1rc .card-number {
+  color: #fac51c;
+}
+#extFeatures12-1rc H3 {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 60px;
+  color: #fac51c;
+}
+#extFeatures12-1rc P {
+  text-align: center;
+  font-size: 20px;
+}
+#extFeatures12-1rc I {
+  font-size: 46px;
+  color: #e68c07;
+}
+#extFeatures12-1rc DIV {
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures12-1rc H4 {
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Oswald', sans-serif;
+}
+#content1-1rd P {
+  font-size: 20px;
+  text-align: left;
+  color: #000000;
+}
+#content1-1rd UL {
+  font-size: 20px;
+  color: #000000;
+}
+#contacts1-1re P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-1re STRONG {
+  font-size: 20px;
+  color: #000000;
+}
