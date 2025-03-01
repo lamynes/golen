@@ -76256,12 +76256,37 @@
           "_anchor": "msg-box4-1qp"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "text-align": "left",
+              "color": "#000000"
+            },
+            "UL": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>The 1991-1999 Jeep Wrangler and Grand Cherokee models were originally equipped with the 4.0L inline-six engine, known for its reliability but modest power output. To enhance performance, many enthusiasts opt for the 4.6L Stroker engine, which offers a significant boost in horsepower and torque.</p><p><br></p><p>\n</p><p><b>4.6L Stroker Engine Overview:\n</b></p><ul><li>Displacement: 4.6 liters\n</li><li>Configuration: Inline 6-cylinder\n</li><li>Horsepower: Approximately 270 HP\n</li><li>Torque: Around 300 lb-ft\n</li><li>Compatibility: Direct bolt-in replacement for factory 4.0L engines\n</li><li>Fuel System: Utilizes existing fuel injection systems\n</li></ul><p><br></p><p><b>Benefits of Upgrading to a 4.6L Stroker Engine:\n</b></p><ul><li>Enhanced Performance: The increased displacement provides a substantial improvement in power and torque, resulting in better acceleration and overall drivability.\n</li><li>Direct Replacement: Designed to fit seamlessly into 1991-1999 Jeep Wrangler and Grand Cherokee models without the need for extensive modifications.\n</li><li>Reliability: Built with high-quality components to ensure longevity and dependability, even under demanding conditions.\n</li></ul><p><br></p><p><b>Jeep 4.6L Engine Installation and Compatibility:\n</b></p><p>Upgrading to the 4.6L Stroker engine is straightforward for 1991-1999 models. The engine is engineered as a direct bolt-in replacement, compatible with all automatic and manual transmissions of the era. Additionally, it integrates seamlessly with existing differentials, ensuring a hassle-free installation process.<br></p><p><br></p><p><b>Optional Performance Enhancements:\n</b></p><p>To further optimize your Jeep's performance, consider the following upgrades:\n</p><ul><li>Performance Tubular Stainless Steel Header: Enhances exhaust flow, contributing to increased horsepower and torque.\n</li><li>62mm Throttle Body: Improves air intake efficiency, resulting in better throttle response and engine performance.\n</li><li>High-Flow Water Pump: Ensures optimal cooling, maintaining engine temperatures within ideal ranges during demanding conditions.\n</li></ul><p><br></p><p>Improve the performance of your 1991-1999 Jeep Wrangler or Grand Cherokee with a 4.6L stroker engine designed and engineered by Golen Engine Service.</p>",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content1-1ql"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<div><font color=\"#000000\"><span style=\"font-size: 20px;\"><b>Pricing on 1991-1999 Jeep Wrangler and Grand Cherokee 4.6L Stroker Engines:</b></span></font></div><ul><li><b>1991-1999</b> year models <b>$7,499&nbsp;</b><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></li></ul>",
+          "text": "<div><font color=\"#000000\"><span style=\"font-size: 20px;\">Pricing on 1991-1999 Jeep Wrangler and Grand Cherokee 4.6L Stroker Engines:<b>&nbsp;</b></span></font><b style=\"color: rgb(0, 0, 0); font-size: 20px;\">$7,499&nbsp;</b><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\" style=\"font-size: 20px; background-color: rgb(255, 255, 255);\">Buy Now</a></div>",
           "_tags": [
             "Theme"
           ],
@@ -76451,31 +76476,6 @@
           "_name": "extFeatures12",
           "_anchor": "extFeatures12-1r8",
           "_sourceTheme": "mobirise3"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "20px",
-              "text-align": "left",
-              "color": "#000000"
-            },
-            "UL": {
-              "font-size": "20px",
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>The 1991-1999 Jeep Wrangler and Grand Cherokee models were originally equipped with the 4.0L inline-six engine, known for its reliability but modest power output. To enhance performance, many enthusiasts opt for the 4.6L Stroker engine, which offers a significant boost in horsepower and torque.</p><p><br></p><p>\n</p><p><b>4.6L Stroker Engine Overview:\n</b></p><ul><li>Displacement: 4.6 liters\n</li><li>Configuration: Inline 6-cylinder\n</li><li>Horsepower: Approximately 270 HP\n</li><li>Torque: Around 300 lb-ft\n</li><li>Compatibility: Direct bolt-in replacement for factory 4.0L engines\n</li><li>Fuel System: Utilizes existing fuel injection systems\n</li></ul><p><br></p><p><b>Benefits of Upgrading to a 4.6L Stroker Engine:\n</b></p><ul><li>Enhanced Performance: The increased displacement provides a substantial improvement in power and torque, resulting in better acceleration and overall drivability.\n</li><li>Direct Replacement: Designed to fit seamlessly into 1991-1999 Jeep Wrangler and Grand Cherokee models without the need for extensive modifications.\n</li><li>Reliability: Built with high-quality components to ensure longevity and dependability, even under demanding conditions.\n</li></ul><p><br></p><p><b>Jeep 4.6L Engine Installation and Compatibility:\n</b></p><p>Upgrading to the 4.6L Stroker engine is straightforward for 1991-1999 models. The engine is engineered as a direct bolt-in replacement, compatible with all automatic and manual transmissions of the era. Additionally, it integrates seamlessly with existing differentials, ensuring a hassle-free installation process.<br></p><p><br></p><p><b>Optional Performance Enhancements:\n</b></p><p>To further optimize your Jeep's performance, consider the following upgrades:\n</p><ul><li>Performance Tubular Stainless Steel Header: Enhances exhaust flow, contributing to increased horsepower and torque.\n</li><li>62mm Throttle Body: Improves air intake efficiency, resulting in better throttle response and engine performance.\n</li><li>High-Flow Water Pump: Ensures optimal cooling, maintaining engine temperatures within ideal ranges during demanding conditions.\n</li></ul><p><br></p><p>Improve the performance of your 1991-1999 Jeep Wrangler or Grand Cherokee with a 4.6L stroker engine designed and engineered by Golen Engine Service.</p>",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content1-1ql"
         },
         {
           "_params": {
@@ -76715,12 +76715,37 @@
           "_anchor": "msg-box4-1ra"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "text-align": "left",
+              "color": "#000000"
+            },
+            "UL": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>For Jeep enthusiasts seeking enhanced performance in their 2000-2006 Wrangler or Grand Cherokee models, upgrading to a 4.6L Stroker engine offers a substantial boost in power and torque. This engine is designed as a direct bolt-in replacement for the factory 4.0L engines, ensuring a seamless installation process.\n</p><p><br></p><p><b>4.6L Stroker Engine Overview:\n</b></p><ul><li>Displacement: 4.6 liters\n</li><li>Configuration: Inline 6-cylinder\n</li><li>Horsepower: Approximately 270 HP\n</li><li>Torque: Around 300 ft-lbs\n</li><li>Compatibility: Direct replacement for 2000-2006 4.0L engines\n</li><li>Fuel System: Utilizes existing fuel injection systems\n</li></ul><p><br></p><p><b>Benefits of the 4.6L Stroker Engine:\n</b></p><ul><li>Enhanced Performance: The increased displacement delivers improved horsepower and torque, resulting in better acceleration and overall drivability.\n</li><li>Seamless Integration: Designed to fit directly into 2000-2006 Jeep Wrangler and Grand Cherokee models without extensive modifications.\n</li><li>Reliability: Constructed with high-quality components to ensure longevity and dependable performance under various conditions.\n</li></ul><p><br></p><p><b>Jeep 4.6L Engine Installation and Compatibility:\n</b></p><p>It’s a straightforward task to upgrade your 2000-2006 Jeep Wrangler or Grand Cherokee 4.0L engine to a 4.6L stroker engine by Golen Engine Service. This stroker is engineered as a direct bolt-in replacement, compatible with all automatic and manual transmissions of the era. Additionally, it integrates seamlessly with existing differentials, ensuring a hassle-free installation process.\n</p><p><br></p><p><b>Optional Performance Upgrades:\n</b></p><p>To further enhance your Jeep's capabilities, consider the following additions:\n</p><ul><li>Performance Tubular Stainless Steel Header: Improves exhaust flow, contributing to increased horsepower and torque.\n</li><li>62mm Throttle Body: Enhances air intake efficiency, leading to better throttle response and engine performance.\n</li><li>High-Flow Water Pump: Ensures optimal cooling, maintaining ideal engine temperatures during demanding operations.</li></ul><p><br></p><p>\n</p><p>Improve the performance of your 2000-2006 Jeep Wrangler or Grand Cherokee with a 4.6L stroker engine designed and engineered by Golen Engine Service.</p>",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content1-1rd"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<div><font color=\"#000000\"><span style=\"font-size: 20px;\"><b>Pricing on 2000-2006 Wrangler &amp; Grand Cherokee 4.6L Jeep Stroker Engines</b></span></font></div><ul><li><b>2000-2006</b> year models <b>$7,699&nbsp;</b><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></li></ul>",
+          "text": "<div><font color=\"#000000\"><span style=\"font-size: 20px;\">Pricing on 2000-2006 Wrangler &amp; Grand Cherokee 4.6L Jeep Stroker Engines</span></font><span style=\"color: rgb(0, 0, 0); font-size: 20px;\">&nbsp;&nbsp;</span><b style=\"color: rgb(0, 0, 0); font-size: 20px;\">$7,699&nbsp;</b><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\" style=\"font-size: 20px; background-color: rgb(255, 255, 255);\">Buy Now</a></div>",
           "_tags": [
             "Theme"
           ],
@@ -76738,6 +76763,9 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "color": "#000000"
+            },
+            "DIV": {
+              "font-size": "24px"
             }
           },
           "_sourceTheme": "mobirise3",
@@ -76910,31 +76938,6 @@
           "_name": "extFeatures12",
           "_sourceTheme": "mobirise3",
           "_anchor": "extFeatures12-1rc"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-size": "20px",
-              "text-align": "left",
-              "color": "#000000"
-            },
-            "UL": {
-              "font-size": "20px",
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "text": "<p>For Jeep enthusiasts seeking enhanced performance in their 2000-2006 Wrangler or Grand Cherokee models, upgrading to a 4.6L Stroker engine offers a substantial boost in power and torque. This engine is designed as a direct bolt-in replacement for the factory 4.0L engines, ensuring a seamless installation process.</p><p><br></p><p>\n</p><p><b>4.6L Stroker Engine Overview:\n</b></p><ul><li>Displacement: 4.6 liters\n</li><li>Configuration: Inline 6-cylinder\n</li><li>Horsepower: Approximately 270 HP\n</li><li>Torque: Around 300 lb-ft\n</li><li>Compatibility: Direct bolt-in replacement for factory 4.0L engines\n</li><li>Fuel System: Utilizes existing fuel injection systems\n</li></ul><p><br></p><p><b>Benefits of Upgrading to a 4.6L Stroker Engine:\n</b></p><ul><li>Enhanced Performance: The increased displacement provides a substantial improvement in power and torque, resulting in better acceleration and overall drivability.\n</li><li>Direct Replacement: Designed to fit seamlessly into 1991-1999 Jeep Wrangler and Grand Cherokee models without the need for extensive modifications.\n</li><li>Reliability: Built with high-quality components to ensure longevity and dependability, even under demanding conditions.\n</li></ul><p><br></p><p><b>Jeep 4.6L Engine Installation and Compatibility:\n</b></p><p>It’s a straightforward task to upgrade your 2000-2006 Jeep Wrangler or Grand Cherokee 4.0L engine to a 4.6L stroker engine by Golen Engine Service. This stroker is engineered as a direct bolt-in replacement, compatible with all automatic and manual transmissions of the era. Additionally, it integrates seamlessly with existing differentials, ensuring a hassle-free installation process.\n</p><p><br></p><p><br></p><p><b>Optional Performance Upgrades:\n</b></p><p>To further optimize your Jeep's performance, consider the following upgrades:\n</p><ul><li>Performance Tubular Stainless Steel Header: Enhances exhaust flow, contributing to increased horsepower and torque.\n</li><li>62mm Throttle Body: Improves air intake efficiency, resulting in better throttle response and engine performance.\n</li><li>High-Flow Water Pump: Ensures optimal cooling, maintaining engine temperatures within ideal ranges during demanding conditions.\n</li></ul><p><br></p><p>Improve the performance of your 2000-2006 Jeep Wrangler or Grand Cherokee with a 4.6L stroker engine designed and engineered by Golen Engine Service.</p>",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content1-1rd"
         },
         {
           "_params": {
