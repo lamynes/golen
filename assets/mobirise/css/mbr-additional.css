@@ -16914,6 +16914,9 @@ section.form .container {
 
 
 
+
+
+
 #msg-box4-1ov H3 {
   text-align: center;
   font-size: 48px;
@@ -16969,6 +16972,39 @@ section.form .container {
 }
 #content1-1p7 DIV {
   color: #000000;
+}
+#extFeatures12-1rm .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-1rm .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-1rm .card-number {
+  color: #fac51c;
+}
+#extFeatures12-1rm H3 {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: 60px;
+  color: #fac51c;
+}
+#extFeatures12-1rm P {
+  text-align: center;
+  font-size: 20px;
+}
+#extFeatures12-1rm I {
+  font-size: 46px;
+  color: #e68c07;
+}
+#extFeatures12-1rm DIV {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures12-1rm H4 {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
 }
 #content1-1p6 P {
   font-size: 20px;
