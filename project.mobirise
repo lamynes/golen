@@ -683,7 +683,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1728,7 +1728,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -3480,7 +3480,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -4241,7 +4241,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -4853,7 +4853,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -5278,7 +5278,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -5502,7 +5502,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -7072,7 +7072,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -7346,7 +7346,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -7838,7 +7838,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -8419,7 +8419,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -8744,7 +8744,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -9022,7 +9022,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -9472,7 +9472,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -10107,7 +10107,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -10762,7 +10762,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -13871,7 +13871,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -14292,7 +14292,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -15168,7 +15168,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -15624,7 +15624,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -16497,7 +16497,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -16903,7 +16903,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -17624,7 +17624,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -18056,7 +18056,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -18488,7 +18488,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -18920,7 +18920,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -19352,7 +19352,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -19784,7 +19784,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -20216,7 +20216,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -20648,7 +20648,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -21080,7 +21080,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -21512,7 +21512,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -21944,7 +21944,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -22376,7 +22376,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -22752,7 +22752,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -23128,7 +23128,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -23504,7 +23504,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -23880,7 +23880,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -24256,7 +24256,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -24632,7 +24632,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -25008,7 +25008,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -25384,7 +25384,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -25760,7 +25760,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -26136,7 +26136,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -26512,7 +26512,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -26888,7 +26888,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -27264,7 +27264,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -27640,7 +27640,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -28016,7 +28016,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -28392,7 +28392,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -28768,7 +28768,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -29144,7 +29144,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -29520,7 +29520,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -29952,7 +29952,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -30384,7 +30384,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -30816,7 +30816,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -31248,7 +31248,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -31680,7 +31680,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -32112,7 +32112,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -32544,7 +32544,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -32920,7 +32920,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -33296,7 +33296,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -33672,7 +33672,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -34160,7 +34160,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -34648,7 +34648,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -35136,7 +35136,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -35383,7 +35383,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -38881,7 +38881,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -42379,7 +42379,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -45877,7 +45877,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -49375,7 +49375,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -52873,7 +52873,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -56371,7 +56371,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -59869,7 +59869,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -63367,7 +63367,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -66865,7 +66865,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -67241,7 +67241,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -67617,7 +67617,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -68049,7 +68049,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -68481,7 +68481,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -68857,7 +68857,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -69233,7 +69233,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -69609,7 +69609,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -69985,7 +69985,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -70417,7 +70417,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -70849,7 +70849,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -71281,7 +71281,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -71713,7 +71713,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -72145,7 +72145,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -72574,7 +72574,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -73013,7 +73013,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -73454,7 +73454,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -73895,7 +73895,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -74319,7 +74319,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -74596,7 +74596,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -75037,7 +75037,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -75306,7 +75306,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -75575,7 +75575,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -75839,7 +75839,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -76492,7 +76492,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -77315,7 +77315,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -77517,7 +77517,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -77966,7 +77966,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -78578,7 +78578,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -79025,7 +79025,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -79533,7 +79533,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -80044,7 +80044,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -80556,7 +80556,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#181818",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
