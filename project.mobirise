@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "4-6l-2000-2006-jeep-stroker-engine.html",
+    "currentPage": "4-6l-1971-1990-jeep-carbureted-engine.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -79233,7 +79233,7 @@
             "inverse": true,
             "imageSize": "60",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -79265,7 +79265,7 @@
               "size": 250
             }
           },
-          "title": "JEEP 4.6.L STROKER <br>1991-1999 WRANGLER <br>1991-1999 CHEROKEE KJ",
+          "title": "Golen Engine Jeep 4.6.L Stroker&nbsp;1991-1999 Wrangler 1991-1999 Cherokee XJ",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
@@ -79329,7 +79329,7 @@
             }
           },
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
@@ -79686,7 +79686,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "60",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -79799,7 +79799,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "63",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -79923,7 +79923,7 @@
     "4-6l-1971-1990-jeep-carbureted-engine.html": {
       "settings": {
         "meta_descr": "Replace your stock 1971-1990 4.0 Jeep Engine with a powerful 4.6L carb turnkey engine today. Get more horsepower and efficiency in your Jeep CJ and early YJ.",
-        "title": "1971-1990 Wrangler & Cherokee 4.6L Jeep Carbureted Engines",
+        "title": "1971-1990 Wrangler &amp; Cherokee 4.6L Jeep Carbureted Engines",
         "order": "34",
         "socialSharingUrl": ""
       },
