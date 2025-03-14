@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "4-6l-1971-1990-jeep-carbureted-engine.html",
+    "currentPage": "4-6l-2000-2006-jeep-stroker-engine.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -79693,7 +79693,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
