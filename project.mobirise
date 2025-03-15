@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "4-6l-1991-1999-jeep-stroker-engine.html",
+    "currentPage": "4-6l-2000-2006-jeep-stroker-engine.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -79366,7 +79366,7 @@
               "src": "@PROJECT_PATH@/assets/images/jeep-complete-engine.png",
               "link": "https://www.youtube.com/watch?v=tzIpKKiErJw",
               "alt": "4.6L Jeep Complete Engine Dyno",
-              "linkInNewWindow": false,
+              "linkInNewWindow": true,
               "active": true
             },
             "video": {
@@ -79802,7 +79802,7 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "63",
@@ -79824,10 +79824,13 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/jeep-complete-engine.png",
+              "link": "https://www.youtube.com/watch?v=nNJtOYjpLVc",
+              "alt": "Golen 4.6L Jeep Engine Dyno",
+              "linkInNewWindow": true,
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "https://www.youtube.com/watch?v=tzIpKKiErJw",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -79840,7 +79843,7 @@
             }
           },
           "title": "Golen Engine 4.6L Dyno Break In Service",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p>We Dyno Break In and Tune every engine we build to ensure you get the optimal performance for your Jeep.</p>",
           "_tags": [
             "Theme"
           ],
@@ -79852,6 +79855,9 @@
             "H3": {
               "text-align": "left",
               "font-size": "36px"
+            },
+            "P": {
+              "font-size": "20px"
             }
           }
         },
@@ -80281,10 +80287,13 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/jeep-carb-engine.png",
+              "link": "https://www.youtube.com/watch?v=nNJtOYjpLVc",
+              "alt": "4.6L Jeep Carbureted Engine Dyno",
+              "linkInNewWindow": true,
+              "active": true
             },
             "video": {
-              "active": true,
               "src": "https://www.youtube.com/watch?v=ON-Y4hbgivI",
               "aspectratio": "16:9",
               "autoplay": false,
