@@ -17486,6 +17486,12 @@ section.form .container {
 #msg-box4-1s0 H3 {
   font-size: 32px;
 }
+#msg-box4-1s1 H3 {
+  font-size: 32px;
+}
+#msg-box4-1s1 P {
+  font-size: 20px;
+}
 #content1-1r7 P {
   font-size: 20px;
   text-align: left;
@@ -17508,12 +17514,6 @@ section.form .container {
 #content1-1ql UL {
   font-size: 20px;
   color: #000000;
-}
-#msg-box4-1s1 H3 {
-  font-size: 32px;
-}
-#msg-box4-1s1 P {
-  font-size: 20px;
 }
 #contacts1-1r6 P {
   color: #000000;
@@ -17632,6 +17632,13 @@ section.form .container {
 #msg-box4-1s5 H3 {
   font-size: 36px;
 }
+#msg-box4-1s4 H3 {
+  text-align: left;
+  font-size: 36px;
+}
+#msg-box4-1s4 P {
+  font-size: 20px;
+}
 #content1-1rb P {
   font-size: 20px;
   text-align: left;
@@ -17654,13 +17661,6 @@ section.form .container {
 #content1-1rd UL {
   font-size: 20px;
   color: #000000;
-}
-#msg-box4-1s4 H3 {
-  text-align: left;
-  font-size: 36px;
-}
-#msg-box4-1s4 P {
-  font-size: 20px;
 }
 #contacts1-1re P {
   color: #000000;
@@ -17779,6 +17779,9 @@ section.form .container {
 #msg-box4-1s3 H3 {
   font-size: 36px;
 }
+#msg-box4-1s2 H3 {
+  font-size: 36px;
+}
 #content1-1ri P {
   font-size: 20px;
   text-align: left;
@@ -17801,9 +17804,6 @@ section.form .container {
 #content1-1rh UL {
   font-size: 20px;
   color: #000000;
-}
-#msg-box4-1s2 H3 {
-  font-size: 36px;
 }
 #contacts1-1rk P {
   color: #000000;
