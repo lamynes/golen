@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2311,
+    "uniqCompNum": 2314,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -79341,7 +79341,7 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "inverse": true,
             "imageSize": "60",
@@ -79382,7 +79382,7 @@
             }
           },
           "title": "Golen Engine 4.6L Dyno Break In Service",
-          "text": "<p>Every Engine we build gets a Dyno Break in and performance</p>",
+          "text": "<p>We Dyno Break In and Tune every engine we build to ensure you get the optimal performance for your Jeep.</p>",
           "_tags": [
             "Theme"
           ],
