@@ -17484,13 +17484,16 @@ section.form .container {
   font-size: 36px;
 }
 #msg-box4-1s0 H3 {
-  font-size: 32px;
+  font-size: 36px;
 }
 #msg-box4-1s1 H3 {
-  font-size: 32px;
+  font-size: 36px;
 }
 #msg-box4-1s1 P {
   font-size: 20px;
+}
+#msg-box4-1sb H3 {
+  font-size: 36px;
 }
 #content1-1r7 P {
   font-size: 20px;
@@ -17639,6 +17642,9 @@ section.form .container {
 #msg-box4-1s4 P {
   font-size: 20px;
 }
+#msg-box4-1sc H3 {
+  font-size: 36px;
+}
 #content1-1rb P {
   font-size: 20px;
   text-align: left;
@@ -17780,6 +17786,10 @@ section.form .container {
   font-size: 36px;
 }
 #msg-box4-1s2 H3 {
+  font-size: 36px;
+}
+#msg-box4-1sa H3 {
+  text-align: left;
   font-size: 36px;
 }
 #content1-1ri P {
