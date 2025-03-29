@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "index.html",
+    "currentPage": "lsx-crate-engines.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1897,7 +1897,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "LSx CRATE ENGINES",
-          "text": "FACTORY REPLACEMENT, STREET / STRIP, COMPETITION, COMPETITION BOOSTED,<br>LONG BLOCKS &amp; COMPLETE ENGINES",
+          "text": "STREET / STRIP, COMPETITION, COMPETITION BOOSTED,<br>LONG BLOCKS &amp; COMPLETE ENGINES",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"lsx-crate-engines.html#extFeatures7-rq\" data-toolbar=\"-mbrBtnMove\">LSx Engines</a>   <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"lsx-crate-engines.html#header3-lj\" data-toolbar=\"-mbrBtnMove\">LSx TESTIMONIALS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"lsx-crate-engines.html#header3-lp\" data-toolbar=\"-mbrBtnMove\">LSx BUILD GALLERY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"lsx-crate-engines.html\" data-toolbar=\"-mbrBtnMove\">LSx TECHNICAL INSTRUCTIONS</a>",
           "_sourceTheme": "mobirise3"
         },
@@ -2506,7 +2506,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<p>We use all new <b>GM Blocks</b> as the base foundation and meticulously machine each engine to ensure both performance and longevity. We can custom build our short blocks to work with your heads and can recommend compression ratios and custom camshafts to meet your hp goals.<br></p><p><br></p><ul><li>All new parts from <b>GM, Callies and Mahle</b><br></li></ul><ul><li>Balanced and Blueprinted<br></li></ul><ul><li>Each Engine Custom Built to Order<br></li></ul>",
+          "text": "<p>We use <b>GM and Dart Blocks</b> as the base foundation and meticulously machine each engine to ensure both performance and longevity. We can custom build our short blocks to work with your heads and can recommend compression ratios and custom camshafts to meet your hp goals.<br></p><p><br></p><ul><li>All new parts from <b>GM, Callies and Mahle</b><br></li></ul><ul><li>Balanced and Blueprinted<br></li></ul><ul><li>Each Engine Custom Built to Order<br></li></ul>",
           "_sourceTheme": "mobirise3"
         },
         {
