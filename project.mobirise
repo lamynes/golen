@@ -1883,18 +1883,21 @@
             "showButtons": true,
             "showArrow": false,
             "contentAlign": "center",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/golenengine-21041039-676136762596162-3918037637503385600-n.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/LLeGNkFp-k4?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=LLeGNkFp-k4",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.2"
           },
           "title": "LSx CRATE ENGINES",
           "text": "STREET / STRIP, COMPETITION, COMPETITION BOOSTED,<br>LONG BLOCKS &amp; COMPLETE ENGINES",
@@ -15748,9 +15751,9 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.2"
           },
           "title": "LSx SHORT BLOCKS",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
