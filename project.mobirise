@@ -15744,7 +15744,7 @@
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/uQ12MdDSr3o?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/uQ12MdDSr3o",
+              "rawUrl": "https://www.youtube.com/embed/uQ12MdDSr3o?rel=0&&showinfo=0&autoplay=0&loop=1",
               "width": 1280,
               "height": 720
             },
