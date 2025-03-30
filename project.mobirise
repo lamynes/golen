@@ -15754,7 +15754,7 @@
           },
           "title": "LSx SHORT BLOCKS",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"lsx-short-blocks.html#msg-box4-1sf\" data-toolbar=\"-mbrBtnMove\">STREET / STRIP\n<br>LS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"lsx-short-blocks.html#msg-box4-s7\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION\n<br>SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"lsx-short-blocks.html#msg-box4-sb\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION\n<br>BOOSTED SHORT BLOCKS</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"lsx-short-blocks.html#msg-box4-s3\" data-toolbar=\"-mbrBtnMove\">STREET / STRIP\n<br>LS SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"lsx-short-blocks.html#msg-box4-s7\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION\n<br>SHORT BLOCKS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"lsx-short-blocks.html#msg-box4-sb\" data-toolbar=\"-mbrBtnMove\">LSx COMPETITION\n<br>BOOSTED SHORT BLOCKS</a> ",
           "_tags": [
             "Theme"
           ],
