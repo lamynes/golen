@@ -16028,7 +16028,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lyq-1-500x300.png",
+              "src": "@PROJECT_PATH@/assets/images/dart-short-block-600x378.png",
               "link": "",
               "alt": "Golen Engine LSx Competition Short Block",
               "title": "Golen Engine LSx Competition Short Block",
@@ -16184,7 +16184,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ly6sbf-1174x852.png",
+              "src": "@PROJECT_PATH@/assets/images/dart-short-block-600x378.png",
               "link": "",
               "alt": "LSx Competition Boosted Short Block",
               "title": "LSx Competition Boosted Short Block",
@@ -16294,7 +16294,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th></tr></thead><tbody><tr><td>408ci LY6 Boosted 850hp</td><td>$5,999</td><td>Build Now</td></tr><tr><td>408ci LY6 Boosted 1000hp</td><td>$6,399</td><td>Build Now</td></tr><tr><td>427ci Dart SHP Boosted Competition Short Block (1400hp)</td><td>$8,999</td><td>Build Now</td></tr><tr><td>427ci Dart SHP Boosted Competition Short Block (1800hp)</td><td>$8,999</td><td>Build Now</td></tr><tr><td>427ci Dart Alunimum Boosted Competition Short Block (1400hp)</td><td>$11,999</td><td>Build Now</td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th></tr></thead><tbody><tr><td>408ci LY6 Boosted 850hp</td><td>$5,999</td><td>Build Now</td></tr><tr><td>408ci LY6 Boosted 1000hp</td><td>$6,399</td><td>Build Now</td></tr><tr><td>427ci Dart SHP Boosted 1400hp</td><td>$8,999</td><td>Build Now</td></tr><tr><td>427ci Dart SHP Boosted 1800hp</td><td>$8,999</td><td>Build Now</td></tr><tr><td>427ci Dart Aluminum Boosted 1400hp</td><td>$11,999</td><td>Build Now</td></tr></tbody>",
           "_anchor": "extTable1-se",
           "_sourceTheme": "mobirise3"
         },
