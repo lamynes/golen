@@ -15785,7 +15785,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -15852,12 +15852,12 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -15870,11 +15870,12 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lsx-factory-replacement-sm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/ly6sbf-1174x852.png",
               "link": "",
               "alt": "Golen Engine Street / Strip Short Block",
               "title": "Golen Engine Street / Strip Short Block",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -15960,7 +15961,7 @@
             "showTitle": false,
             "showSearch": false,
             "rowСount": "1",
-            "colCount": "4",
+            "colCount": "3",
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -15982,7 +15983,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th><th>PURCHASE</th></tr></thead><tbody><tr><td>5.7L LS1 / LS6</td><td>$4,299</td><td><a href=\"5-point-7l-ls1-ls6-street-strip-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS</th></tr></thead><tbody><tr><td>6.0L LY6</td><td>$4,299</td><td>Build Now</td></tr></tbody>",
           "_anchor": "extTable1-s6",
           "_sourceTheme": "mobirise3"
         },
@@ -16009,12 +16010,12 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -16117,8 +16118,8 @@
           "_params": {
             "showTitle": false,
             "showSearch": false,
-            "rowСount": "8",
-            "colCount": "4",
+            "rowСount": "7",
+            "colCount": "3",
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -16140,7 +16141,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th><th>PURCHASE</th></tr></thead><tbody><tr><td>402ci LS2</td><td>$5,399</td><td><a href=\"402ci-ls2-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>408ci LY6 / LQ9</td><td>$4,999 / $4,699</td><td><a href=\"408ci-ly6-or-lq9-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>416ci LS3</td><td>$5,899</td><td><a href=\"416ci-ls3-cmpetition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>427ci LS7</td><td>$7,199</td><td><a href=\"427ci-ls7-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>440ci LS7</td><td>$7,299</td><td><a href=\"440ci-ls7-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>454ci LSx</td><td>$7,199</td><td><a href=\"454ci-lsx-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>454ci RHS</td><td>$9,299</td><td><a href=\"454ci-rhs-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>502ci RHS</td><td>$11,499</td><td><a href=\"502ci-rhs-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS</th></tr></thead><tbody><tr><td>416ci LY6</td><td>$5,899</td><td>Build Now</td></tr><tr><td>427ci Dart SHP</td><td>$8,499</td><td>Build Now</td></tr><tr><td>454ci Dart SHP</td><td>$8,999</td><td>Build Now</td></tr><tr><td>427ci Dart Aluminum</td><td>$11,499</td><td>Build Now</td></tr><tr><td>440ci Dart SHP</td><td>$8,999</td><td>Build Now</td></tr><tr><td>&nbsp;440ci Dart Aluminum</td><td>$11,999</td><td>Build Now</td></tr><tr><td>&nbsp;454ci Dart Aluminum</td><td>$11,999</td><td>Build Now</td></tr></tbody>",
           "_anchor": "extTable1-sa",
           "_sourceTheme": "mobirise3"
         },
@@ -16165,12 +16166,12 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "70",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/enginewf.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -16183,11 +16184,12 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/454ci-rhs-comp-short-block-sm.png",
+              "src": "@PROJECT_PATH@/assets/images/ly6sbf-1174x852.png",
               "link": "",
               "alt": "LSx Competition Boosted Short Block",
               "title": "LSx Competition Boosted Short Block",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -16270,7 +16272,7 @@
             "showTitle": false,
             "showSearch": false,
             "rowСount": "5",
-            "colCount": "4",
+            "colCount": "3",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -16292,7 +16294,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th><th>PURCHASE</th></tr></thead><tbody><tr><td>408ci LY6 / LQ9</td><td>$5,199 / $4,699</td><td><a href=\"408ci-lq9-boosted-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>416ci LS3</td><td>$6,199</td><td><a href=\"416ci-ls3-boosted-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>427ci LS7</td><td>$7,499</td><td><a href=\"427ci-ls7-boosted-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>427ci LSx</td><td>$8,499</td><td><a href=\"427ci-lsx-boosted-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr><tr><td>427ci RHS</td><td>$9,899</td><td><a href=\"427ci-rhs-boosted-competition-short-block.html\" class=\"text-warning\">View Specs</a></td><td><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\">Buy Now</a></td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>VIEW DETAILS</th></tr></thead><tbody><tr><td>408ci LY6 Boosted 850hp</td><td>$5,999</td><td>Build Now</td></tr><tr><td>408ci LY6 Boosted 1000hp</td><td>$6,399</td><td>Build Now</td></tr><tr><td>427ci Dart SHP Boosted Competition Short Block (1400hp)</td><td>$8,999</td><td>Build Now</td></tr><tr><td>427ci Dart SHP Boosted Competition Short Block (1800hp)</td><td>$8,999</td><td>Build Now</td></tr><tr><td>427ci Dart Alunimum Boosted Competition Short Block (1400hp)</td><td>$11,999</td><td>Build Now</td></tr></tbody>",
           "_anchor": "extTable1-se",
           "_sourceTheme": "mobirise3"
         },
