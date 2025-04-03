@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "lsx-short-blocks.html",
+    "currentPage": "4-6l-1991-1999-jeep-stroker-engine.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,18 +21,18 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#f2f2f2",
         "#181818",
         "#464646",
         "#232323",
         "#dacaf4",
         "#606060",
-        "#664a93",
-        "#52c7f9"
+        "#664a93"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2320,
+    "uniqCompNum": 2321,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -79291,11 +79291,50 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pricing on 1991-1999 Jeep Wrangler YJ/TJ and Cherokee XJ 4.6L Stroker Engines: $7,499",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://golenengineservice.com\" data-toolbar=\"-mbrBtnMove\">BUILD NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box1-1sg",
+          "_styles": {
+            "H3": {
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<div><font color=\"#000000\"><span style=\"font-size: 20px;\">Pricing on 1991-1999 Jeep Wrangler YJ/TJ and Cherokee XJ 4.6L Stroker Engines:<b>&nbsp;</b></span></font><b style=\"color: rgb(0, 0, 0); font-size: 20px;\">$7,499&nbsp;</b><a href=\"https://lamynes.github.io/aboutme/\" class=\"text-warning\" style=\"font-size: 20px; background-color: rgb(255, 255, 255);\">Buy Now</a></div><div><br></div><div><b>Optional Performance Enhancements:\n</b></div><div>To further optimize your Jeep's performance, consider the following upgrades:\n</div><ul><li><b>Performance Tubular Stainless Steel Header $480:</b> Enhances exhaust flow, contributing to increased horsepower and torque.</li><li><b>62mm Throttle Body $325:</b> Improves air intake efficiency, resulting in better throttle response and engine performance.</li><li><b>High-Flow Water Pump $150:</b> Ensures optimal cooling, maintaining engine temperatures within ideal ranges during demanding conditions.</li><li><b>Lucas High Zinc Oil&nbsp;$50 </b>(6-pack)</li></ul><div>\n</div><div>\n</div>",
+          "text": "<div><b>Optional Performance Enhancements:</b><br></div><div>To further optimize your Jeep's performance, consider the following upgrades:\n</div><ul><li><b>Performance Tubular Stainless Steel Header $480:</b> Enhances exhaust flow, contributing to increased horsepower and torque.</li><li><b>62mm Throttle Body $325:</b> Improves air intake efficiency, resulting in better throttle response and engine performance.</li><li><b>High-Flow Water Pump $150:</b> Ensures optimal cooling, maintaining engine temperatures within ideal ranges during demanding conditions.</li><li><b>Lucas High Zinc Oil&nbsp;$50 </b>(6-pack)</li></ul><div>\n</div><div>\n</div>",
           "_tags": [
             "Theme"
           ],

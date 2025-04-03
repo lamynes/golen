@@ -17456,6 +17456,12 @@ section.form .container {
 #msg-box4-1sb H3 {
   font-size: 36px;
 }
+#msg-box1-1sg H3 {
+  font-size: 25px;
+}
+#msg-box1-1sg .btn {
+  font-size: 20px;
+}
 #content1-1r7 P {
   font-size: 20px;
   text-align: left;
