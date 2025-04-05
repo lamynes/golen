@@ -17683,8 +17683,6 @@ section.form .container {
 
 
 
-
-
 #menu-1rl .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -17756,25 +17754,11 @@ section.form .container {
 #menu-1rl .btn {
   font-size: 15px;
 }
-#msg-box6-1mn h3,
-#msg-box6-1mn p {
-  color: #fff;
+#header1-1sh .mbr-section-title {
+  color: #fac51c;
 }
-#msg-box6-1mn H3 {
-  text-align: center;
-  color: #ffffff;
-}
-#msg-box6-1mn P {
-  text-align: center;
-  font-size: 17px;
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box6-1mn SPAN {
-  font-size: 48px;
-}
-#msg-box6-1mn DIV {
-  font-family: 'Oswald', sans-serif;
-  font-size: 60px;
+#content1-1si P {
+  font-size: 20px;
 }
 #extFeatures7-1mx H5 {
   color: #c97913;

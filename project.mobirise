@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2321,
+    "uniqCompNum": 2323,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -79953,86 +79953,58 @@
           "_sourceTheme": "mobirise3"
         },
         {
-          "_inherit": "msg-box5",
-          "_styles": {
-            "h3, p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "text-align": "center",
-              "color": "#ffffff"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "17px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
-            },
-            "SPAN": {
-              "font-size": "48px"
-            },
-            "DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
-              "font-size": "60px"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "47",
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/drift-race-engines-1920x984.png",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/t2NDrNn3uoY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=t2NDrNn3uoY&feature=youtu.be",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.2"
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/481988239-18365045752130977-5588486836248122553-n-removebg-preview-upscaled-1-638x652.png",
-              "link": "",
-              "alt": "Alec Hohnadell",
-              "title": "Alec Hohnadell",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "<div><span style=\"font-weight: 400;\"><i>Drift Race Engines</i></span></div>",
-          "text": "Team Name: Hohnadell Racing\n<br>Car Number: 118\n<br>Car Manufacturer: Nissan<br>Driver: Alec Hohnadell",
+          "title": "DRIFT RACE ENGINES",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-1mn",
-          "_customCSS": "text-shadow: 5px 5px 5px #000000;",
-          "_sourceTheme": "mobirise3"
+          "_name": "header1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header1-1sh",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fac51c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We specialize in building custom LS-based drift engines for all levels of competition, including naturally aspirated (NA) and boosted versions. These engines are designed to handle the unique challenges of competitive drifting, such as immediate throttle response, high horsepower, and efficient cooling and lubrication systems.</p><p><br></p><p>Golen Engine Service performs all machining and assembly in-house, ensuring complete control over the build process. We use high-quality American components and offer dyno testing to fine-tune performance. Our engines are tailored to suit individual driving styles and competition venues</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content1-1si",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
@@ -80061,7 +80033,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/drift-38-2-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-0816-upscaled-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -80073,7 +80045,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nate-3-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/e82-utah-600x546.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
