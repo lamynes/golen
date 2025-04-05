@@ -17771,6 +17771,14 @@ section.form .container {
   font-size: 30px;
   color: #000000;
 }
+#social-buttons4-1sj .mbr-section-title,
+#social-buttons4-1sj .btn-social {
+  color: #fff;
+}
+#social-buttons4-1sj .btn-social > * {
+  vertical-align: middle;
+  padding-right: 0;
+}
 #contacts1-1mk P {
   color: #000000;
   font-size: 18px;
