@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2326,
+    "uniqCompNum": 2327,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -79953,17 +79953,73 @@
           "_sourceTheme": "mobirise3"
         },
         {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/t2NDrNn3uoY?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=t2NDrNn3uoY",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "DRIFT RACE ENGINES",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header4-1sm"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Golen Engine Service, a trusted name in high-performance engine building, specializes in crafting powerful and reliable engines specifically tailored for competitive drifting. They focus on LS-based engines, known for their adaptability, durability, and ability to produce high horsepower. Drifting demands engines that deliver immediate throttle response, consistent power output, and efficient cooling and lubrication under extreme conditions—areas where Golen excels.</p><p><br></p><p><b>Key Features of Golen's Drift Engines:<br></b></p><ul><li>Customization: Each engine is tailored to meet the specific needs of the driver and competition. Whether you prefer naturally aspirated (NA) setups or boosted configurations (supercharged or turbocharged), Golen ensures your engine aligns with your driving style and the requirements of your car.</li></ul><p><br></p><ul><li>High-Quality Components: They use American-made components of the highest quality to guarantee reliability and performance. This includes forged pistons, high-performance camshafts, and heavy-duty bearings designed to withstand the rigors of drifting.</li></ul><p><br></p><ul><li>Precision Machining: All machining and assembly work is done in-house, allowing Golen to maintain complete control over the process. This ensures that every engine meets their exacting standards for quality and performance.</li></ul><p><br></p><ul><li>Dyno Testing: To fine-tune their engines and optimize performance, Golen provides dyno testing. This process not only maximizes horsepower and torque but also ensures the engine is ready for the intense demands of competitive drifting.</li></ul><p><br></p><ul><li>Cooling and Lubrication Systems: Drifting involves prolonged high-revving and lateral forces, which can strain conventional systems. Golen’s engines are equipped with advanced cooling and lubrication solutions to prevent overheating and maintain optimal performance.</li></ul><p><br></p><p>Experience and Expertise: With decades of experience in performance engine building, Golen is a trusted partner for drivers and teams in the drifting community. Their expertise ensures that each engine is not only powerful but also reliable and consistent.</p><p><br></p><p>In the world of competitive drifting, having an engine that balances power, reliability, and responsiveness is crucial. Golen Engine Service understands these demands and crafts engines that give drivers the edge they need to excel on the track.</p><p><br></p><p>Golen Engine Service offers a wide range of customization options for their engines, ensuring they meet the specific needs of drivers and vehicles. </p><p><br></p><p><b>Here are some of the key customization features:</b></p><p><br></p><ul><li>Cylinder Heads: Golen provides high-performance LS CNC cylinder heads, which are 5-axis CNC ported and available in 4- and 6-bolt versions. These heads are suitable for both naturally aspirated and boosted applications.</li></ul><p><br></p><ul><li>Custom Pistons and Camshafts: They offer custom-made pistons from brands like Wiseco and JE, as well as custom-ground street and race cams from Bullet Racing and Competition Cams.</li></ul><p><br></p><ul><li>Dyno Testing and Tuning: Golen conducts full dyno break-in and tuning services using their in-house Super Flow Engine Dynamometers. This ensures optimal performance and reliability, with capabilities for engines up to 1,500 horsepower.</li></ul><p><br></p><ul><li>Dry Sump Systems: For high-performance applications, they provide external dry sump oiling systems to enhance lubrication and engine longevity.</li></ul><p><br></p><ul><li>Precision Machining: Their state-of-the-art machine shop features equipment like the Sunnen SV-15 cylinder hone, ensuring straight and round cylinders for perfect ring seals.</li></ul><p><br></p><ul><li>Balanced and Blueprinted Engines: All engines are balanced and blueprinted in-house for smooth operation and maximum efficiency.</li></ul><p><br></p><ul><li>Performance Components: We use American-made components from trusted brands such as GM, Callies, Mahle, and Comp Cams.</li></ul><p><br></p><p>These customization options make Golen Engine Service a go-to choice for high-performance engine builds. Let me know if you'd like to explore any of these features further!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content1-1si",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            },
+            "UL": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "56",
-            "paddingTop": "2",
-            "paddingBottom": "0",
+            "imageSize": "45",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-0816-upscaled-960x640.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/67f2597e82ced4.79925768processed-1686x1534.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -79978,7 +80034,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/481988239-18365045752130977-5588486836248122553-n-removebg-preview-upscaled-638x652.png",
+              "src": "@PROJECT_PATH@/assets/images/486780415-18368634790130977-7518925318246252607-n-removebg-preview-447x559.png",
               "link": "",
               "alt": "DRIFT RACE ENGINES",
               "linkInNewWindow": false,
@@ -80014,28 +80070,6 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
               "font-size": "60px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Golen Engine Service, a trusted name in high-performance engine building, specializes in crafting powerful and reliable engines specifically tailored for competitive drifting. They focus on LS-based engines, known for their adaptability, durability, and ability to produce high horsepower. Drifting demands engines that deliver immediate throttle response, consistent power output, and efficient cooling and lubrication under extreme conditions—areas where Golen excels.</p><p><br></p><p><b>Key Features of Golen's Drift Engines:<br></b></p><ul><li>Customization: Each engine is tailored to meet the specific needs of the driver and competition. Whether you prefer naturally aspirated (NA) setups or boosted configurations (supercharged or turbocharged), Golen ensures your engine aligns with your driving style and the requirements of your car.</li></ul><p><br></p><ul><li>High-Quality Components: They use American-made components of the highest quality to guarantee reliability and performance. This includes forged pistons, high-performance camshafts, and heavy-duty bearings designed to withstand the rigors of drifting.</li></ul><p><br></p><ul><li>Precision Machining: All machining and assembly work is done in-house, allowing Golen to maintain complete control over the process. This ensures that every engine meets their exacting standards for quality and performance.</li></ul><p><br></p><ul><li>Dyno Testing: To fine-tune their engines and optimize performance, Golen provides dyno testing. This process not only maximizes horsepower and torque but also ensures the engine is ready for the intense demands of competitive drifting.</li></ul><p><br></p><ul><li>Cooling and Lubrication Systems: Drifting involves prolonged high-revving and lateral forces, which can strain conventional systems. Golen’s engines are equipped with advanced cooling and lubrication solutions to prevent overheating and maintain optimal performance.</li></ul><p><br></p><p>Experience and Expertise: With decades of experience in performance engine building, Golen is a trusted partner for drivers and teams in the drifting community. Their expertise ensures that each engine is not only powerful but also reliable and consistent.</p><p><br></p><p>In the world of competitive drifting, having an engine that balances power, reliability, and responsiveness is crucial. Golen Engine Service understands these demands and crafts engines that give drivers the edge they need to excel on the track.</p><p><br></p><p>Golen Engine Service offers a wide range of customization options for their engines, ensuring they meet the specific needs of drivers and vehicles. </p><p><br></p><p><b>Here are some of the key customization features:</b></p><p><br></p><ul><li>Cylinder Heads: Golen provides high-performance LS CNC cylinder heads, which are 5-axis CNC ported and available in 4- and 6-bolt versions. These heads are suitable for both naturally aspirated and boosted applications.</li></ul><p><br></p><ul><li>Custom Pistons and Camshafts: They offer custom-made pistons from brands like Wiseco and JE, as well as custom-ground street and race cams from Bullet Racing and Competition Cams.</li></ul><p><br></p><ul><li>Dyno Testing and Tuning: Golen conducts full dyno break-in and tuning services using their in-house Super Flow Engine Dynamometers. This ensures optimal performance and reliability, with capabilities for engines up to 1,500 horsepower.</li></ul><p><br></p><ul><li>Dry Sump Systems: For high-performance applications, they provide external dry sump oiling systems to enhance lubrication and engine longevity.</li></ul><p><br></p><ul><li>Precision Machining: Their state-of-the-art machine shop features equipment like the Sunnen SV-15 cylinder hone, ensuring straight and round cylinders for perfect ring seals.</li></ul><p><br></p><ul><li>Balanced and Blueprinted Engines: All engines are balanced and blueprinted in-house for smooth operation and maximum efficiency.</li></ul><p><br></p><ul><li>Performance Components: They use American-made components from trusted brands such as GM, Callies, Mahle, and Comp Cams.</li></ul><p><br></p><p>These customization options make Golen Engine Service a go-to choice for high-performance engine builds. Let me know if you'd like to explore any of these features further!</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "content1-1si",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            },
-            "UL": {
-              "font-size": "20px"
             }
           }
         },

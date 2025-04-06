@@ -17755,6 +17755,12 @@ section.form .container {
 #menu-1rl .btn {
   font-size: 15px;
 }
+#content1-1si P {
+  font-size: 20px;
+}
+#content1-1si UL {
+  font-size: 20px;
+}
 #msg-box4-1sl P {
   font-size: 20px;
 }
@@ -17762,12 +17768,6 @@ section.form .container {
   color: #000000;
   font-family: 'Oswald', sans-serif;
   font-size: 60px;
-}
-#content1-1si P {
-  font-size: 20px;
-}
-#content1-1si UL {
-  font-size: 20px;
 }
 #contacts1-1mk P {
   color: #000000;
