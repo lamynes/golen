@@ -79958,7 +79958,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "53",
             "paddingTop": "3",
             "paddingBottom": "3",
