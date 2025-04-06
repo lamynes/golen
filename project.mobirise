@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2327,
+    "uniqCompNum": 2329,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -79953,38 +79953,141 @@
           "_sourceTheme": "mobirise3"
         },
         {
-          "_inherit": "header1",
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "inverse": true,
+            "imageSize": "53",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/67f2597e82ced4.79925768processed-1686x1534.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/t2NDrNn3uoY?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=t2NDrNn3uoY",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2"
           },
-          "title": "DRIFT RACE ENGINES",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/481988239-18365045752130977-5588486836248122553-n-removebg-preview-upscaled-1-638x652.png",
+              "link": "",
+              "alt": "DRIFT RACE ENGINES",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Formula Drift Engines",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
           "_sourceTheme": "mobirise3",
-          "_anchor": "header4-1sm"
+          "_anchor": "msg-box4-1sl",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            },
+            "H3": {
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
+              "font-size": "60px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "The Golen Engine Approach to Building Your Drift Car Engine",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-1sn"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "62",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=dWGFCZnbW9U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "About Our Formula Drift Engines",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box4-1so"
         },
         {
           "_params": {
@@ -80005,71 +80108,6 @@
             },
             "UL": {
               "font-size": "20px"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "45",
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/67f2597e82ced4.79925768processed-1686x1534.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.2"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/486780415-18368634790130977-7518925318246252607-n-removebg-preview-447x559.png",
-              "link": "",
-              "alt": "DRIFT RACE ENGINES",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "DRIFT RACE ENGINES",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box4",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box4-1sl",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            },
-            "H3": {
-              "color": "#000000",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700",
-              "font-size": "60px"
             }
           }
         },
