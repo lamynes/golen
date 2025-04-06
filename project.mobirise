@@ -79973,7 +79973,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
