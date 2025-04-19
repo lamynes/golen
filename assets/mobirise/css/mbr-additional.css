@@ -17929,108 +17929,6 @@ section.form .container {
 
 
 
-#menu-1tg .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-1tg .navbar-caption {
-  color: #ffffff;
-  font-family: 'Oswald', sans-serif;
-  font-size: 18px;
-}
-#menu-1tg .navbar-toggler {
-  color: #ffffff;
-}
-#menu-1tg .close-icon::before,
-#menu-1tg .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-1tg .link,
-#menu-1tg .dropdown-item {
-  color: #ffffff;
-  font-family: 'Oswald', sans-serif;
-}
-#menu-1tg .link {
-  font-size: 0.8rem;
-}
-#menu-1tg .dropdown-item,
-#menu-1tg .nav-dropdown-sm .link {
-  font-size: 0.866rem;
-}
-#menu-1tg .link:hover,
-#menu-1tg .dropdown-item:hover,
-#menu-1tg .link:focus,
-#menu-1tg .dropdown-item:focus {
-  color: #fac51c;
-}
-#menu-1tg .link[aria-expanded="true"],
-#menu-1tg .dropdown-menu {
-  background: #000000;
-}
-#menu-1tg .nav-dropdown-sm .link:focus,
-#menu-1tg .nav-dropdown-sm .link:hover,
-#menu-1tg .nav-dropdown-sm .dropdown-item:focus,
-#menu-1tg .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#menu-1tg .navbar,
-#menu-1tg .nav-dropdown-sm,
-#menu-1tg .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-1tg .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#menu-1tg .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-1tg .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-1tg .bg-color.transparent.opened .link:hover,
-#menu-1tg .bg-color.transparent.opened .link:focus {
-  color: #fac51c;
-}
-#menu-1tg .link[aria-expanded="true"],
-#menu-1tg .dropdown-item[aria-expanded="true"] {
-  color: #fac51c!important;
-}
-#menu-1tg A {
-  font-size: 17px;
-  font-family: 'Oswald', sans-serif;
-}
-#menu-1tg .btn {
-  font-size: 15px;
-}
-#header1-1sz .mbr-section-title {
-  color: #fac51c;
-  font-size: 80px;
-}
-#header1-1sz .mbr-section-title SPAN {
-  color: #fac51c;
-}
-#header1-1sz .mbr-section-lead {
-  font-size: 30px;
-}
-#header1-1sz .btn {
-  font-size: 15px;
-}
-#header3-1tc .mbr-section-title,
-#header3-1tc .mbr-section-subtitle {
-  text-align: center;
-}
-#content1-1td P {
-  font-size: 20px;
-}
-#contacts1-1te P {
-  color: #000000;
-  font-size: 18px;
-}
-#contacts1-1te STRONG {
-  font-size: 20px;
-  color: #000000;
-}
-
-
-
 
 
 
@@ -18348,6 +18246,108 @@ section.form .container {
   font-size: 18px;
 }
 #contacts1-1tn STRONG {
+  font-size: 20px;
+  color: #000000;
+}
+
+
+
+#menu-1tg .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1tg .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-1tg .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1tg .close-icon::before,
+#menu-1tg .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1tg .link,
+#menu-1tg .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1tg .link {
+  font-size: 0.8rem;
+}
+#menu-1tg .dropdown-item,
+#menu-1tg .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1tg .link:hover,
+#menu-1tg .dropdown-item:hover,
+#menu-1tg .link:focus,
+#menu-1tg .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-1tg .link[aria-expanded="true"],
+#menu-1tg .dropdown-menu {
+  background: #000000;
+}
+#menu-1tg .nav-dropdown-sm .link:focus,
+#menu-1tg .nav-dropdown-sm .link:hover,
+#menu-1tg .nav-dropdown-sm .dropdown-item:focus,
+#menu-1tg .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1tg .navbar,
+#menu-1tg .nav-dropdown-sm,
+#menu-1tg .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1tg .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1tg .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1tg .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1tg .bg-color.transparent.opened .link:hover,
+#menu-1tg .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-1tg .link[aria-expanded="true"],
+#menu-1tg .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-1tg A {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1tg .btn {
+  font-size: 15px;
+}
+#header1-1sz .mbr-section-title {
+  color: #fac51c;
+  font-size: 80px;
+}
+#header1-1sz .mbr-section-title SPAN {
+  color: #fac51c;
+}
+#header1-1sz .mbr-section-lead {
+  font-size: 30px;
+}
+#header1-1sz .btn {
+  font-size: 15px;
+}
+#header3-1tc .mbr-section-title,
+#header3-1tc .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-1td P {
+  font-size: 20px;
+}
+#contacts1-1te P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-1te STRONG {
   font-size: 20px;
   color: #000000;
 }
