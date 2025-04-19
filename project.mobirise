@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "index.html",
+    "currentPage": "ltx-engines-chevy-gm-trucks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -80329,7 +80329,7 @@
             "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/91iwzscdnwl-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fe559e2bbe795ab71b46274ea4f77a3bdb8c9bfc-2048x1365.webp",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -80339,7 +80339,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.2"
           },
           "media": {
             "image": {
@@ -81660,7 +81660,7 @@
             "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/silverado-racetruck-1-1920x1081.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/chevrolet-silverado-trail-boss-action-dps-www-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#efefef",
