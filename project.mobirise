@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "index.html",
+    "currentPage": "ltx-engines-hotrods-track-cars.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -80788,7 +80788,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
