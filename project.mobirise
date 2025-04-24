@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2376,
+    "uniqCompNum": 2378,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -80485,7 +80485,7 @@
           "_params": {
             "showTitle": false,
             "showSearch": false,
-            "rowСount": "6",
+            "rowСount": "9",
             "colCount": "3",
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -80508,7 +80508,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS&nbsp;</th></tr></thead><tbody><tr><td>LY6 408ci 700hp</td><td>$12,799</td><td>Build Now</td></tr><tr><td>LY6 416ci 550-650hp&nbsp;</td><td>$12,649</td><td>Build Now</td></tr><tr><td>Dart 427ci 650hp WS</td><td>$13,799</td><td>Build Now</td></tr><tr><td>Dart 454ci 700hp</td><td>$16,899</td><td>Build Now</td></tr><tr><td>LY6 408ci 850hp</td><td>$17,499</td><td>Build Now</td></tr><tr><td>Dart 427ci 1000hp+ <b>BOOSTED</b></td><td>$16,999</td><td>Build Now</td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS&nbsp;</th></tr></thead><tbody><tr><td>376ci LT1-LT4 NA Short Block</td><td>$6,999</td><td>Build Now</td></tr><tr><td>376ci LT1-LT4 Boosted Short Block</td><td>$7,199</td><td>Build Now</td></tr><tr><td>416ci LT1-LT4 NA Short Block</td><td>$7,799</td><td>Build Now</td></tr><tr><td>416ci LT1-LT4 Boosted Short Block</td><td>$7,999</td><td>Build Now</td></tr><tr><td>5.3L L83 LT1-LT4 Turbo Short Block</td><td>$7,199</td><td>Build Now</td></tr><tr><td>427ci L8T LT1-LT4 Boosted Short Block</td><td>$7,999</td><td>Build Now</td></tr><tr><td>376ci 550hp LT1-LT4 Long Block</td><td>CALL</td><td>Build Now</td></tr><tr><td>416ci 600-650hp LT1-LT4 Long Block</td><td>CALL</td><td>Build Now</td></tr><tr><td>416ci 850-1200hp Boosted LT1-LT4 Long Block</td><td>CALL</td><td>Build Now</td></tr></tbody>",
           "_sourceTheme": "mobirise3",
           "_anchor": "extTable1-1st"
         },
@@ -80910,9 +80910,9 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showSearch": false,
-            "rowСount": "6",
+            "rowСount": "9",
             "colCount": "3",
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -80929,13 +80929,13 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.4
           },
-          "title": "LT Swap/Hotrod Series LT-Based Engines",
+          "title": "Camaro 1998-2002 &amp; 2010-2014 / Corvette 1997-2013 LS Based Engines",
           "search": "Search:",
           "info1": "Showing",
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS</th></tr></thead><tbody><tr><td>LY6 370ci 450-530hp</td><td>$12,799</td><td>Build Now</td></tr><tr><td>LY6 408ci 550-640hp&nbsp;</td><td>$12,649</td><td>Build Now</td></tr><tr><td>Dart 427ci 650hp</td><td>$13,799</td><td>Build Now</td></tr><tr><td>Dart 454ci 700hp</td><td>$16,899</td><td>Build Now</td></tr><tr><td>LY6 408ci 850hp <b>BOOSTED</b></td><td>$17,499</td><td>Build Now</td></tr><tr><td>Dart 427ci 1000hp+ <b>BOOSTED</b></td><td>$16,999</td><td>Build Now</td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS&nbsp;</th></tr></thead><tbody><tr><td>376ci LT1-LT4 NA Short Block</td><td>$6,999</td><td>Build Now</td></tr><tr><td>376ci LT1-LT4 Boosted Short Block</td><td>$7,199</td><td>Build Now</td></tr><tr><td>416ci LT1-LT4 NA Short Block</td><td>$7,799</td><td>Build Now</td></tr><tr><td>416ci LT1-LT4 Boosted Short Block</td><td>$7,999</td><td>Build Now</td></tr><tr><td>5.3L L83 LT1-LT4 Turbo Short Block</td><td>$7,199</td><td>Build Now</td></tr><tr><td>427ci L8T LT1-LT4 Boosted Short Block</td><td>$7,999</td><td>Build Now</td></tr><tr><td>376ci 550hp LT1-LT4 Long Block</td><td>CALL</td><td>Build Now</td></tr><tr><td>416ci 600-650hp LT1-LT4 Long Block</td><td>CALL</td><td>Build Now</td></tr><tr><td>416ci 850-1200hp Boosted LT1-LT4 Long Block</td><td>CALL</td><td>Build Now</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -80954,8 +80954,8 @@
               "color": "#000000"
             }
           },
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extTable1-1tt"
+          "_anchor": "extTable1-1u1",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -81359,7 +81359,7 @@
           "_params": {
             "showTitle": false,
             "showSearch": false,
-            "rowСount": "3",
+            "rowСount": "9",
             "colCount": "3",
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -81376,13 +81376,13 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.4
           },
-          "title": "GM Trucks (1999–2014) LS-Based Engines",
+          "title": "Camaro 1998-2002 &amp; 2010-2014 / Corvette 1997-2013 LS Based Engines",
           "search": "Search:",
           "info1": "Showing",
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS</th></tr></thead><tbody><tr><td>LY6 370ci 450-530hp</td><td>$12,799</td><td>Build Now</td></tr><tr><td>LY6 416ci 550-600hp</td><td>$12,649</td><td>Build Now</td></tr><tr><td>LY6 408ci <b>BOOSTED</b></td><td>$13,799</td><td>Build Now</td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS&nbsp;</th></tr></thead><tbody><tr><td>376ci LT1-LT4 NA Short Block</td><td>$6,999</td><td>Build Now</td></tr><tr><td>376ci LT1-LT4 Boosted Short Block</td><td>$7,199</td><td>Build Now</td></tr><tr><td>416ci LT1-LT4 NA Short Block</td><td>$7,799</td><td>Build Now</td></tr><tr><td>416ci LT1-LT4 Boosted Short Block</td><td>$7,999</td><td>Build Now</td></tr><tr><td>5.3L L83 LT1-LT4 Turbo Short Block</td><td>$7,199</td><td>Build Now</td></tr><tr><td>427ci L8T LT1-LT4 Boosted Short Block</td><td>$7,999</td><td>Build Now</td></tr><tr><td>376ci 550hp LT1-LT4 Long Block</td><td>CALL</td><td>Build Now</td></tr><tr><td>416ci 600-650hp LT1-LT4 Long Block</td><td>CALL</td><td>Build Now</td></tr><tr><td>416ci 850-1200hp Boosted LT1-LT4 Long Block</td><td>CALL</td><td>Build Now</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -81401,8 +81401,8 @@
               "color": "#000000"
             }
           },
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extTable1-1tk"
+          "_anchor": "extTable1-1u0",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
@@ -81410,7 +81410,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>What's Included with Your GM Truck LS Crate Engine\n</b></p><p>GM's LTx block is an engineering masterpiece. Strong yet lightweight, it's the perfect base for building engines for the street, strip and track.\n</p><p><b><br></b></p><p>We build to order, so if you need something special, call and ask. As a guide, though, we can sell you an LS1, LS2, an LQ9 or LS3 — or, two variants each of the LS7, LTx, and the Dart SHP Block. We use the Dart SHP to replace the RHS block because the SHP is of much higher quality and will stand up better to the horsepower you can push through the LSx crate engines.\n</p><p><br></p><p><b>A complete engine from us consists of the following:\n</b></p><ul><li><b>LTx Long block - </b>Golen’s LTx truck engines are assembled from top-quality American components and include our custom machined heads.\n</li><li><b>Intake system - </b>Our crate motors include the full intake itself plus throttle body, injectors, and a fuel rail for a true turnkey LS swap.\n</li><li><b>Ignition system - </b>Optional LTx crate engine add-ons: ignition coil, plugs, and wires.\n</li></ul><p><b><br></b></p><p>In addition, every complete LTx crate engine leaves our shop with a one-year, no-mileage limit warranty.\n</p><p><b><br></b></p><p>The LS engines for sale here are engineered to be boost-ready. If you plan on adding a centrifugal or Roots-style supercharger, they'll take the load. We can also custom-build your LTx crate motor for turbo applications.\n</p><p><b><br></b></p><p>With an in-house machine shop, plus balancing facilities and two dynamometers, we're fully equipped to build engines that are powerful and reliable. What's more, blueprinting is always part of the service.\n</p><p><b><br></b></p><p><b>Experience the Power of an LTx Crate Engine\n</b></p><p>Anyone seeking a complete LT engine for sale almost certainly wants more power. Our turnkey Chevy crate engines will not disappoint. From the 550hp of an LS2 to the 800hp made by a 502ci RHS, these engines deliver outputs to match the beautiful sound they make. (Needless to say, when blown, you'll get much, much more).\n</p><p><b><br></b></p><p>Should anyone doubt your horsepower claims, we've got you covered. The engines we build go through our dyno test service before shipping. That gives you graphs listing horsepower and torque as well as other engine vitals.\n</p><p><b><br></b></p><p><b>Golen Engine Service Advantages\n</b></p><p>We believe our engineering expertise and in-depth knowledge of the LTx engine make for an unrivaled combination. We do our own machining and balancing, and every engine goes through a two-oil change break-in. This is to make sure your LTx crate engine is ready to hit the track running when you receive it.\n</p><p><b><br></b></p><p>When you talk to Golen Engine, you deal directly with our engine specialists. There are no salespeople to get in the way. Plus, when you need something special in or for your LTx engine, just ask.\n</p><p><b><br></b></p><p><b>The Best LT Engines for Sale</b></p><p>It's a bold claim, so we invite you to put us to the test. Read the spec sheets and learn about our skills and what we do. Then, when you're ready for a new engine, call or email and we'll talk.</p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p>",
+          "text": "<p><b>What's Included with Your GM Truck LT Crate Engine\n</b></p><p>GM's LTx block is an engineering masterpiece. Strong yet lightweight, it's the perfect base for building engines for the street, strip and track.\n</p><p><b><br></b></p><p>We build to order, so if you need something special, call and ask. As a guide, though, we can sell you an LS1, LS2, an LQ9 or LS3 — or, two variants each of the LS7, LTx, and the Dart SHP Block. We use the Dart SHP to replace the RHS block because the SHP is of much higher quality and will stand up better to the horsepower you can push through the LSx crate engines.\n</p><p><br></p><p><b>A complete engine from us consists of the following:\n</b></p><ul><li><b>LTx Long block - </b>Golen’s LTx truck engines are assembled from top-quality American components and include our custom machined heads.\n</li><li><b>Intake system - </b>Our crate motors include the full intake itself plus throttle body, injectors, and a fuel rail for a true turnkey LS swap.\n</li><li><b>Ignition system - </b>Optional LTx crate engine add-ons: ignition coil, plugs, and wires.\n</li></ul><p><b><br></b></p><p>In addition, every complete LTx crate engine leaves our shop with a one-year, no-mileage limit warranty.\n</p><p><b><br></b></p><p>The LS engines for sale here are engineered to be boost-ready. If you plan on adding a centrifugal or Roots-style supercharger, they'll take the load. We can also custom-build your LTx crate motor for turbo applications.\n</p><p><b><br></b></p><p>With an in-house machine shop, plus balancing facilities and two dynamometers, we're fully equipped to build engines that are powerful and reliable. What's more, blueprinting is always part of the service.\n</p><p><b><br></b></p><p><b>Experience the Power of an LTx Crate Engine\n</b></p><p>Anyone seeking a complete LT engine for sale almost certainly wants more power. Our turnkey Chevy crate engines will not disappoint. From the 550hp of an LS2 to the 800hp made by a 502ci RHS, these engines deliver outputs to match the beautiful sound they make. (Needless to say, when blown, you'll get much, much more).\n</p><p><b><br></b></p><p>Should anyone doubt your horsepower claims, we've got you covered. The engines we build go through our dyno test service before shipping. That gives you graphs listing horsepower and torque as well as other engine vitals.\n</p><p><b><br></b></p><p><b>Golen Engine Service Advantages\n</b></p><p>We believe our engineering expertise and in-depth knowledge of the LTx engine make for an unrivaled combination. We do our own machining and balancing, and every engine goes through a two-oil change break-in. This is to make sure your LTx crate engine is ready to hit the track running when you receive it.\n</p><p><b><br></b></p><p>When you talk to Golen Engine, you deal directly with our engine specialists. There are no salespeople to get in the way. Plus, when you need something special in or for your LTx engine, just ask.\n</p><p><b><br></b></p><p><b>The Best LT Engines for Sale</b></p><p>It's a bold claim, so we invite you to put us to the test. Read the spec sheets and learn about our skills and what we do. Then, when you're ready for a new engine, call or email and we'll talk.</p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p>",
           "_tags": [
             "Theme"
           ],
