@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "ltx-engines-chevy-gm-trucks.html",
+    "currentPage": "cnc_cylinder_heads.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2407,
+    "uniqCompNum": 2419,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -75716,8 +75716,8 @@
     },
     "cnc_cylinder_heads.html": {
       "settings": {
-        "meta_descr": "5 Axis CNC ported, 4 and 6-bolt versions available, Thick .750” Decks (great for boost)",
-        "title": "LS CNC Cylinder Heads",
+        "meta_descr": "Maximize LS engine performance with CNC-ported cylinder heads from Golen. Precision-machined, flow-tested LS1, LS2, LS3, LS6 & LS7 heads for street or race.",
+        "title": "LS CNC Cylinder Heads | Ported LS1 LS3 LS7 Heads | Golen Engine",
         "order": "2"
       },
       "components": [
@@ -75828,7 +75828,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
@@ -75845,7 +75845,7 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.3"
           },
-          "title": "Golen LS Cylinder Heads",
+          "title": "Premium CNC-Ported LS Cylinder Heads for Maximum Performance",
           "text": "<b>Choose LS1 or LS3 Heads - CNC Machined or As Cast\n<br> (4 and 6 bolt versions available)</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -75868,17 +75868,17 @@
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "60",
-            "paddingTop": "2",
-            "paddingBottom": "0",
+            "imageSize": "41",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -75908,8 +75908,8 @@
               "size": 250
             }
           },
-          "title": "Golen LS CNC Cylinder Heads",
-          "text": "<p>The Golen LS CNC Cylinder Heads are a high-performance cylinder head option for LS engines. These cylinder heads are 5-axis CNC ported and come in 4 and 6-bolt versions. They feature thick .750\" decks, which are great for boosting.\n<br>\n<br>The machine work on these cylinder heads is impressive. They are fully 5-axis CNC ported and hand blended. They also have a 3-angle competition valve job and the decks are milled to the customer’s desired size for compression. The cylinder heads are final washed and assembled to match the customer’s camshaft.\n<br>\n<br>The included components of the Golen LS CNC Cylinder Heads are Manley stainless steel 2.165\" intake valves and 1.600\" exhaust valves. They also come with PAC Racing valve springs with steel retainers (titanium retainer options available) and billet rocker arm pedestals.\n<br>\n<br>These cylinder heads are a great option for those looking to upgrade their LS engine and improve its performance.<br></p>",
+          "title": "Choose LS1 or LS3 Heads - CNC Machined or As Cast\r<div>(4 and 6 bolt versions available)</div>",
+          "text": "",
           "_tags": [
             "Theme"
           ],
@@ -75928,155 +75928,6 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#000000"
-          },
-          "title": "HEAD CHOICES",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "header3-1nm"
-        },
-        {
-          "_params": {
-            "showBgTitle": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0
-          },
-          "title1": "Ls1 CNC",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Full 5 Axis CNC ported and hand blended\n<br>3 Angle Competition Valve Job\n<br>Decks milled to customers desired size for compression\n<br>Final Washed\n<br>Final Assemble and installed heights set to match customers camshaft",
-          "title2": "Ls1 as Cast",
-          "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Decks milled to customers desired size for compression<br>Final Assemble and installed heights set to match customers camshaft",
-          "title3": "Ls3 CNC",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Full 5 Axis CNC ported and hand blended\n<br>3 Angle Competition Valve Job\n<br>Decks milled to customers desired size for compression\n<br>Final Washed\n<br>Final Assemble and installed heights set to match customers camshaft",
-          "title4": "Ls3 As Cast",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Decks milled to customers desired size for compression\n<br>Final Assemble and installed heights set to match customers camshaft",
-          "button1": "<a data-app-btn=\"true\" href=\"cnc_cylinder_heads.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Build Now</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"cnc_cylinder_heads.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Build Now</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"cnc_cylinder_heads.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Build Now</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"cnc_cylinder_heads.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Build Now</a>",
-          "background1": "1",
-          "background2": "2",
-          "background3": "3",
-          "background4": "4",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures14",
-          "_sourceTheme": "mobirise3",
-          "_anchor": "extFeatures14-1nl",
-          "_styles": {
-            "H4": {
-              "font-size": "48px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
-            },
-            "P": {
-              "font-size": "24px"
-            },
-            ".btn": {
-              "font-size": "20px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "70",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=b4ZIzL8PhY0",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Golen LS3 CNC Cylinder Heads Machining Process",
-          "text": "5 Axis CNC ported\n<br>4 and 6-bolt versions available\n<br>Thick .750” Decks (great for boost)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CALL NOW</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-1n9",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff",
-              "text-align": "left"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "30px",
-              "text-align": "center"
-            }
-          },
-          "_sourceTheme": "mobirise3"
-        },
-        {
           "_params": {
             "showTitle": false,
             "showSubtitle": false,
@@ -76087,7 +75938,7 @@
             "showIcons": false,
             "paddingTop": "1",
             "paddingBottom": 2,
-            "columns": 3,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -76461,6 +76312,174 @@
               "font-size": "60px"
             },
             "UL": {
+              "text-align": "center"
+            }
+          },
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#000000"
+          },
+          "title": "HEAD CHOICES",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-1nm"
+        },
+        {
+          "_params": {
+            "showBgTitle": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0
+          },
+          "title1": "Ls1 CNC",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Full 5 Axis CNC ported and hand blended\n<br>3 Angle Competition Valve Job\n<br>Decks milled to customers desired size for compression\n<br>Final Washed\n<br>Final Assemble and installed heights set to match customers camshaft",
+          "title2": "Ls1 as Cast",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Decks milled to customers desired size for compression<br>Final Assemble and installed heights set to match customers camshaft",
+          "title3": "Ls3 CNC",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Full 5 Axis CNC ported and hand blended\n<br>3 Angle Competition Valve Job\n<br>Decks milled to customers desired size for compression\n<br>Final Washed\n<br>Final Assemble and installed heights set to match customers camshaft",
+          "title4": "Ls3 As Cast",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Decks milled to customers desired size for compression\n<br>Final Assemble and installed heights set to match customers camshaft",
+          "button1": "<a data-app-btn=\"true\" href=\"cnc_cylinder_heads.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Build Now</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"cnc_cylinder_heads.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Build Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"cnc_cylinder_heads.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Build Now</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"cnc_cylinder_heads.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Build Now</a>",
+          "background1": "1",
+          "background2": "2",
+          "background3": "3",
+          "background4": "4",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures14",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "extFeatures14-1nl",
+          "_styles": {
+            "H4": {
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
+            },
+            "P": {
+              "font-size": "24px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Upgrade your LS engine with Golen Engine’s CNC-ported LS cylinder heads, engineered for maximum performance in both naturally aspirated and boosted builds. Available in 4-bolt and 6-bolt configurations, these heads are ideal for LS1 and LS3 platforms and are precision-crafted to deliver outstanding airflow and power gains.\n</p><p><br></p><p><b>Precision Milled LS Cylinder Heads</b></p><p>\n</p><p>Every Golen LS head undergoes 5-axis CNC porting for unmatched accuracy and flow consistency. After porting, each head is hand-blended for smooth transitions, receives a 3-angle competition valve job, and is milled to your desired deck height for optimal compression. Final assembly is tailored to match your camshaft profile, ensuring top-end reliability and efficiency.\n</p><p><br></p><p><b>Key Components Include:\n</b></p><ul><li>LS3 Cylinder Heads: REV stainless steel 2.165\" intake / 1.600\" exhaust valves\n</li><li>LS1 Cylinder Heads: REV stainless steel 2.020\" intake / 1.600\" exhaust valves\n</li><li>Valvetrain: PAC Racing springs with titanium retainers\n</li><li>Billet Rocker Arm Pedestals for added durability under extreme RPMs\n</li></ul><p><br></p><p>These LS CNC cylinder heads are flow-tested, cleaned, and fully assembled in-house to the highest standards. Whether you're chasing track times or street dominance, Golen delivers proven performance backed by decades of LS engine expertise.\n</p><p><br></p><p><b>The Golen Engine Difference\n</b></p><p>At Golen Engine Service, our CNC-ported LS cylinder heads are designed to unleash the full potential of your LS engine build. Whether you're racing, cruising, or restoring, our performance-focused heads improve airflow, combustion efficiency, and overall horsepower output—making them an essential upgrade for any serious LS project.\n</p><p><br></p><p>We use state-of-the-art CNC equipment to precisely machine each cylinder head for optimal consistency and power gains. Every port, chamber, and valve seat is designed in-house by our experienced team with over 25 years of LS engine building expertise. That means you get race-proven engineering backed by real-world results—not guesswork.\n</p><p><br></p><p>Our CNC LS heads are available for a wide range of applications, including LS1, LS2, LS3, LS6, and LS7 platforms. Whether you’re looking for street performance heads or track-ready flow numbers, we have solutions tailored to your goals. Plus, we use only high-quality American-made castings and components to ensure long-term reliability under high-stress conditions.\n</p><p><br></p><p><b>Quality LS Engine Parts Guaranteed\n</b></p><p>All cylinder heads are flow-tested, cleaned, and inspected before shipment, and we’re happy to assist you with camshaft pairing, compression planning, or full engine build coordination. Trust Golen Engine Service to provide the performance and precision your LS build deserves.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "content1-1v6",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "70",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=b4ZIzL8PhY0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Golen LS3 CNC Cylinder Heads Machining Process",
+          "text": "5 Axis CNC ported\n<br>4 and 6-bolt versions available\n<br>Thick .750” Decks (great for boost)",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CALL NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1n9",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "30px",
               "text-align": "center"
             }
           },
@@ -80184,8 +80203,8 @@
     },
     "ltx-crate-engines-corvette-camaro.html": {
       "settings": {
-        "title": "LTx Crate Engine for C5, C6 Corvettes and 4th and 5th Gen Camaro",
-        "meta_descr": "Our LTx crate engines are fully machined in the US and engineered to ensure both performance and longevity. Improve the horsepower and efficiency of a C5 and C6 Corvette or 5th and 6th gen Camaro.",
+        "title": "LTx Crate Engines for Sale | Corvette & Camaro LT1/LT4 Builds | Golen Engine",
+        "meta_descr": "Explore LTx crate engines for Corvette and Camaro with up to 1,200 HP. Custom-built LT1/LT4 long blocks, boost-ready, dyno-tested, and warrantied. Call Golen Engine today.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -80306,7 +80325,7 @@
             "H3": {
               "text-align": "center",
               "font-size": "48px",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "SPAN": {
               "font-size": "48px"
@@ -80338,8 +80357,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
@@ -80363,7 +80382,7 @@
               "size": 250
             }
           },
-          "title": "LTx Crate Engine for C7 Corvettes and 6th Gen Camaro",
+          "title": "Turnkey LTx Crate Engines for Corvette &amp; Camaro",
           "text": "<p><b>These LSx Engines are Turnkey Upgrades to OEM</b><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">Camaro 1998-2002 &amp; 2010-2014\n<br>Corvette 1997-2013 LS Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">GM Trucks (1999–2014)\n<br>LS-Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LS Swap/Hotrod Series\n<br>LS-Based Engines</a>",
           "_sourceTheme": "mobirise3",
@@ -80385,7 +80404,8 @@
               "color": "#000000"
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "36px"
             },
             "DIV": {
               "color": "#000000"
@@ -80396,72 +80416,9 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<h2>These LTx Engines are Turnkey Upgrades to OEM</h2><p>Nothing lasts forever, not even a classic GM small block. When it's time for something new, consider a turnkey GM crate motor. We specialize in LTx engines: short block and long block. If you seek a quality LT motor for sale, you've come to the right place.</p><p><br></p>",
+          "text": "<h2>Built for Performance. Ready to Install.</h2><p>When your classic small block reaches its limit, upgrade with a turnkey GM LTx crate engine from Golen Engine Service. We specialize in custom-built LT1 and LT4 long blocks, engineered to deliver uncompromising power, reliability, and fitment for modern platforms like the C7 Corvette and 6th Gen Camaro.</p><p><br></p>",
           "_sourceTheme": "mobirise3",
           "_anchor": "content1-1sr"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "70",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/-pFqLIpbABc?rel=0&amp;&showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=-pFqLIpbABc",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.8"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rbd-vette-racecar-4.jpg",
-              "link": "",
-              "alt": "Camaro 1998-2002 & 2010-2014 Corvette 1997-2013 LS Based Engines",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=4cQ3wYmDHdQ",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "LTx Crate Engine for C7 Corvettes and 6th Gen Camaro",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "30px",
-              "color": "#000000"
-            }
-          },
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box5-1ss"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -80476,14 +80433,15 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "left",
+              "color": "#000000"
             },
             "TH": {
               "color": "#000000"
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showSearch": false,
             "rowСount": "3",
             "colCount": "3",
@@ -80502,30 +80460,31 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.4
           },
-          "title": "Camaro 1998-2002 &amp; 2010-2014 / Corvette 1997-2013 LS Based Engines",
+          "title": "High-Powered LTx Crate Engine Options",
           "search": "Search:",
           "info1": "Showing",
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS&nbsp;</th></tr></thead><tbody><tr><td>376ci 550hp LT1-LT4 Long Block</td><td><a href=\"tel:1-800-591-9171\" class=\"text-primary\">Call for pricing</a></td><td>Build Now</td></tr><tr><td>416ci 600-650hp LT1-LT4 Long Block</td><td><a href=\"tel:1-800-591-9171\" class=\"text-primary\">Call for pricing</a></td><td>Build Now</td></tr><tr><td>416ci 850-1200hp Boosted LT1-LT4 Long Block</td><td><a href=\"tel:1-800-591-9171\" class=\"text-primary\">Call for pricing</a></td><td>Build Now</td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>POWER OUTPUT</th><th>APPLICATION</th></tr></thead><tbody><tr><td>376ci LT1-LT4 Long Block</td><td>550 HP</td><td>Street/Performance</td></tr><tr><td>416ci LT1-LT4 Long Block</td><td>600-650 HP</td><td>Aggressive Street/Track</td></tr><tr><td>416ci Boosted LT1-LT4 Long Block</td><td>850-1200 HP</td><td>Forced Induction Builds</td></tr></tbody>",
           "_sourceTheme": "mobirise3",
           "_anchor": "extTable1-1st"
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p><b>What's Included with LTx Crate Engine?\n</b></p><p>GM's LTx block is an engineering masterpiece. Strong yet lightweight, it's the perfect base for building engines for the street, strip, and track.\n</p><p><b><br></b></p><p>We build to order, so if you need something special, call and ask. As a guide, though, we can sell you an LS1, LS2, LQ9, or LS3 — or two variants each of the LS7, LSx, and the Dart SHP Block. We use the Dart SHP to replace the RHS block because the SHP is of much higher quality and will stand up better to the horsepower you can push through the LTx crate engines.\n</p><p><b><br></b></p><p>A complete engine from us consists of the following:\n</p><ul><li><b>LTx Long block -</b> assembled from top-quality American components and includes the heads\n</li><li><b>Intake system - </b>full air intake system, plus performance parts including throttle body, injectors, and fuel rail.\n</li><li><b>Ignition system - </b>Optional add-ons include coils, plugs, and wires\n</li></ul><p><b><br></b></p><p>In addition, every complete LTx crate engine leaves our shop with a one-year, no-mileage limit warranty.\n</p><p><b><br></b></p><p>Golen’s LTx crate engines for sale are engineered to be boost-ready. If you plan on adding a centrifugal or Roots-style supercharger, they'll take the load. We can also custom-build your LTx crate motor for turbo applications.</p><p><b><br></b></p><p><b>\n</b></p><p>With an in-house machine shop, plus balancing facilities and two dynamometers, we're fully equipped to build engines that are powerful and reliable. What's more, blueprinting is always part of the service.\n</p><p><b><br></b></p><p><b>Experience the Power of the LTx</b></p><p>Anyone seeking a complete LS engine for sale almost certainly wants more power. Our turnkey Chevy crate engines will not disappoint. From the 550hp of an LS2 to the 800hp made by a 502ci RHS, these engines deliver outputs to match the beautiful sound they make. Needless to say, when blown, you'll get much, much more.\n</p><p><b><br></b></p><p>Should anyone doubt your LTx crate motor horsepower claims, we've got you covered. The engines we build go through our dyno test service before shipping. That gives you graphs listing horsepower and torque as well as other engine vitals.\n</p><p><b><br></b></p><p><b>Golen Engine Service Advantages\n</b></p><p>We believe our engineering expertise and in-depth knowledge of the LTx engine make for an unrivaled combination. We do our own machining and balancing, and every engine goes through a two-oil change break-in. This ensures your new LTx crate engine is ready to hit the ground running when you receive it.<br></p><p><b><br></b></p><p>When you talk to Golen Engine, you deal directly with our engine specialists. There are no salespeople to get in the way. Plus, when you need something special for your engine, just ask. We have you covered.\n</p><p><b><br></b></p><p><b>The Best LS Crate Engines for Sale\n</b></p><p>It's a bold claim, so we invite you to put us to the test. Read the spec sheets and learn about our skills and what we do. Then, when you're ready for a new engine, call or email, and we’ll get you set up with a powerful LS crate engine..\n</p><p><b><br></b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p>",
+          "text": "<p><i style=\"\">Call for pricing and custom build consultations.</i></p><p><b><br></b></p><p><b>What’s Included in Your LTx Crate Engine</b></p><p>Each long block includes:<br></p><ul><li><b>Assembled LTx block (LT1/LT4): </b>Built with premium American-made components\n</li><li><b>Air intake system:</b> Includes throttle body, injectors, fuel rails\n</li><li><b>Optional ignition upgrades:</b> Coils, plugs, and wiring\n</li></ul><p><br></p><p>Every engine is blueprinted, balanced, and dyno-tested in-house, and covered by a 1-year unlimited mileage warranty.</p><p><b><br></b></p><p><b>Built for Boost. Ready for Power.</b></p><p>Golen LTx crate engines are built boost-ready—ideal for centrifugal, Roots-style, or turbo applications. Our machining tolerances and component strength exceed OEM standards to support high-output builds without compromising longevity.</p><p><br></p><p><b>Advanced Engine Assembly &amp; Testing\n</b></p><p>With a full in-house machine shop, precision balancing equipment, and two engine dynamometers, we ensure:\n</p><ul><li>Consistent horsepower and torque delivery\n</li><li>Complete engine break-in with dual oil changes\n</li><li>Dyno reports with every build (HP, torque, and vital readings)\n</li></ul><p><br></p><p>You don’t just get an engine—you get verified performance and peace of mind.\n</p><p><br></p><p><b>Why Choose Golen Engine?\n</b></p><p>Proven Performance. Personalized Service.<br></p><ul><li><b>In-house expertise:</b> No salespeople—only engine specialists.\n</li><li><b>Custom builds welcome</b>: Tell us your goals, and we’ll spec your build.\n</li><li><b>Decades of experience:</b> Trusted name in high-performance GM engine building.\n</li><li><b>Best-in-class components:</b> We only use what we’d put in our own vehicles.\n</li></ul><p><br></p><p><b>Experience the Best LTx Crate Engines for Sale</b></p><p>Looking for an LS or LTx crate engine that blends brute force with bulletproof reliability? Whether you're building a street monster or track-focused machine, Golen’s precision-built engines deliver. From a naturally aspirated 550hp to a supercharged 1200hp beast, we build power to match your vision.\n</p><p><br></p><p>Ready to upgrade? Contact Golen Engine today to discuss your ideal LT1 or LT4 crate engine build.</p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "left"
             },
             "UL": {
               "font-size": "20px"
@@ -80633,8 +80592,8 @@
     },
     "ltx-engines-hotrods-track-cars.html": {
       "settings": {
-        "title": "LTx Engines for Hot Rods and Custom Track Cars",
-        "meta_descr": "Our LTX crate engines use all new GM Blocks as the base foundation and meticulously machine each engine to ensure both performance and longevity.",
+        "title": "Turnkey LTx Crate Engines for Hot Rod Builds | LT1/LT4 Swaps by Golen",
+        "meta_descr": "Upgrade your hot rod with a turnkey LTx crate engine from Golen Engine. Built to order, boost-ready, and dyno-tested. LT1/LT4 hot rod crate motors with up to 1200 HP.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -80812,7 +80771,7 @@
               "size": 250
             }
           },
-          "title": "LTx Crate Motor for Hot Rods and Track Cars",
+          "title": "Turnkey LTx Crate Engines for Hot Rod Builds",
           "text": "<p><b>HOT RODS</b></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">Camaro 1998-2002 &amp; 2010-2014\n<br>Corvette 1997-2013 LS Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">GM Trucks (1999–2014)\n<br>LS-Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LS Swap/Hotrod Series\n<br>LS-Based Engines</a>",
           "_sourceTheme": "mobirise3",
@@ -80845,72 +80804,13 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<h2>A Turnkey Upgrade for Your Hot Rod\n</h2><p>Nothing lasts forever, not even a classic GM small block. When it's time for something new, consider turnkey LTx crate engines for your next swap. We specialize in LTx crate engines: short block, long block and complete. If you’re looking for a high-quality LT motor for sale, you've come to the right place.</p>",
+          "text": "<h2>Modern Power for Classic Performance</h2><p>Looking to bring your classic build into the modern era? Upgrade your hot rod with a turnkey LTx crate engine from Golen Engine Service. Our precision-built LT1 and LT4 engine packages deliver high-output performance, modern reliability, and easy swap compatibility—whether you're building for the street, strip, or show.</p>",
           "_sourceTheme": "mobirise3",
           "_anchor": "content1-1tr"
         },
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "70",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/ls1-drawing-1920x1275.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.8"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/b0d1725fadddf6d6e95988af11cdcb20-removebg-preview-612x408.png",
-              "link": "",
-              "alt": "LS Swap/Hotrod Series LS-Based Engines",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=4cQ3wYmDHdQ",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "LT Swap/Hotrod Series<br>LT-Based Engines",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "36px"
-            }
-          },
-          "_sourceTheme": "mobirise3",
-          "_anchor": "msg-box5-1ts"
-        },
-        {
-          "_params": {
-            "showTitle": false,
             "showSearch": false,
             "rowСount": "3",
             "colCount": "3",
@@ -80929,13 +80829,13 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.4
           },
-          "title": "Camaro 1998-2002 &amp; 2010-2014 / Corvette 1997-2013 LS Based Engines",
+          "title": "Available LTx Engine Packages for Hot Rods",
           "search": "Search:",
           "info1": "Showing",
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS&nbsp;</th></tr></thead><tbody><tr><td>376ci 550hp LT1-LT4 Long Block</td><td><a href=\"tel:1-800-591-9171\" class=\"text-primary\">Call for pricing</a></td><td>Build Now</td></tr><tr><td>416ci 600-650hp LT1-LT4 Long Block</td><td><a href=\"tel:1-800-591-9171\" class=\"text-primary\">Call for pricing</a></td><td>Build Now</td></tr><tr><td>416ci 850-1200hp Boosted LT1-LT4 Long Block</td><td><a href=\"tel:1-800-591-9171\" class=\"text-primary\">Call for pricing</a></td><td>Build Now</td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>HORSEPOWER RANGE</th><th>APPLICATION</th></tr></thead><tbody><tr><td>376ci LT1-LT4 Long Block</td><td>550 HP</td><td>Street &amp; Cruiser Builds</td></tr><tr><td>416ci LT1-LT4 Long Block</td><td>600-650 HP</td><td>Performance Hot Rods</td></tr><tr><td>416ci Boosted LT1-LT4 Long Block</td><td>850-1200 HP</td><td>High-Boost / Race Builds</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -80948,7 +80848,7 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "left"
             },
             "TH": {
               "color": "#000000"
@@ -80959,11 +80859,11 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>What's Included with the LTX Hot Rod Crate Motor?\n</b></p><p>GM's LTx block is an engineering masterpiece. Strong yet lightweight, it's the perfect base for building engines for the street, strip, and track.\n</p><p><b>\n</b></p><p><br></p><p>We build to order, so if you need something special, call and ask. As a guide, though, we can sell you an LS1, LS2, an LQ9 or LS3 — or, two variants each of the LS7, LTx, and the Dart SHP Block. We use the Dart SHP to replace the RHS block because the SHP is of much higher quality and will stand up better to the horsepower you can push through the LTx crate engines..\n</p><p><br></p><p><b>A complete engine from us consists of the following:\n</b></p><ul><li><b>Long block</b> - This LTx crate motor is assembled from top-quality American components and includes the custom machined heads\n</li><li><b>Intake system</b> - The Golen LTx engines come with a full intake system plus throttle body, injectors, and fuel rail\n</li><li><b>Ignition system</b> - Optional components include an ignition coil, plugs, and wires.\n</li></ul><p><br></p><p>In addition, every complete LTx engine leaves our shop with a one-year, no-mileage limit warranty.\n</p><p><br></p><p>The LTx crate engines for sale here are engineered to be boost-ready. If you plan on adding a centrifugal or Roots-style supercharger, they'll take the load. We can also custom-build an LTx GM engine for turbo applications.\n</p><p><br></p><p>With an in-house machine shop, plus balancing facilities and two dynamometers, we're fully equipped to build engines that are powerful and reliable. What's more, blueprinting is always part of the service.\n</p><p><b><br></b></p><p><b>Hot Rod LSx Crate Engines Built for Power\n</b></p><p>Anyone seeking a complete LT engine for sale almost certainly wants more power. Our turnkey Hot Rod crate engines will not disappoint. From the 550hp of an LS2 to the 800hp made by a 502ci Dart SHP, these engines deliver outputs to match the beautiful sound they make. (Needless to say, when blown, you'll get much, much more).<br></p><p><br></p><p>Should anyone doubt your LTx engine horsepower claims, we've got you covered. The engines we build go through our dyno test service before shipping. That gives you graphs listing horsepower and torque as well as other engine vitals.\n</p><p><br></p><p><b>Golen Engine Service Advantages</b></p><p>We believe our engineering expertise and in-depth knowledge of the LTx crate engine make for an unrivaled combination. We do our own machining and balancing, and every engine goes through a two-oil change break-in.\n</p><p><br></p><p>When you talk to Golen Engine, you deal directly with our engine specialists. There are no salespeople to get in the way. Plus, when you need something special for your Hot Rod engine, just ask.\n</p><p><br></p><p><b>The Best LT Engines for Sale\n</b></p><p>It's a bold claim, so we invite you to put us to the test. Read the spec sheets and learn about our skills and what we do. Then, when you're ready for a new engine, call or email, and we'll talk LTx Swaps.\n</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>Call for pricing and custom quote.</p><p><br></p><p><b>What’s Included in Your LTx Crate Engine\n</b></p><p>Every Golen LTx engine is hand-built using premium American-made components and tailored to your exact needs.\n</p><p><br></p><p>Included Features:\n</p><ul><li><b>Custom Assembled Long Block:</b> Machined LTx heads, forged internals, blueprinted for reliability\n</li><li><b>Intake System:</b> Complete with throttle body, fuel rails, and injectors\n</li><li><b>Optional Ignition Components:</b> Coils, spark plugs, and wiring available\n</li><li><b>1-Year Unlimited Mileage Warranty:</b> Confidence backed by craftsmanship\n</li></ul><p><br></p><p><b>Boost-Ready and Built to Run Hard\n</b></p><p>Thinking of going blown? Every LTx crate engine is engineered for forced induction. Whether you're adding a centrifugal supercharger, a Roots blower, or a turbo setup, our internal components are built to handle big boost and extreme RPM.\n</p><p><br></p><p>Want naturally aspirated performance? We’ve got you covered there, too—with clean, reliable horsepower and torque.\n</p><p><br></p><p><b>Engineered In-House. Dyno-Verified Performance.\n</b></p><p>At Golen Engine, we perform all machining, blueprinting, balancing, and assembly in our New Hampshire facility. Your engine is:<br></p><ul><li>Fully balanced and blueprinted\n</li><li>Broken in with a dual oil change cycle\n</li><li>Dyno-tested with a printed horsepower/torque graph included\n</li></ul><p>We deliver proven performance, not guesses.\n</p><p><br></p><p><b>Why Choose Golen Engine?\n</b></p><p>Hot Rod Engine Experts. No Salespeople—Just Builders.\n</p><ul><li>Speak directly with experienced engine technicians\n</li><li>Custom LTx builds for every type of hot rod or restomod\n</li><li>Over 25 years of GM engine experience\n</li><li>In-house machining, testing, and tuning\n</li></ul><p><br></p><p><b>The Best LT Crate Engines for Sale—Proven on the Street and Track\n</b></p><p>Whether you’re chasing vintage looks with modern power or building a fully custom hot rod from the ground up, Golen’s turnkey LT1/LT4 crate engines bring serious horsepower, advanced engineering, and peace of mind to your build.</p><p><br></p><p>\n</p><p>Ready to spec your engine? Contact Golen Engine today and let’s talk about your project.</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -81075,8 +80975,8 @@
     },
     "ltx-engines-chevy-gm-trucks.html": {
       "settings": {
-        "title": "LTx Engines for 1999-2014 Chevy and GM Trucks",
-        "meta_descr": "Our LTX crate engines for 1999-2014 Chevy and GMC trucks use all new GM blocks as the foundation. Get a proper LT swap for GM truck.",
+        "title": "Turnkey LTx Crate Engines for Chevy Trucks | Golen Engine Builds",
+        "meta_descr": "Upgrade your 1999–2014 GM truck with a turnkey LTx crate engine from Golen. Up to 1,200 HP. Boost-ready, dyno-tested, and backed by a 1-year warranty.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -81254,7 +81154,7 @@
               "size": 250
             }
           },
-          "title": "LTx 1999-2014 Chevy and GMC Truck",
+          "title": "Turnkey LTx Crate Engines for 1999–2014 Chevy Trucks",
           "text": "<p><b>A Turnkey Upgrade from Your Stock LS Engine</b><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">Camaro 1998-2002 &amp; 2010-2014\n<br>Corvette 1997-2013 LS Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">GM Trucks (1999–2014)\n<br>LS-Based Engines</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"blispay-details.html\" data-toolbar=\"-mbrBtnMove\">LS Swap/Hotrod Series\n<br>LS-Based Engines</a>",
           "_sourceTheme": "mobirise3",
@@ -81287,77 +81187,13 @@
             "paddingBottom": "0",
             "bgColor": "#ffffff"
           },
-          "text": "<h2>A Turnkey Upgrade from Your Stock LT Engine</h2><p>Nothing lasts forever, not even a classic GM small block. When it's time for something new, consider a turnkey Chevy crate engine. We specialize in LTx engines for 1999-2014 Chevy trucks: short block, long block, and complete. If you seek a quality LTx crate motor for sale, you've come to the right place.</p><p><br></p>",
+          "text": "<h2>Built to Replace, Engineered to Perform</h2><p>Nothing lasts forever, not even a classic GM small block. When it's time for something new, consider a turnkey Chevy crate engine. We specialize in LTx engines for 1999-2014 Chevy trucks: short block, long block, and complete. If you seek a quality LTx crate motor for sale, you've come to the right place.</p><p><br></p>",
           "_sourceTheme": "mobirise3",
           "_anchor": "content1-1ti"
         },
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "70",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/lssize-614x344_upscaled-1228x688.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.6"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/97-14%20gm%20truck%20ls%20swap-1400x788.png",
-              "link": "",
-              "alt": "GM Trucks (1999–2014) LS-Based Engines",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=4cQ3wYmDHdQ",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "GM Trucks (1999–2014)<br>LT-Based Engines",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_sourceTheme": "mobirise3",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "30px",
-              "color": "#000000"
-            },
-            "P": {
-              "font-size": "20px",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "msg-box5-1tj"
-        },
-        {
-          "_params": {
-            "showTitle": false,
             "showSearch": false,
             "rowСount": "3",
             "colCount": "3",
@@ -81376,13 +81212,13 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.4
           },
-          "title": "Camaro 1998-2002 &amp; 2010-2014 / Corvette 1997-2013 LS Based Engines",
+          "title": "Available LTx Crate Engine Packages",
           "search": "Search:",
           "info1": "Showing",
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>ENGINE SIZE</th><th>BASE PRICE</th><th>SELECT OPTIONS&nbsp;</th></tr></thead><tbody><tr><td>376ci 550hp LT1-LT4 Long Block</td><td><a href=\"tel:1-800-591-9171\" class=\"text-primary\">Call for pricing</a></td><td>Build Now</td></tr><tr><td>416ci 600-650hp LT1-LT4 Long Block</td><td><a href=\"tel:1-800-591-9171\" class=\"text-primary\">Call for pricing</a></td><td>Build Now</td></tr><tr><td>416ci 850-1200hp Boosted LT1-LT4 Long Block</td><td><a href=\"tel:1-800-591-9171\" class=\"text-primary\">Call for pricing</a></td><td>Build Now</td></tr></tbody>",
+          "table": "<thead><tr><th>ENGINE SIZE</th><th>HORSEPOWER RANGE</th><th>APPLICATION</th></tr></thead><tbody><tr><td>376ci LT1-LT4 Long Block</td><td>550hp</td><td>Daily Driver / Performance Street</td></tr><tr><td>416ci LT1-LT4 Long Block</td><td>600-650hp</td><td>Street &amp; Mild Track Builds</td></tr><tr><td>416ci 850-1200hp Boosted LT1-LT4 Long Block</td><td>850-1200hp</td><td>Forced Induction &amp; Racing</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -81395,7 +81231,7 @@
             },
             ".mbr-section-title": {
               "font-size": "30px",
-              "text-align": "center"
+              "text-align": "left"
             },
             "TH": {
               "color": "#000000"
@@ -81410,7 +81246,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>What's Included with Your GM Truck LT Crate Engine\n</b></p><p>GM's LTx block is an engineering masterpiece. Strong yet lightweight, it's the perfect base for building engines for the street, strip and track.\n</p><p><b><br></b></p><p>We build to order, so if you need something special, call and ask. As a guide, though, we can sell you an LS1, LS2, an LQ9 or LS3 — or, two variants each of the LS7, LTx, and the Dart SHP Block. We use the Dart SHP to replace the RHS block because the SHP is of much higher quality and will stand up better to the horsepower you can push through the LSx crate engines.\n</p><p><br></p><p><b>A complete engine from us consists of the following:\n</b></p><ul><li><b>LTx Long block - </b>Golen’s LTx truck engines are assembled from top-quality American components and include our custom machined heads.\n</li><li><b>Intake system - </b>Our crate motors include the full intake itself plus throttle body, injectors, and a fuel rail for a true turnkey LT swap.\n</li><li><b>Ignition system - </b>Optional LTx crate engine add-ons: ignition coil, plugs, and wires.\n</li></ul><p><b><br></b></p><p>In addition, every complete LTx crate engine leaves our shop with a one-year, no-mileage limit warranty.\n</p><p><b><br></b></p><p>The LS engines for sale here are engineered to be boost-ready. If you plan on adding a centrifugal or Roots-style supercharger, they'll take the load. We can also custom-build your LTx crate motor for turbo applications.\n</p><p><b><br></b></p><p>With an in-house machine shop, plus balancing facilities and two dynamometers, we're fully equipped to build engines that are powerful and reliable. What's more, blueprinting is always part of the service.\n</p><p><b><br></b></p><p><b>Experience the Power of an LTx Crate Engine\n</b></p><p>Anyone seeking a complete LT engine for sale almost certainly wants more power. Our turnkey Chevy crate engines will not disappoint. From the 550hp of an LS2 to the 800hp made by a 502ci RHS, these engines deliver outputs to match the beautiful sound they make. (Needless to say, when blown, you'll get much, much more).\n</p><p><b><br></b></p><p>Should anyone doubt your horsepower claims, we've got you covered. The engines we build go through our dyno test service before shipping. That gives you graphs listing horsepower and torque as well as other engine vitals.\n</p><p><b><br></b></p><p><b>Golen Engine Service Advantages\n</b></p><p>We believe our engineering expertise and in-depth knowledge of the LTx engine make for an unrivaled combination. We do our own machining and balancing, and every engine goes through a two-oil change break-in. This is to make sure your LTx crate engine is ready to hit the track running when you receive it.\n</p><p><b><br></b></p><p>When you talk to Golen Engine, you deal directly with our engine specialists. There are no salespeople to get in the way. Plus, when you need something special in or for your LTx engine, just ask.\n</p><p><b><br></b></p><p><b>The Best LT Engines for Sale</b></p><p>It's a bold claim, so we invite you to put us to the test. Read the spec sheets and learn about our skills and what we do. Then, when you're ready for a new engine, call or email and we'll talk.</p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p>",
+          "text": "<p>Call us for pricing and to build your custom package.\n</p><p><br></p><p><b>What’s Included in Every LTx Crate Engine\n</b></p><p>Each Golen crate motor is hand-assembled with top-tier American components, including:\n</p><ul><li><b>Custom-machined LTx Long Block:</b> High-flow CNC heads, forged internals, and balanced rotating assembly\n</li><li><b>Complete Intake System:</b> Includes throttle body, fuel rails, and injectors\n</li><li><b>Optional Ignition Add-ons:</b> Coils, plugs, and wire sets\n</li><li><b>Boost-Ready Internals:</b> Optimized for superchargers and turbo builds\n</li></ul><p>Every engine is dyno-tested and comes with a 1-year, unlimited mileage warranty.\n</p><p><br></p><p><b>Engineered for Boost, Built for Confidence\n</b></p><p>Our LTx crate engines are designed to handle the high demands of centrifugal superchargers, Roots blowers, or turbo systems. Whether you're building a 600hp street truck or a 1,000hp boosted beast, our internals, block prep, and tuning setups are made to handle the pressure—literally.\n</p><p><br></p><p><b>Precision Craftsmanship from Block to Dyno\n</b></p><p>At Golen Engine, all machining, balancing, and assembly happen in-house. We provide:\n</p><ul><li>Blueprinted and balanced assemblies\n</li><li>Dual break-in oil changes\n</li><li>Dyno verification with full performance reports\n</li></ul><p>From the moment you turn the key, you’ll feel the confidence that comes from precision-engineered power.\n</p><p><br></p><p><b>The Golen Advantage\n</b></p><p>Built by Experts, Not Salesmen\n</p><ul><li>Talk directly with engine builders—not middlemen\n</li><li>Custom-tailor your build to your performance goals\n</li><li>Backed by decades of GM engine experience\n</li><li>Proudly built in the USA\n</li></ul><p><br></p><p><b>The Best LTx Crate Engines for Sale — Period\n</b></p><p>We don’t just sell engines—we build confidence. Whether you want the power of a 550hp LT1 or the brute force of a 1,200hp boosted LT4, Golen Engine has a solution that fits your Chevy truck and your performance goals.<br></p><p><br></p><p>Contact Golen Engine today to spec your build and experience the best in modern GM performance.\n</p><p><b><br></b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -81522,8 +81358,8 @@
     },
     "about-our-ltx-engines.html": {
       "settings": {
-        "meta_descr": "We offer a full line of LT1 short and long block engines that range from 400hp to 700hp. Each engine is balanced and blue printed to ensure maximum performance and reliability and they are all covered under our three year warranty.",
-        "title": "About Our LTx Engines",
+        "meta_descr": "Discover Golen’s custom-built LT1 and LT4 engines delivering up to 1,100 HP. Built for reliability, tested for performance, and backed by a 3-year warranty.",
+        "title": "Custom Chevy LT1 & LT4 Engines | Up to 1,100 HP | Golen Engine",
         "order": "87"
       },
       "components": [
@@ -81638,8 +81474,8 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fac51c",
-              "font-size": "80px"
+              "color": "#ffffff",
+              "font-size": "60px"
             },
             ".mbr-section-title SPAN": {
               "color": "#fac51c"
@@ -81653,7 +81489,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
@@ -81671,9 +81507,9 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.2"
           },
-          "title": "CHEVY LTx ENGINES",
+          "title": "Custom-Built Chevy LTx Engines: LT1 &amp; LT4 Performance",
           "text": "2014-UP DIRECT INJECTION",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"lt1_lt4_engines.html#content1-97\" data-toolbar=\"-mbrBtnMove\">LT1/LT4 SHORT BLOCK ENGINES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"lt1_lt4_engines.html#content1-9d\" data-toolbar=\"-mbrBtnMove\">LT1/LT4 LONG BLOCK ENGINES</a>",
           "_sourceTheme": "mobirise3",
@@ -81683,6 +81519,10 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -81691,7 +81531,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "LTx Engine Origins",
+          "title": "Evolution of the Iconic LT1 and LT4 Small Block Engines",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -81706,7 +81546,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>GM first used the LT1 designation in 1970. Cast iron and with heads to match, this performance Small Block made a reported 360 hp and 380 lb-ft. Big numbers for that era!</p><p><br></p><p> \n</p><p>\n</p><p>\n</p><p>\n</p><p>Jump to ’92 and the LT1 re-appears. Now it's on a Small Block designed with reversed-flow cooling for a higher compression ratio. Output was “just” 300 hp and 330 lb-ft, which is why the Chevy LT4 engine emerged.</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>Derived from the LT1, this had special aluminum heads, a more aggressive cam and larger diameter valves with increased lift. Output jumped to 330 hp, but the LT4 engine lasted just one year, being replaced in ’97 by the 345 hp LS1. (If that engine appeals, check out our line of <a href=\"lsx-crate-engines.html\">LSx crate engines</a>.)</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>In 2014, the LT1 stages another comeback. This time, it's all-aluminum and displacing 376 cu in (6.2 liters). It has titanium intake valves, forged rods and pistons, is available with wet or dry sump lubrication, and makes 460 hp and 465 lb-ft.</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>Delicious numbers, but not enough for everyone, so along came a new LT4. As with the previous LT4 engine, this derived from the LT1, but now it gained an Eaton supercharger. Output jumped to 640 hp and 630 lb-ft.</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p><b>Building on Success\n</b></p><p>\n</p><p>The 2014 onward LT1/LT4 engine is impressively engineered and has the strength to deliver more power than Chevy has chosen to extract. Working on the basis that there's no such thing as too much horsepower, we stroke it to 416 cu in and upgrade the internals to make as much as 1,100 hp.\n</p><p>\n</p><p>\n</p><p>\n</p><p>Every engine is custom-built, blueprinted, balanced and dyno'd in our shop. That's why we can put a three-year warranty on each one — we know they won’t disappoint.</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p><b>Justifying an Engine Swap\n</b></p><p>\n</p><p>There are many ways to get more power, but will the engine really be up to those increased loads? Invest in an LT1/LT4 engine and you know it will be. Invest in a stroked Golen Engine LT1/LT4 and you'll get the power your ride deserves. After all, we're offering the best LT4 engine for sale anywhere.</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p><b>Let's Talk\n</b></p><p>\n</p><p>There's a lot to consider before buying a new engine. If you're tempted but want to learn more, <a href=\"contact-us.html\">contact us</a>. We'll explain your options and what's involved so you can make the right decision. Don't put it off any longer; call Golen Engine today!\n</p><p>\n</p><p><br></p>",
+          "text": "<p>The Chevy LT1 engine debuted in 1970, delivering a then-impressive 360 horsepower and 380 lb-ft of torque from its cast iron small block architecture. This engine marked the start of a performance legacy that continues to evolve.<br></p><p><br></p><p>In 1992, GM revived the LT1 name for a redesigned small block featuring reverse-flow cooling for improved compression. Output reached 300 hp and 330 lb-ft, paving the way for the short-lived but enhanced LT4. Introduced with higher lift camshafts, aluminum heads, and larger valves, the 1996 LT4 produced 330 hp before being succeeded by the LS1 in 1997.\n</p><p><br></p><p><b>Modern LT1 and Supercharged LT4 Engines (2014–Present)\n</b></p><p>The LT1 returned in 2014 with a cutting-edge design: 6.2L displacement, aluminum block, titanium intake valves, forged internals, and advanced lubrication options. Performance climbed to 460 hp and 465 lb-ft.\n</p><p><br></p><p>Still, for drivers craving more, the LT4 followed—featuring an Eaton supercharger to unleash 640 hp and 630 lb-ft of torque, making it a true modern muscle benchmark.</p>",
           "_tags": [
             "Theme"
           ],
@@ -81718,6 +81558,94 @@
           },
           "_sourceTheme": "mobirise3",
           "_anchor": "content1-1td"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Golen’s High-Performance LTx Engine Builds",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1uv",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Power Beyond the Factory Specs</b><br></p><p>At Golen Engine Service, we specialize in taking these robust platforms even further. By stroking the LT1 and LT4 to 416 cu in and enhancing every internal component, we produce fully custom builds capable of delivering up to 1,100 horsepower.\n</p><p><br></p><p>Each engine is:\n</p><ul><li>Blueprinted and balanced for precision\n</li><li>Dyno-tested for verified performance\n</li><li>Backed by a 3-year warranty, reflecting our confidence in quality and durability</li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-1uw",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Why Choose a Golen LT1/LT4 Engine?",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1ux",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Reliability Meets Extreme Power</b><br></p><p>Engine swaps require trust. When pushing for extreme power, you need more than just raw horsepower—you need strength and longevity. Our stroked LT1/LT4 engines are built to outperform and outlast, offering peace of mind and uncompromising performance.</p><p><br></p><p>\n</p><p>Whether you're building a street machine or a track beast, Golen provides the best LT4 crate engines for sale—meticulously built, thoroughly tested, and ready to install.\n</p><p><br></p><p><b>Ready to Upgrade? Let’s Talk\n</b></p><p>Investing in a high-performance engine is a big decision. Let our team of experts guide you through the options, explain the process, and help you choose the right LT1 or LT4 build for your vehicle.\n</p><p><br></p><p>Call Golen Engine Service today or use our contact form to start building the power your ride deserves.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-1uy",
+          "_sourceTheme": "mobirise3"
         },
         {
           "_params": {
