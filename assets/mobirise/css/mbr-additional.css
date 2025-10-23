@@ -2957,6 +2957,22 @@ section.form .container {
 #header3-li .mbr-section-subtitle {
   text-align: center;
 }
+#content1-ld P {
+  font-size: 17px;
+  text-align: left;
+  color: #000000;
+}
+#content1-ld UL {
+  font-size: 17px;
+  color: #000000;
+}
+#content1-ld DIV {
+  text-align: center;
+}
+#content1-ld B {
+  font-size: 30px;
+  color: #000000;
+}
 #content1-le P {
   text-align: center;
   font-size: 25px;
@@ -2978,6 +2994,22 @@ section.form .container {
   font-size: 20px;
   color: #000000;
 }
+#content1-lc P {
+  font-size: 17px;
+  text-align: left;
+  color: #000000;
+}
+#content1-lc UL {
+  font-size: 17px;
+  color: #000000;
+}
+#content1-lc DIV {
+  text-align: center;
+}
+#content1-lc B {
+  font-size: 30px;
+  color: #000000;
+}
 #content1-lf P {
   text-align: center;
   font-size: 25px;
@@ -2997,6 +3029,22 @@ section.form .container {
 }
 #content1-l9 UL {
   font-size: 20px;
+  color: #000000;
+}
+#content1-lb P {
+  font-size: 17px;
+  text-align: left;
+  color: #000000;
+}
+#content1-lb UL {
+  font-size: 17px;
+  color: #000000;
+}
+#content1-lb DIV {
+  text-align: center;
+}
+#content1-lb B {
+  font-size: 30px;
   color: #000000;
 }
 #content1-lg P {
@@ -4149,6 +4197,18 @@ section.form .container {
 }
 #menu-1uo .btn {
   font-size: 15px;
+}
+#content5-16z .mbr-section-title,
+#content5-16z p {
+  color: #fff;
+}
+#content5-16z .mbr-section-title {
+  color: #fac51c;
+  text-align: center;
+  font-size: 60px;
+}
+#content5-16z .mbr-section-title H1 {
+  font-size: 60px;
 }
 #content1-tw P {
   font-size: 20px;
@@ -16506,6 +16566,9 @@ section.form .container {
 #menu-1uo .btn {
   font-size: 15px;
 }
+#header2-1m4 {
+  text-shadow: 5px 10px 10px black;
+}
 #header2-1m4 .mbr-section-title {
   color: #ffffff;
   font-size: 48px;
@@ -18473,6 +18536,100 @@ section.form .container {
   font-size: 18px;
 }
 #contacts1-1ui STRONG {
+  font-size: 20px;
+  color: #000000;
+}
+
+
+
+#menu-1v9 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1v9 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#menu-1v9 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1v9 .close-icon::before,
+#menu-1v9 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-1v9 .link,
+#menu-1v9 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1v9 .link {
+  font-size: 0.8rem;
+}
+#menu-1v9 .dropdown-item,
+#menu-1v9 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-1v9 .link:hover,
+#menu-1v9 .dropdown-item:hover,
+#menu-1v9 .link:focus,
+#menu-1v9 .dropdown-item:focus {
+  color: #fac51c;
+}
+#menu-1v9 .link[aria-expanded="true"],
+#menu-1v9 .dropdown-menu {
+  background: #000000;
+}
+#menu-1v9 .nav-dropdown-sm .link:focus,
+#menu-1v9 .nav-dropdown-sm .link:hover,
+#menu-1v9 .nav-dropdown-sm .dropdown-item:focus,
+#menu-1v9 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1v9 .navbar,
+#menu-1v9 .nav-dropdown-sm,
+#menu-1v9 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1v9 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1v9 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-1v9 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1v9 .bg-color.transparent.opened .link:hover,
+#menu-1v9 .bg-color.transparent.opened .link:focus {
+  color: #fac51c;
+}
+#menu-1v9 .link[aria-expanded="true"],
+#menu-1v9 .dropdown-item[aria-expanded="true"] {
+  color: #fac51c!important;
+}
+#menu-1v9 A {
+  font-size: 17px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1v9 .btn {
+  font-size: 15px;
+}
+#header2-1vc .mbr-section-title {
+  font-size: 48px;
+}
+#header2-1vc .mbr-section-text {
+  font-size: 24px;
+}
+#content1-1vd P {
+  font-size: 24px;
+}
+#content1-1vd UL {
+  font-size: 24px;
+}
+#contacts1-1va P {
+  color: #000000;
+  font-size: 18px;
+}
+#contacts1-1va STRONG {
   font-size: 20px;
   color: #000000;
 }
