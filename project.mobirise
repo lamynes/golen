@@ -82333,7 +82333,7 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "showArrow": false,
             "imageSize": "60",
