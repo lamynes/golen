@@ -82326,7 +82326,8 @@
           ],
           "_name": "menu",
           "_sourceTheme": "mobirise3",
-          "_anchor": "menu-1v9"
+          "_anchor": "menu-1v9",
+          "_customCSS": "\ntext-shadow: 2px 10px 15px black;\n.mbr-figure{\n    box-shadow: 10px 10px 15px black;\n}\n"
         },
         {
           "_params": {
@@ -82335,7 +82336,7 @@
             "showButtons": false,
             "inverse": false,
             "showArrow": false,
-            "imageSize": "63",
+            "imageSize": "52",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/20150621-085115-1.jpg-2000x1500.jpg",
             "parallax": true,
@@ -82382,7 +82383,8 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "48px",
-              "color": "#000000"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".mbr-section-text": {
               "font-size": "48px",
@@ -82392,7 +82394,8 @@
               "text-align": "left",
               "font-size": "30px"
             }
-          }
+          },
+          "_customCSS": "\ntext-shadow: 2px 10px 15px black;\n.mbr-figure{\n    box-shadow: 10px 10px 15px black;\n}\n"
         },
         {
           "_params": {
