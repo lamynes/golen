@@ -82337,7 +82337,7 @@
             "showArrow": false,
             "imageSize": "63",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20150621-085115-1.jpg-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -82347,7 +82347,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -82371,7 +82371,7 @@
             }
           },
           "title": "LS Engine Rebuild &amp; Upgrade Services",
-          "text": "<ul><li>Precision</li></ul><ul><li>Power</li></ul><ul><li>Proven Performance.</li></ul>",
+          "text": "<ul><li>Precision</li><li>Power</li><li>Proven Performance</li></ul>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
