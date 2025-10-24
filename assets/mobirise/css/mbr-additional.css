@@ -18615,9 +18615,15 @@ section.form .container {
 }
 #header2-1vc .mbr-section-title {
   font-size: 48px;
+  color: #000000;
 }
 #header2-1vc .mbr-section-text {
-  font-size: 24px;
+  font-size: 48px;
+  color: #000000;
+}
+#header2-1vc .mbr-section-text UL {
+  text-align: left;
+  font-size: 30px;
 }
 #content1-1vd P {
   font-size: 24px;

@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2426,
+    "uniqCompNum": 2427,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -82337,7 +82337,7 @@
             "showArrow": false,
             "imageSize": "63",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20150621-085115-1.jpg-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -82346,7 +82346,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.6"
           },
           "media": {
@@ -82371,7 +82371,7 @@
             }
           },
           "title": "LS Engine Rebuild &amp; Upgrade Services",
-          "text": "Precision. Power. Proven Performance.",
+          "text": "<ul><li>Precision</li></ul><ul><li>Power</li></ul><ul><li>Proven Performance.</li></ul>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -82381,10 +82381,16 @@
           "_anchor": "header2-1vc",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#000000"
             },
             ".mbr-section-text": {
-              "font-size": "24px"
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            ".mbr-section-text UL": {
+              "text-align": "left",
+              "font-size": "30px"
             }
           }
         },
