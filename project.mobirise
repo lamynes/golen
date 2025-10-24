@@ -82334,9 +82334,9 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "showArrow": false,
-            "imageSize": "52",
+            "imageSize": "60",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/20150621-085115-1.jpg-2000x1500.jpg",
             "parallax": true,
@@ -82384,7 +82384,7 @@
             ".mbr-section-title": {
               "font-size": "48px",
               "color": "#000000",
-              "text-align": "right"
+              "text-align": "left"
             },
             ".mbr-section-text": {
               "font-size": "48px",
