@@ -82347,19 +82347,22 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/525388420-18383955211130977-1007632419482360135-n.jpg-526x526.jpg",
+              "link": "",
+              "alt": "Golen Engine",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=rkMAJYuDKSw",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
