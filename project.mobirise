@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2427,
+    "uniqCompNum": 2428,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -82332,8 +82332,8 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
+            "showText": false,
+            "showButtons": true,
             "inverse": false,
             "showArrow": false,
             "imageSize": "52",
@@ -82373,7 +82373,7 @@
           },
           "title": "LS Engine Rebuild &amp; Upgrade Services",
           "text": "<ul><li>Precision</li><li>Power</li><li>Proven Performance</li></ul>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"ls_engine_rebuild.html\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
           "_tags": [
             "Theme"
           ],
@@ -82383,8 +82383,8 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "48px",
-              "color": "#ffffff",
-              "text-align": "left"
+              "color": "#000000",
+              "text-align": "right"
             },
             ".mbr-section-text": {
               "font-size": "48px",
@@ -82393,9 +82393,33 @@
             ".mbr-section-text UL": {
               "text-align": "left",
               "font-size": "30px"
+            },
+            ".btn": {
+              "font-size": "20px"
             }
           },
-          "_customCSS": "\ntext-shadow: 2px 10px 15px black;\n.mbr-figure{\n    box-shadow: 10px 10px 15px black;\n}\n"
+          "_customCSS": "\n.mbr-figure{\n    box-shadow: 10px 10px 15px black;\n}\n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "Precision, Power, Proven Performance",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "header3-1vf"
         },
         {
           "_params": {
@@ -82403,7 +82427,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>At Golen Engines, we don’t just rebuild LS engines—we reimagine them. Whether you're restoring a tired 346ci or craving the torque of a 402ci stroker, our expert team delivers dyno-tested, blueprint-grade builds that dominate the street and track.<br></p><p><br></p><p><b>Why Upgrade Your LS Engine?\n</b></p><p>Your LS engine has potential. We unlock it. From daily drivers to drag-strip beasts, our rebuilds deliver:\n</p><ul><li>Increased horsepower &amp; torque\n</li><li>Enhanced reliability &amp; longevity\n</li><li>Custom specs for your driving style\n</li><li>Dyno-tested performance, guaranteed\n</li></ul><p><br></p><p><b>Our Signature LS Packages\n</b></p><p>Build Type\tDisplacement\tKey Features\tIdeal For\n</p><ul><li>346ci Refresh\t5.7L\tFactory crank, upgraded internals, mild cam\tOEM+ feel with added punch\n</li><li>383ci Stroker\t6.3L\tForged 4.00\" crank, high-flow heads, aggressive cam\tStreet/strip torque monster\n</li><li>402ci LS2 Build\t6.6L\t550+ HP, long-tube headers, custom intake\tHigh-performance applications\n</li><li>Each build is fully customizable—manual or auto, retrofits, gear ratios, and more.\n</li></ul><p><br></p><p><b>Built to Spec. Tested to Win</b>.\n</p><p>Every Golen LS engine is:<br></p><ul><li>Blueprinted for precision\n</li><li>Dyno-tested for real-world results\n</li><li>Assembled by seasoned performance techs\n</li><li>Shipped ready to install or drop-in\n</li><li>Custom Builds Available\n</li></ul><p><br></p><p>Want something wild? We’ll spec it. From boosted setups to track-only monsters, we collaborate with you to engineer the perfect LS solution.\n</p><p><br></p><p><b>Get a Quote Today\n</b></p><p><br></p><p>Ready to transform your LS engine into a powerhouse? Fill out our quick quote form or call us directly—our team is ready to build your next legend.</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+          "text": "<p>At Golen Engines, we don’t just rebuild LS engines—we reimagine them. Whether you're restoring a tired 346ci or craving the torque of a 402ci stroker, our expert team delivers dyno-tested, blueprint-grade builds that dominate the street and track.<br></p><p><br></p><p><b>Why Upgrade Your LS Engine?\n</b></p><p>Your LS engine has potential. We unlock it. From daily drivers to drag-strip beasts, our rebuilds deliver:\n</p><ul><li>Increased horsepower &amp; torque\n</li><li>Enhanced reliability &amp; longevity\n</li><li>Custom specs for your driving style\n</li><li>Dyno-tested performance, guaranteed\n</li></ul><p><br></p><p><b>Our Signature LS Packages\n</b></p><p>Build Type\tDisplacement\tKey Features\tIdeal For\n</p><ul><li>346ci Refresh\t5.7L\tFactory crank, upgraded internals, mild cam\tOEM+ feel with added punch\n</li><li>383ci Stroker\t6.3L\tForged 4.00\" crank, high-flow heads, aggressive cam\tStreet/strip torque monster\n</li><li>402ci LS2 Build\t6.6L\t550+ HP, long-tube headers, custom intake\tHigh-performance applications\n</li><li>Each build is fully customizable—manual or auto, retrofits, gear ratios, and more.\n</li></ul><p><br></p><p><b>Built to Spec. Tested to Win</b>.\n</p><p>Every Golen LS engine is:<br></p><ul><li>Blueprinted for precision\n</li><li>Dyno-tested for real-world results\n</li><li>Assembled by seasoned performance techs\n</li><li>Shipped ready to install or drop-in\n</li><li>Custom Builds Available\n</li></ul><p><br></p><p>Want something wild? We’ll spec it. From boosted setups to track-only monsters, we collaborate with you to engineer the perfect LS solution.\n</p><p><br></p><p><b>Get a Quote Today&nbsp;</b></p><p><br></p><p>Ready to transform your LS engine into a powerhouse? Fill out our quick quote form or call us directly—our team is ready to build your next legend.</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
