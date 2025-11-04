@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#f1dba0",
         "#f2f2f2",
         "#181818",
         "#464646",
         "#232323",
         "#dacaf4",
-        "#606060",
-        "#664a93"
+        "#606060"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -82496,7 +82496,7 @@
           "_styles": {
             "H3": {
               "font-size": "60px",
-              "color": "#ffffff"
+              "color": "#f1dba0"
             },
             "P": {
               "color": "#f3c649",
