@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2428,
+    "uniqCompNum": 2429,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -82338,7 +82338,7 @@
             "showArrow": false,
             "imageSize": "60",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20150621-085115-1.jpg-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ls-sb-full2-1343x694.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -82348,7 +82348,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
