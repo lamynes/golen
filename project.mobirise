@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2430,
+    "uniqCompNum": 2431,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -82335,8 +82335,8 @@
             "showText": false,
             "showButtons": false,
             "inverse": true,
-            "showArrow": false,
-            "imageSize": "60",
+            "showArrow": true,
+            "imageSize": 50,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/ls-sb-full2-1343x694.jpg",
             "parallax": true,
@@ -82348,19 +82348,19 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/487406350-18369185842130977-1496356228606556524-n.jpg-1400x1399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/525388420-18383955211130977-1007632419482360135-n.jpg-526x526.jpg",
               "link": "",
               "alt": "Golen Engine",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=rkMAJYuDKSw",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -82372,33 +82372,20 @@
             }
           },
           "title": "LS Engine Rebuild &amp; Upgrade Services",
-          "text": "<ul><li>Precision</li><li>Power</li><li>Proven Performance</li></ul>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"ls_engine_rebuild.html\" data-toolbar=\"-mbrBtnMove\">REQUEST QUOTE</a>",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
           "_sourceTheme": "mobirise3",
-          "_anchor": "header2-1vc",
+          "_anchor": "header2-1vi",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "48px",
               "color": "#000000",
-              "text-align": "left"
-            },
-            ".mbr-section-text": {
-              "font-size": "48px",
-              "color": "#000000"
-            },
-            ".mbr-section-text UL": {
-              "text-align": "left",
-              "font-size": "30px"
-            },
-            ".btn": {
-              "font-size": "20px"
+              "font-size": "60px"
             }
-          },
-          "_customCSS": "\n.mbr-figure{\n    box-shadow: 10px 10px 15px black;\n}\n"
+          }
         },
         {
           "_styles": {
