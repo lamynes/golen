@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "ls_engine_rebuild.html",
+    "currentPage": "4-6l-1971-1990-jeep-carbureted-engine.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 2431,
+    "uniqCompNum": 2435,
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/golen-logo-sm-1.png",
@@ -2154,7 +2154,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dart-boosted-upscaled-600x539.png",
+              "src": "@PROJECT_PATH@/assets/images/dart-boosted_upscaled-600x539.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10946,7 +10946,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dennyberry2-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dennyberry(2)-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10958,7 +10958,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dennyberry4-600x750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dennyberry(4)-600x750.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10970,7 +10970,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dennyberry1-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dennyberry(1)-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -77644,7 +77644,7 @@
           "media1": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/482115218-18365164501130977-4651266865413603058-n-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/482115218_18365164501130977_4651266865413603058_n-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -77666,7 +77666,7 @@
           "media2": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/482125876-18365164510130977-4922775190509996899-n-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/482125876_18365164510130977_4922775190509996899_n-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -79785,7 +79785,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "text": "<p>For Jeep enthusiasts aiming to enhance the performance of their 1971-1990 Jeep CJ &amp; Wrangler YJ, the 4.6L Carbureted Turnkey Stroker Engine from Golen Engine Service offers a robust and reliable solution. This engine is meticulously designed to provide a significant boost in horsepower and torque, ensuring an exhilarating driving experience both on and off the road.\n</p><p><br></p><p><b>1971-1990 Jeep Engine Specifications:\n</b></p><ul><li>Displacement: 4.6 liters\n</li><li>Configuration: Inline 6-cylinder\n</li><li>Horsepower: Approximately 270 HP\n</li><li>Torque: Around 300 ft-lbs\n</li><li>Compression Ratio: 9.5:1\n</li><li>Fuel System: Holley 350 CFM 2-barrel carburetor with electric choke\n</li><li>Compatibility: Direct bolt-in replacement for 1971-1990 Jeep CJ &amp; Wrangler YJ models\n</li></ul><p><b><br></b></p><p><b>Key Features of this Carbureted Jeep Engine:\n</b></p><ul><li>Performance Intake Manifold: Enhances air intake efficiency for improved combustion.\n</li><li>Performance Tubular Stainless Steel Header: Optimizes exhaust flow, contributing to increased horsepower and torque.\n</li><li>HEI Distributor and Coil Kit: Provides reliable ignition performance.\n</li><li>Performance Spark Plug Wires: Ensure efficient spark delivery.\n</li><li>Flowkooler High Flow Water Pump: Maintains optimal engine temperatures during demanding conditions.\n</li><li>Thermostat Housing and Thermostat: Included for precise temperature regulation.\n</li></ul><p><b><br></b></p><p><b>1971-1990 Carbureted Jeep Engine Benefits:\n</b></p><ul><li>Enhanced Performance: The increased displacement and high-quality components deliver a substantial improvement over the stock 4.2L engine, offering better acceleration and overall drivability.\n</li><li>Seamless Installation: Designed as a direct bolt-in replacement, this engine requires no major modifications, simplifying the upgrade process.\n</li><li>Reliability: Built with premium components and subjected to rigorous dyno break-in and tuning services, ensuring long-lasting performance and dependability.\n</li></ul><p><br></p><p>Improve the performance of your 1971-1990 Jeep CJ or Wrangler YJ.</p>",
+          "text": "<p>For Jeep enthusiasts aiming to enhance the performance of their 1971-1990 Jeep CJ &amp; Wrangler YJ, the 4.6L Carbureted Turnkey Stroker Engine from Golen Engine Service offers a robust and reliable solution. This engine is meticulously designed to provide a significant boost in horsepower and torque, ensuring an exhilarating driving experience both on and off the road.\n</p><p><br></p><p><b>1971-1990 Jeep Engine Specifications:\n</b></p><ul><li>Displacement: 4.6 liters\n</li><li>Configuration: Inline 6-cylinder\n</li><li>Horsepower: Approximately 270 HP\n</li><li>Torque: Around 300 ft-lbs\n</li><li>Compression Ratio: 9.5:1\n</li><li>Fuel System: Holley 350 CFM 2-barrel carburetor with electric choke\n</li><li>Compatibility: Direct bolt-in replacement for 1971-1990 Jeep CJ &amp; Wrangler YJ models\n</li></ul><p><b><br></b></p><p><b>Key Features of this Carbureted Jeep Engine:\n</b></p><ul><li>Performance Intake Manifold: Enhances air intake efficiency for improved combustion.\n</li><li>Performance Tubular Stainless Steel Header: Optimizes exhaust flow, contributing to increased horsepower and torque.\n</li><li>HEI Distributor and Coil Kit: Provides reliable ignition performance.\n</li><li>Performance Spark Plug Wires: Ensure efficient spark delivery.\n</li><li>Flowkooler High Flow Water Pump: Maintains optimal engine temperatures during demanding conditions.\n</li><li>Thermostat Housing and Thermostat: Included for precise temperature regulation.\n</li></ul><p><b><br></b></p><p><b>1971-1990 Carbureted Jeep Engine Benefits:\n</b></p><ul><li>Enhanced Performance: The increased displacement and high-quality components deliver a substantial improvement over the stock 4.2L engine, offering better acceleration and overall drivability.\n</li><li>Seamless Installation: Designed as a direct bolt-in replacement, this engine requires no major modifications, simplifying the upgrade process.\n</li><li>Reliability: Built with premium components and subjected to rigorous dyno break-in and tuning services, ensuring long-lasting performance and dependability.\n</li></ul><p><br></p><p>Improve the performance of your 1971-1990 Jeep CJ or Wrangler YJ.</p><p><br></p><p><b>What Jeep models can use the 4.6L carbureted stroker engine?\n</b></p><p>The 4.6L carbureted stroker engine is specifically designed as a direct replacement for 1971-1990 Jeep CJ and Wrangler YJ models that originally came equipped with the factory carbureted 4.2L inline-six engine. This includes popular models like the CJ-5, CJ-7, CJ-8 Scrambler, and early YJ Wranglers. If your classic Jeep has a carburetor (rather than fuel injection), this turnkey stroker engine will bolt directly into place without requiring fuel system modifications or complex electrical upgrades.\n</p><p><br></p><p><b>How much more power does the 4.6L carbureted engine produce compared to the stock 4.2L?\n</b></p><p>The 4.6L carbureted stroker engine provides a substantial performance increase over the factory 4.2L engine. While the stock carbureted 4.2L typically produced around 112-125 horsepower and 210-220 lb-ft of torque, the 4.6L stroker delivers significantly more horsepower and torque throughout the entire RPM range. This increased displacement translates to noticeably improved acceleration, better hill-climbing ability, enhanced towing capacity, and more confident highway cruising, all while maintaining the classic carbureted simplicity that vintage Jeep owners appreciate.\n</p><p><br></p><p><b>Will the 4.6L carbureted engine work with my existing carburetor and ignition system?\n</b></p><p>Yes, the 4.6L carbureted stroker engine from Golen Engine Service is designed to work seamlessly with your existing carburetor setup and ignition system. As a turnkey replacement for the factory 4.2L carbureted engine, it maintains compatibility with your current fuel delivery system, eliminating the need to convert to fuel injection or purchase expensive new components. This makes the upgrade straightforward and cost-effective while preserving the original character and maintenance simplicity of your classic carbureted Jeep.\n</p><p><br></p><p><b>Is a carbureted 4.6L stroker engine reliable for off-roading and trail use?\n</b></p><p>Absolutely. The 4.6L carbureted stroker engine combines modern performance enhancements with proven carburetor technology that's well-suited for off-road use. Carbureted engines offer simplicity and ease of field repair, which many off-road enthusiasts prefer when venturing into remote areas. The stroker's increased torque provides excellent low-speed crawling capability for technical terrain, while the robust construction ensures reliability during demanding off-road adventures. Additionally, carbureted engines are less susceptible to certain electronic issues that can plague fuel-injected systems in harsh off-road environments.\n</p><p><br></p><p><b>What are the advantages of upgrading to a 4.6L stroker versus rebuilding my original 4.2L engine?\n</b></p><p>Upgrading to a 4.6L stroker engine offers several key advantages over rebuilding your factory 4.2L. First, you gain significantly more displacement (4.6L vs 4.2L), resulting in considerably more power and torque rather than simply restoring factory performance. Second, the stroker features upgraded internal components engineered to handle increased output and provide improved durability. Third, you receive a professionally assembled, dyno-tested turnkey engine backed by Golen Engine Service's warranty, eliminating guesswork and potential rebuild issues. Finally, the installation is straightforward since it's a direct bolt-in replacement that maintains your carburetor setup, giving you modern performance while preserving your classic Jeep's authentic driving experience.\n</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
           "_sourceTheme": "mobirise3",
           "_anchor": "content1-1rh"
         },
