@@ -458,6 +458,285 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
+.extCountdown1 .number,
+.extCountdown2 .number {
+  font-family: 'Oswald', sans-serif;
+}
+.extCountdown1 .period,
+.extCountdown2 .period {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extCountdown1 .dot,
+.extCountdown2 .dot {
+  font-family: 'Oswald', sans-serif;
+}
+.features6 .feature-subtitle {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.features6 .feature-title {
+  font-family: 'Oswald', sans-serif;
+}
+.features6 .description {
+  font-family: 'Oswald', sans-serif;
+}
+.count,
+.counter-title {
+  font-family: 'Oswald', sans-serif;
+}
+.counter-subtitle {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.mbr-iconfont-counters1 {
+  color: #fac51c;
+}
+.extHeader1 .container h3,
+.extHeader2 .container h3,
+.extHeader3 .container h3,
+.extHeader5 .container h3,
+.extHeader6 .container h3,
+.extHeader7 .container h3,
+.extHeader8 .container h3,
+.extHeader9 .container h3,
+.extHeader10 .container h3,
+.extHeader12 .container h3,
+.extHeader13 .container h3,
+.extFeatures10 .container h3 {
+  font-family: 'Oswald', sans-serif;
+}
+.extHeader1 .container p,
+.extHeader2 .container p,
+.extHeader3 .container p,
+.extHeader5 .container p,
+.extHeader6 .container p,
+.extHeader7 .container p,
+.extHeader8 .container p,
+.extHeader9 .container p,
+.extHeader10 .container p,
+.extHeader12 .container p,
+.extHeader13 .container p,
+.extFeatures10 .container p {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extHeader5 .container label {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extHeader9 form p.form-subtitle {
+  font-family: 'Oswald', sans-serif;
+}
+.extHeader11 .container span {
+  font-family: 'Oswald', sans-serif;
+}
+.extHeader11 .container p.element {
+  font-family: 'Oswald', sans-serif;
+}
+.extHeader11 .container p {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extHeader12 h4,
+.extFeatures10 h4 {
+  font-family: 'Oswald', sans-serif;
+}
+.extHeader12 .subtitle,
+.extFeatures10 .subtitle {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extHeader13 h4 {
+  font-family: 'Oswald', sans-serif;
+}
+.extHeader13 .number {
+  font-family: 'Oswald', sans-serif;
+}
+.extHeader13 .period {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extHeader13 .dot {
+  font-family: 'Oswald', sans-serif;
+}
+.extFeatures .feature-title {
+  font-family: 'Oswald', sans-serif;
+}
+.extFeatures .feature-subtitle {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extFeatures .feature-text {
+  font-family: 'Oswald', sans-serif;
+}
+.extFeatures2 h4 {
+  font-family: 'Oswald', sans-serif;
+}
+.extFeatures3 .border-wrap {
+  border-color: #fac51c;
+}
+.extFeatures4 h4,
+.extFeatures6 h4,
+.extFeatures5 .card-title h4 {
+  font-family: 'Oswald', sans-serif;
+}
+.extFeatures4 h5,
+.extFeatures6 h5,
+.extFeatures5 .card-title h5 {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extForm1 h4,
+.extForm2 h4,
+.extForm3 h4,
+.extForm4 h4 {
+  font-family: 'Oswald', sans-serif;
+}
+.extForm1 .subtitle,
+.extForm2 .subtitle,
+.extForm3 .subtitle,
+.extForm4 .subtitle {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extForm2 .container h3 {
+  font-family: 'Oswald', sans-serif;
+}
+.extForm2 .container p {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extPricingTable1 .bottom_line {
+  border-bottom-color: #fac51c;
+}
+.extPricingTable1 .mbr-price small {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extPricingTable1 .mbr-plan-label {
+  background: #fac51c;
+}
+.extCounters2 h4 {
+  font-family: 'Oswald', sans-serif;
+}
+.extCounters2 h5 {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extCounters3 .count {
+  font-family: 'Oswald', sans-serif;
+}
+.extCounters3 .counter-title {
+  font-family: 'Oswald', sans-serif;
+}
+.extCounters3 .counter-subtitle {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extProgressBar .progress-primary[value]::-webkit-progress-value {
+  background-color: #fac51c;
+}
+.extProgressBar .progress-primary[value]::-moz-progress-bar {
+  background-color: #fac51c;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar .progress-primary .progress-bar {
+    background-color: #fac51c;
+  }
+}
+.extProgressBar .title-wrap {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extProgressBarRound .progress-radial .overlay {
+  font-family: 'Oswald', sans-serif;
+}
+.extProgressBar4 .feature-title {
+  font-family: 'Oswald', sans-serif;
+}
+.extProgressBar4 .feature-subtitle {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extTabs1 ul.nav-tabs li a:hover,
+.extTabs2 ul.nav-tabs li a:hover {
+  color: #fac51c;
+}
+.extAccordion1 .panel-heading a {
+  font-family: 'Oswald', sans-serif;
+}
+.extAccordion1 .pseudoPlus,
+.extAccordion2 .pseudoPlus,
+.extToggle1 .pseudoPlus,
+.extAccordion1 .pseudoPlus:after,
+.extAccordion2 .pseudoPlus:after,
+.extToggle1 .pseudoPlus:after,
+.extAccordion1 .pseudoMinus,
+.extAccordion2 .pseudoMinus,
+.extToggle1 .pseudoMinus {
+  background-color: #fac51c;
+}
+.extAccordion2 .panel-heading a,
+.extAccordion3 .panel-heading a,
+.extToggle1 .panel-heading a {
+  font-family: 'Oswald', sans-serif;
+}
+.extProgressBar5 .progress-primary[value]::-webkit-progress-value {
+  background-color: #fac51c;
+}
+.extProgressBar5 .progress-primary[value]::-moz-progress-bar {
+  background-color: #fac51c;
+}
+@media screen and (min-width: 0\0) {
+  .extProgressBar5 .progress-primary .progress-bar {
+    background-color: #fac51c;
+  }
+}
+.extProgressBar5 .title-wrap {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extMsg-box1 .container h3 {
+  font-family: 'Oswald', sans-serif;
+}
+.extMsg-box1 .container p {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extMsg-box1 h4 {
+  font-family: 'Oswald', sans-serif;
+}
+.extMsg-box1 .subtitle {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extMsg-box2 .container span,
+.extMsg-box3 .container span,
+.extMsg-box4 .container span {
+  font-family: 'Oswald', sans-serif;
+}
+.extMsg-box2 .container p,
+.extMsg-box3 .container p,
+.extMsg-box4 .container p {
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+}
+.extProgressBarRound .pie_progress__number {
+  font-family: 'Oswald', sans-serif;
+}
+.extMenu1 span.icon a:hover {
+  color: #fac51c !important;
+}
+.extProgressBar .progress-primary[value]::-ms-fill {
+  color: #fac51c;
+}
+.extProgressBar5 .progress-primary[value]::-ms-fill {
+  color: #fac51c;
+}
+.theme-border {
+  border: 1px solid #fac51c;
+}
 #menu-1uo .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2678,6 +2957,22 @@ section.form .container {
 #header3-li .mbr-section-subtitle {
   text-align: center;
 }
+#content1-ld P {
+  font-size: 17px;
+  text-align: left;
+  color: #000000;
+}
+#content1-ld UL {
+  font-size: 17px;
+  color: #000000;
+}
+#content1-ld DIV {
+  text-align: center;
+}
+#content1-ld B {
+  font-size: 30px;
+  color: #000000;
+}
 #content1-le P {
   text-align: center;
   font-size: 25px;
@@ -2699,6 +2994,22 @@ section.form .container {
   font-size: 20px;
   color: #000000;
 }
+#content1-lc P {
+  font-size: 17px;
+  text-align: left;
+  color: #000000;
+}
+#content1-lc UL {
+  font-size: 17px;
+  color: #000000;
+}
+#content1-lc DIV {
+  text-align: center;
+}
+#content1-lc B {
+  font-size: 30px;
+  color: #000000;
+}
 #content1-lf P {
   text-align: center;
   font-size: 25px;
@@ -2718,6 +3029,22 @@ section.form .container {
 }
 #content1-l9 UL {
   font-size: 20px;
+  color: #000000;
+}
+#content1-lb P {
+  font-size: 17px;
+  text-align: left;
+  color: #000000;
+}
+#content1-lb UL {
+  font-size: 17px;
+  color: #000000;
+}
+#content1-lb DIV {
+  text-align: center;
+}
+#content1-lb B {
+  font-size: 30px;
   color: #000000;
 }
 #content1-lg P {
@@ -3870,6 +4197,18 @@ section.form .container {
 }
 #menu-1uo .btn {
   font-size: 15px;
+}
+#content5-16z .mbr-section-title,
+#content5-16z p {
+  color: #fff;
+}
+#content5-16z .mbr-section-title {
+  color: #fac51c;
+  text-align: center;
+  font-size: 60px;
+}
+#content5-16z .mbr-section-title H1 {
+  font-size: 60px;
 }
 #content1-tw P {
   font-size: 20px;
@@ -16227,6 +16566,9 @@ section.form .container {
 #menu-1uo .btn {
   font-size: 15px;
 }
+#header2-1m4 {
+  text-shadow: 5px 10px 10px black;
+}
 #header2-1m4 .mbr-section-title {
   color: #ffffff;
   font-size: 48px;
@@ -18200,6 +18542,9 @@ section.form .container {
 
 
 
+#menu-1v9 {
+  text-shadow: 2px 10px 15px black;
+}
 #menu-1v9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -18270,6 +18615,9 @@ section.form .container {
 }
 #menu-1v9 .btn {
   font-size: 15px;
+}
+#menu-1v9 .mbr-figure {
+  box-shadow: 10px 10px 15px black;
 }
 #header2-1vi .mbr-section-title {
   color: #000000;

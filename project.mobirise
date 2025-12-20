@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "4-6l-2000-2006-jeep-stroker-engine.html",
+    "currentPage": "ls_engine_rebuild.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2154,7 +2154,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dart-boosted_upscaled-600x539.png",
+              "src": "@PROJECT_PATH@/assets/images/dart-boosted-upscaled-600x539.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10946,7 +10946,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dennyberry(2)-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dennyberry2-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10958,7 +10958,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dennyberry(4)-600x750.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dennyberry4-600x750.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -10970,7 +10970,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dennyberry(1)-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dennyberry1-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -77644,7 +77644,7 @@
           "media1": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/482115218_18365164501130977_4651266865413603058_n-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/482115218-18365164501130977-4651266865413603058-n-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -77666,7 +77666,7 @@
           "media2": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/482125876_18365164510130977_4922775190509996899_n-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/482125876-18365164510130977-4922775190509996899-n-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -82338,7 +82338,7 @@
             "showArrow": true,
             "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ls-sb-full2-1343x694.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/20190326-154401-1.jpg-1271x953.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -82354,7 +82354,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/525388420-18383955211130977-1007632419482360135-n.jpg-526x526.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20190326-153259-1.jpg-715x953.jpeg",
               "link": "",
               "alt": "Golen Engine",
               "linkInNewWindow": false
@@ -82460,7 +82460,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=uN8fNPPGxqQ",
+              "src": "https://www.youtube.com/watch?v=rkMAJYuDKSw",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -82471,8 +82471,8 @@
               "size": 250
             }
           },
-          "title": "<i>EXTREME 416ci</i>",
-          "text": "<p><b>LS3 BUILD</b></p>",
+          "title": "<i>Complete Engine Rebuild</i>",
+          "text": "<p><b>Original LS6 405hp</b></p>",
           "_tags": [
             "Theme"
           ],
