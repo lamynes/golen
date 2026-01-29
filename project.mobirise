@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Golen Engine",
-    "currentPage": "ls_engine_rebuild.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16,7 +16,7 @@
         "subtitleFont": "Oswald",
         "textFont": "Oswald",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true,
         "isRtl": false
       },
@@ -61,7 +61,7 @@
     "imageResize": true,
     "pwa-switcher": false,
     "publishChangesOnly": true,
-    "mbrsiteDomain": "jel7k9et4r",
+    "mbrsiteDomain": "ev5grmf2ri",
     "chatbutton": {}
   },
   "pages": {
